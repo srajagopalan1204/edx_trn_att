@@ -1,0 +1,101 @@
+RoleName,Entity,SOP,SubSOP,Coverage,Entity_norm,SOP_norm,SubSOP_norm,RoleName_norm
+Palco_Serv,PALCO,ISM,01_Service Order Process,ALL,PALCO,ISM,01_Service Order Process,Palco_Serv
+Palco_Serv,PALCO,ISM,02_Rental Process,ALL,PALCO,ISM,02_Rental Process,Palco_Serv
+Palco_Serv,PALCO,ISM,03_Warranty Process,ALL,PALCO,ISM,03_Warranty Process,Palco_Serv
+Palco_Serv,PALCO,ISM,04_ISM Set Up,ALL,PALCO,ISM,04_ISM Set Up,Palco_Serv
+Palco_Serv,PALCO,ISM,06_Register a Unit,ALL,PALCO,ISM,06_Register a Unit,Palco_Serv
+Palco_Serv,PALCO,ISM,07_Tech Mobile,ALL,PALCO,ISM,07_Tech Mobile,Palco_Serv
+Palco_Serv,PALCO,ISM,08_PMA Service Orders,ALL,PALCO,ISM,08_PMA Service Orders,Palco_Serv
+Palco_Serv,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL,PALCO,PURCHASING,01_Purchase Order Entry to Print,Palco_Serv
+Palco_Serv,PALCO,START UP,nan,ALL,PALCO,START UP,nan,Palco_Serv
+Palco_Serv,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,Palco_Serv
+Palco_sales,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL,PALCO,PURCHASING,01_Purchase Order Entry to Print,Palco_sales
+Palco_sales,PALCO,SALES,02_Order Modification,ALL,PALCO,SALES,02_Order Modification,Palco_sales
+Palco_sales,PALCO,SALES,03_Order Review,ALL,PALCO,SALES,03_Order Review,Palco_sales
+Palco_sales,PALCO,SALES,05_Product Management,ALL,PALCO,SALES,05_Product Management,Palco_sales
+Palco_sales,PALCO,SALES,Palco Specific Sales,ALL,PALCO,SALES,Palco Specific Sales,Palco_sales
+Palco_sales,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,Palco_sales
+Palco_other,PALCO,FINANCIAL,ACCOUNTS PAYABLE,ALL,PALCO,FINANCIAL,ACCOUNTS PAYABLE,Palco_other
+Palco_other,PALCO,FINANCIAL,GENERAL LEDGER,ALL,PALCO,FINANCIAL,GENERAL LEDGER,Palco_other
+Palco_other,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL,PALCO,PURCHASING,01_Purchase Order Entry to Print,Palco_other
+Palco_other,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,Palco_other
+PALCO_Mngt,PALCO,FINANCIAL,ACCOUNTS PAYABLE,ALL,PALCO,FINANCIAL,ACCOUNTS PAYABLE,PALCO_Mngt
+PALCO_Mngt,PALCO,FINANCIAL,GENERAL LEDGER,ALL,PALCO,FINANCIAL,GENERAL LEDGER,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,01_Service Order Process,ALL,PALCO,ISM,01_Service Order Process,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,02_Rental Process,ALL,PALCO,ISM,02_Rental Process,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,03_Warranty Process,ALL,PALCO,ISM,03_Warranty Process,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,04_ISM Set Up,ALL,PALCO,ISM,04_ISM Set Up,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,06_Register a Unit,ALL,PALCO,ISM,06_Register a Unit,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,07_Tech Mobile,ALL,PALCO,ISM,07_Tech Mobile,PALCO_Mngt
+PALCO_Mngt,PALCO,ISM,08_PMA Service Orders,ALL,PALCO,ISM,08_PMA Service Orders,PALCO_Mngt
+PALCO_Mngt,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL,PALCO,PURCHASING,01_Purchase Order Entry to Print,PALCO_Mngt
+PALCO_Mngt,PALCO,SALES,02_Order Modification,ALL,PALCO,SALES,02_Order Modification,PALCO_Mngt
+PALCO_Mngt,PALCO,SALES,03_Order Review,ALL,PALCO,SALES,03_Order Review,PALCO_Mngt
+PALCO_Mngt,PALCO,SALES,05_Product Management,ALL,PALCO,SALES,05_Product Management,PALCO_Mngt
+PALCO_Mngt,PALCO,SALES,Palco Specific Sales,ALL,PALCO,SALES,Palco Specific Sales,PALCO_Mngt
+PALCO_Mngt,PALCO,START UP,nan,ALL,PALCO,START UP,nan,PALCO_Mngt
+PALCO_Mngt,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,PALCO_Mngt
+AP Check,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,AP Check
+AP Check,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,AP Check
+AP Check,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Payable,AP Check
+AP Check,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,AP Check
+AP Clerk,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,AP Clerk
+AP Clerk,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,AP Clerk
+AP Clerk,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Payable,AP Clerk
+AP Clerk,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,AP Clerk
+AP Manager,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,AP Manager
+AP Manager,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,AP Manager
+AP Manager,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Payable,AP Manager
+AP Manager,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Receivable,AP Manager
+AP Manager,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,AP Manager
+AR_CLERK,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,AR_CLERK
+AR_CLERK,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,AR_CLERK
+AR_CLERK,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Receivable,AR_CLERK
+AR_CLERK,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,AR_CLERK
+AR_CLERK,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,AR_CLERK
+AR_SUP,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,AR_SUP
+AR_SUP,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,AR_SUP
+AR_SUP,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Receivable,AR_SUP
+AR_SUP,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,AR_SUP
+AR_SUP,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,AR_SUP
+Cashier,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,Cashier
+Cashier,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,Cashier
+Cashier,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Receivable,Cashier
+Cashier,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,Cashier
+Cashier,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,Cashier
+Cashier/Cust Service,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,Cashier/Cust Service
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,Cashier/Cust Service
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Payable,Cashier/Cust Service
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Receivable,Cashier/Cust Service
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,Cashier/Cust Service
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,Cashier/Cust Service
+Cashier/Customer Service,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,Cashier/Customer Service
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,Cashier/Customer Service
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Payable,Cashier/Customer Service
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,Cashier/Customer Service
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,Cashier/Customer Service
+CORE_ACT,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,CORE_ACT
+CORE_ACT,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,CORE_ACT
+CORE_ACT,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Payable,CORE_ACT
+CORE_ACT,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL,Scott Electric Distribution,FINANCIAL,Accounts Receivable,CORE_ACT
+CORE_ACT,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,CORE_ACT
+CORE_ACT,Scott Electric Distribution,FINANCIAL,General Ledger,ALL,Scott Electric Distribution,FINANCIAL,General Ledger,CORE_ACT
+CORE_MNS,Scott Electric Distribution,Basics,nan,ALL,Scott Electric Distribution,Basics,nan,CORE_MNS
+CORE_MNS,Scott Electric Distribution,FINANCIAL,nan,ALL,Scott Electric Distribution,FINANCIAL,nan,CORE_MNS
+CORE_MNS,Scott Electric Distribution,FINANCIAL,Credit,ALL,Scott Electric Distribution,FINANCIAL,Credit,CORE_MNS
+CORE_MNS,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,CORE_MNS
+CORE_MNS,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL,Scott Electric Distribution,OPERATIONS,02_Warehouse,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE,Scott Electric Distribution,PJM,01_Basic Bidding Process,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE,Scott Electric Distribution,PJM,04_Customer Quote Creation,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PURCHASING,nan,ALL,Scott Electric Distribution,PURCHASING,nan,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,CORE_MNS
+CORE_MNS,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,nan,ALL,Scott Electric Distribution,SALES,nan,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,01_Order Entry,ALL,Scott Electric Distribution,SALES,01_Order Entry,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,02_Order Modification,ALL,Scott Electric Distribution,SALES,02_Order Modification,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,03_Order Review,ALL,Scott Electric Distribution,SALES,03_Order Review,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL,Scott Electric Distribution,SALES,04_Order Copying and Conversion,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,05_Product Management,ALL,Scott Electric Distribution,SALES,05_Product Management,CORE_MNS
+CORE_MNS,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL,Scott Electric Distribution,SALES,06_Lookup and Inquiry,CORE_MNS

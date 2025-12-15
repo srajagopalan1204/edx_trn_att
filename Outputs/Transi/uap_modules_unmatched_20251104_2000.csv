@@ -1,0 +1,130 @@
+UAP_Module,UAP_File_stem,UAP_Parent
+05-Move non-stock item to stock item,05-move non-stock item to stock item,05-inventory control
+04-Copy inventory item to single WH,04-copy inventory item to single wh,05-inventory control
+07-Open Help Context App,07-open help context app,08-user interface
+08-Create a PO,08-create a po,01-foundation 101
+04-Print customer order pick ticket,04-print customer order pick ticket,01-foundation 101
+08-Print a Report,08-print a report,08-user interface
+02-Change Layout and Appearance of Grid,02-change layout and appearance of grid,08-user interface
+01-Access Sales Order Entry Window,01-access sales order entry window,08-user interface
+12-Inquire with order info,12-inquire with order info,01-foundation 101
+05-Lookups and Search Features,05-lookups and search features,08-user interface
+13-Inquire without order info,13-inquire without order info,01-foundation 101
+14-Use PO Inquiry to locate PO,14-use po inquiry to locate po,01-foundation 101
+06-Invoice sales order,06-invoice sales order,01-foundation 101
+11-Cost PO to vendor invoice,11-cost po to vendor invoice,01-foundation 101
+07-Apply customer payment to invoice,07-apply customer payment to invoice,01-foundation 101
+03-Global Search,03-global search,08-user interface
+06-Add Note Using Notes Context App,06-add note using notes context app,08-user interface
+09-Personalize Advanced Line Entry View in Order Entry,09-personalize advanced line entry view in order entry,08-user interface
+05-Ship sales order,05-ship sales order,01-foundation 101
+10-Log out of Infor Distribution SX.e and Infor Ming.le,10-log out of infor distribution sx.e and infor ming.le,08-user interface
+03-Use Order Inquiry for sales orders,03-use order inquiry for sales orders,01-foundation 101
+10-Receive a PO,10-receive a po,01-foundation 101
+15-Use global search,15-use global search,01-foundation 101
+01-Log in to SX.e,01-log in to sx.e,01-foundation 101
+09-Print a PO,09-print a po,01-foundation 101
+04-Advanced Search Techniques,04-advanced search techniques,08-user interface
+19-Add Optional Product to Sales Order,19-add optional product to sales order,09-customer orders
+"20-Add Interchangeable, Substitution Products to Order","20-add interchangeable, substitution products to order",09-customer orders
+18-Add Lot Numbered Product to Sales Order,18-add lot numbered product to sales order,09-customer orders
+17-Enter Sales Order for Kits,17-enter sales order for kits,09-customer orders
+01-Set up vendor,01-set up vendor,03-accounts payable
+UAP 101,uap 101,sample content
+06-Print Pre-Receiving Report,06-print pre-receiving report,11-warehouse planning
+UAP Course Starter,uap course starter,resources for authors and administrators
+12-Print Warehouse Transfer Pre-Receiving Report,12-print warehouse transfer pre-receiving report,11-warehouse planning
+16-Review suspense account,16-review suspense account,02-accounting - controller
+17-Post monthly profit,17-post monthly profit,02-accounting - controller
+14-AR Trial Balance Report,14-ar trial balance report,02-accounting - controller
+06-Add GL accounts to vendor,06-add gl accounts to vendor,02-accounting - controller
+08-Enter real-time journal,08-enter real-time journal,02-accounting - controller
+13-Inquire on a journal,13-inquire on a journal,02-accounting - controller
+04-Set up accounts,04-set up accounts,02-accounting - controller
+07-Set up bank and add to vendor,07-set up bank and add to vendor,02-accounting - controller
+10-Enter a batch journal,10-enter a batch journal,02-accounting - controller
+03-Review admin options in GL,03-review admin options in gl,02-accounting - controller
+20-Close the GL,20-close the gl,02-accounting - controller
+18-Generate a tax register,18-generate a tax register,02-accounting - controller
+15-Review balance history,15-review balance history,02-accounting - controller
+09-Set up batch,09-set up batch,02-accounting - controller
+19-Run a financial statement,19-run a financial statement,02-accounting - controller
+11-Process and update batch journal,11-process and update batch journal,02-accounting - controller
+02-Company setup in GL,02-company setup in gl,02-accounting - controller
+12-Enter reverse entry journal,12-enter reverse entry journal,02-accounting - controller
+19-Merge WT RRAR,19-merge wt rrar,11-warehouse planning
+18-Accept WT RRAR,18-accept wt rrar,11-warehouse planning
+13-Receive Warehouse Transfer,13-receive warehouse transfer,11-warehouse planning
+15-Inquire on a Product,15-inquire on a product,11-warehouse planning
+14-Process Exception Receipts,14-process exception receipts,11-warehouse planning
+05 Copy Pricing Record to New Customer,05 copy pricing record to new customer,06-pricing
+23-Update account due to returned check,23-update account due to returned check,04-accounts receivable
+06-Reverse a transaction,06-reverse a transaction,04-accounts receivable
+04 Create Pricing Record Using Quantity Break,04 create pricing record using quantity break,06-pricing
+02-Set up ship-to address,02-set up ship-to address,04-accounts receivable
+27-AR Trial Balance Report,27-ar trial balance report,04-accounts receivable
+02 Set Up a Customer Record,02 set up a customer record,06-pricing
+28-AR Period Analysis Report,28-ar period analysis report,04-accounts receivable
+01 Customer Inquiry Pricing,01 customer inquiry pricing,06-pricing
+01-Set up customer,01-set up customer,04-accounts receivable
+24-AR Open Activity Report,24-ar open activity report,04-accounts receivable
+20-Complete price correction,20-complete price correction,04-accounts receivable
+21-Correct payment posted to wrong account,21-correct payment posted to wrong account,04-accounts receivable
+18-Modify customer invoice,18-modify customer invoice,04-accounts receivable
+26-Print customer statement,26-print customer statement,04-accounts receivable
+07 Load Price Set to PD Mass Maintenance,07 load price set to pd mass maintenance,06-pricing
+16-Apply a COD credit,16-apply a cod credit,04-accounts receivable
+03 Create and Verify a Pricing Record,03 create and verify a pricing record,06-pricing
+22-Process short payment with sales tax write-off,22-process short payment with sales tax write-off,04-accounts receivable
+06 Create Price Record Set,06 create price record set,06-pricing
+01 Run SA Operator Security Violations Report,01 run sa operator security violations report,07-operator security
+09 Import Pricing Data from Excel,09 import pricing data from excel,06-pricing
+03-Create Report Scheduler Queue,03-create report scheduler queue,12-report scheduler and manager
+04-Grant Authority to an Operator,04-grant authority to an operator,07-operator security
+03-Review R and D Operator Record,03-review r and d operator record,07-operator security
+08 Export Pricing Data to Excel,08 export pricing data to excel,06-pricing
+11 Run Expired Pricing Records Report,11 run expired pricing records report,06-pricing
+10 Copy Pricing Record to New Customer,10 copy pricing record to new customer,06-pricing
+04-Create Report Scheduler Job Group,04-create report scheduler job group,12-report scheduler and manager
+02-Review Operator Record,02-review operator record,07-operator security
+01-Set Up Report Schedule Type,01-set up report schedule type,12-report scheduler and manager
+02-Report Scheduler Startup-Shutdown Function,02-report scheduler startup-shutdown function,12-report scheduler and manager
+02-Set up vendor ship-from,02-set up vendor ship-from,03-accounts payable
+16-Enter trade invoice - PO does not match,16-enter trade invoice - po does not match,03-accounts payable
+13-Enter a manual payment,13-enter a manual payment,03-accounts payable
+01-Set Up New Product and Product Line,01-set up new product and product line,10-purchase planning
+28-Set up federal tax 1099,28-set up federal tax 1099,03-accounts payable
+27-Set up vendor history table,27-set up vendor history table,03-accounts payable
+25-Set up misc vendor in AP,25-set up misc vendor in ap,03-accounts payable
+19-Enter trade invoice - partial receipt,19-enter trade invoice - partial receipt,03-accounts payable
+21-Cash Requirements Report,21-cash requirements report,03-accounts payable
+08-Copy PO,08-copy po,10-purchase planning
+25-Run replenishing pre-built kits report,25-run replenishing pre-built kits report,05-inventory control
+13-Verify product adjustment,13-verify product adjustment,05-inventory control
+18-Copy pricing record,18-copy pricing record,05-inventory control
+21-Create product lot numbers,21-create product lot numbers,05-inventory control
+06-Inquire on a product,06-inquire on a product,05-inventory control
+02-Assign Serial Numbers to Orders During Shipping,02-assign serial numbers to orders during shipping,11-warehouse planning
+22-Review IC Month End Processing Report Options,22-review ic month end processing report options,10-purchase planning
+14-View RRAR Records using Demand Center,14-view rrar records using demand center,10-purchase planning
+15-IC Trial Balance of Stock Inventory Report,15-ic trial balance of stock inventory report,05-inventory control
+26-Create work order manually,26-create work order manually,05-inventory control
+19-Change prices and costs on group of products,19-change prices and costs on group of products,05-inventory control
+08-Short-Receive PO,08-short-receive po,11-warehouse planning
+10-Print PO,10-print po,10-purchase planning
+03-Create inventory item in single WH,03-create inventory item in single wh,05-inventory control
+27-Print work orders,27-print work orders,05-inventory control
+02-Create PO,02-create po,10-purchase planning
+11-Receive Corrections,11-receive corrections,11-warehouse planning
+09-Add Product to PO at Receiving,09-add product to po at receiving,11-warehouse planning
+04-Ship Warehouse Transfer,04-ship warehouse transfer,11-warehouse planning
+12-Cancel PO,12-cancel po,10-purchase planning
+10-Receive Serialized Product,10-receive serialized product,11-warehouse planning
+07-Change PO,07-change po,10-purchase planning
+07-Receive PO,07-receive po,11-warehouse planning
+Scott Electric Navigation,scott electric navigation,sample content
+New Customer Registration,new customer registration,sample content
+05-Assign Serial Numbers to Transfer During Shipping,05-assign serial numbers to transfer during shipping,11-warehouse planning
+24-Review setup of pre-built kit item,24-review setup of pre-built kit item,05-inventory control
+22-Track serial products,22-track serial products,05-inventory control
+09-Enter counts,09-enter counts,05-inventory control

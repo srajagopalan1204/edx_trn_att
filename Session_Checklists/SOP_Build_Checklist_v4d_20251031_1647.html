@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>UAP Attainment — Run Checklist (v4d)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body{font-family:Segoe UI,Roboto,Arial,sans-serif;margin:24px;line-height:1.35}
+  h1{margin-bottom:0}
+  .sub{color:#555;margin-top:4px}
+  .card{border:1px solid #e0e0e0;border-radius:10px;padding:16px;margin:14px 0;box-shadow:0 2px 6px rgba(0,0,0,.04)}
+  .step{display:flex;gap:10px;align-items:flex-start;margin:10px 0}
+  .badge{background:#0b5fff;color:white;border-radius:8px;padding:2px 8px;font-weight:600;min-width:28px;text-align:center}
+  .ok{background:#26a269}
+  .warn{background:#e5a50a}
+  .todo{background:#6c757d}
+  code, .mono{font-family:ui-monospace,Menlo,Consolas,monospace}
+  details summary{cursor:pointer;font-weight:600}
+  .small{font-size:12px;color:#666}
+  a.btn{display:inline-block;background:#0b5fff;color:#fff;text-decoration:none;padding:8px 12px;border-radius:8px;margin-top:8px}
+</style>
+</head>
+<body>
+  <h1>UAP Attainment — Run Checklist</h1>
+  <div class="sub">Version v4d • Generated 20251031_1647</div>
+
+  <div class="card">
+    <h2>Run Order</h2>
+
+    <div class="step"><span class="badge todo">1</span>
+      <div>
+        <b>Run UAP export — SR04-Trn_Att</b><br>
+        Save CSV to <span class="mono">Inputs/uap/</span>.
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">2</span>
+      <div>
+        <b>Run UAP export — SR04 Document Tracking Report</b><br>
+        Save CSV to <span class="mono">Inputs/classify/</span> (used for Entity/SOP/SubSOP).
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">3</span>
+      <div>
+        <b>HR master</b> — drop the latest workbook into <span class="mono">emp_mstr/</span> (Current + New Hires + Terms).
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">4</span>
+      <div>
+        <b>Name Matching (UAP ↔ HR)</b> — <i>Required step before build</i>.<br>
+        <details>
+          <summary>Click here to view the quick How‑To summary</summary>
+          <ol>
+            <li>Generate worklist of unmatched names:
+              <div class="mono">python Scripts/name_translate.py</div>
+            </li>
+            <li>Open <span class="mono">Transi/FindName_Resp_Worklist_&lt;ts&gt;.csv</span>, set <b>Flag</b>=U for rows you approve and enter the HR “Name”.</li>
+            <li>Apply updates to the authoritative map:
+              <div class="mono">python Scripts/name_translate.py --update yes --worklist Transi/FindName_Resp_Worklist_&lt;ts&gt;.csv</div>
+            </li>
+            <li>Re‑run the build (step 5). On success, <span class="mono">Transi/FindName.csv</span> will resolve these in future runs.</li>
+          </ol>
+          <div class="small">Tip: Worklist appears in <span class="mono">Transi/</span>; the authoritative file is <span class="mono">Transi/FindName.csv</span>.</div>
+        </details>
+        <a class="btn" href="Spec_ByUser_Requirements_and_ModuleRisk_v1b.docx">Open the full specification (Name Matching §15)</a>
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">5</span>
+      <div>
+        <b>Build Enriched Report</b> — merges UAP + HR (DNR), applies name map, joins classification &amp; requirements.<br>
+        <div class="mono">python Scripts/build_full_report.py --emp-mstr emp_mstr/&lt;HR_File&gt;.xlsx --exclude-dnr yes --classify Inputs/classify/*.csv</div>
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">6</span>
+      <div>
+        <b>Insert Executive Summary</b> (auto):
+        <div class="mono">python Scripts/insert_exec_summary.py --in-xlsx Outputs/Training_Attempts_Report_&lt;ts&gt;.xlsx</div>
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">7</span>
+      <div>
+        <b>Open workbook &amp; review pivots</b> — Report_Card, Last_Active, Module_Risk.<br>
+        Confirm slicers for Entity/SOP/SubSOP and requirement flags (R/N/Z).
+      </div>
+    </div>
+
+    <div class="step"><span class="badge todo">8</span>
+      <div>
+        <b>Archive &amp; distribute</b> — snapshot Outputs, share with leaders.
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Acceptance Checks</h2>
+    <ul>
+      <li>Name Matching completed: <span class="mono">FindName.csv</span> present; worklist empty on rerun.</li>
+      <li>Terms excluded (DNR). No departed users in facts.</li>
+      <li>Module_Risk shows Entity/SOP/SubSOP; pivots render.</li>
+      <li>Last_Active buckets calculate correctly; counts match.</li>
+      <li>Executive_Summary tab present with owner/stewards.</li>
+    </ul>
+  </div>
+
+  <div class="small">© Scott Electric — UAP Attainment. This checklist is generated for operational use. </div>
+</body>
+</html>

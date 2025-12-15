@@ -1,0 +1,157 @@
+.
+├── Config
+│   ├── role_module_map.xlsx
+│   └── settings.json5
+├── Docs
+│   └── SOP_Run_Report.md
+├── Inputs
+│   ├── ModMstr
+│   │   └── SR04 Document Tracking Report_103125_1010.csv
+│   ├── README.md
+│   ├── SR04-Trn_Att_20251029_0905.csv
+│   ├── classify
+│   │   └── role_area_policy_normalized_20251031_1623_v2.csv
+│   └── req_matrix
+│       └── role_module_requirements_seed_20251031_1623_v2.csv
+├── Outputs
+│   ├── DNR_110325_1914.csv
+│   ├── ModMstr
+│   │   ├── module_catalog_20251104_1651.csv
+│   │   └── module_catalog_dupes_20251104_1625.csv
+│   ├── Prev
+│   │   ├── DNR_103125_1914.csv
+│   │   ├── Training_Attempts_Report_103125_1926.xlsx
+│   │   ├── Training_Attempts_Report_20251029_1333.xlsx
+│   │   ├── Training_Attempts_Report_20251029_2049.xlsx
+│   │   ├── Training_Attempts_Report_20251030_1123.xlsx
+│   │   ├── Training_Attempts_Report_20251030_1432.xlsx
+│   │   ├── Training_Attempts_Report_20251030_1524.xlsx
+│   │   ├── Training_Attempts_Report_20251030_1857.xlsx
+│   │   ├── Training_Attempts_Report_20251030_1919.xlsx
+│   │   ├── Training_Attempts_Report_20251103_1456.xlsx
+│   │   ├── Training_Attempts_Report_20251103_1602.xlsx
+│   │   ├── Training_Attempts_Report_20251103_2017.xlsx
+│   │   ├── Training_Attempts_Report_20251104_1215.xlsx
+│   │   ├── Training_Attempts_Report_20251104_1403.xlsx
+│   │   ├── Training_Attempts_Report_20251104_1451.xlsx
+│   │   ├── debug_policy_map_expanded_head_20251104_145143.csv
+│   │   ├── debug_policy_map_final_head_20251104_145145.csv
+│   │   ├── debug_policy_raw_head_20251104_145143.csv
+│   │   ├── debug_policy_unmapped_rows_20251104_145143.csv
+│   │   ├── debug_req_keys_head_20251104_145143.csv
+│   │   ├── unmatched_names_103125_1914.csv
+│   │   ├── unmatched_names_20251029_2049.csv
+│   │   ├── unmatched_names_20251030_1123.csv
+│   │   ├── unmatched_names_20251030_1432.csv
+│   │   ├── unmatched_names_20251030_1524.csv
+│   │   ├── unmatched_names_20251030_1857.csv
+│   │   ├── unmatched_names_20251030_1919.csv
+│   │   ├── unmatched_names_20251103_1456.csv
+│   │   ├── unmatched_names_20251103_1517.csv
+│   │   ├── unmatched_names_20251103_1542.csv
+│   │   ├── unmatched_names_20251103_1602.csv
+│   │   ├── unmatched_names_20251103_2017.csv
+│   │   ├── unmatched_names_20251104_1215.csv
+│   │   ├── unmatched_names_20251104_1413.csv
+│   │   ├── unmatched_names_20251104_1451.csv
+│   │   ├── unmatched_names_20251104_1651.csv
+│   │   └── workbook_preview_20251104_1228.csv
+│   ├── Training_Attempts_Report_20251104_1643.xlsx
+│   ├── Training_Attempts_Report_20251104_1713.xlsx
+│   ├── catalog_unmapped_modules_20251104_1714.csv
+│   ├── unmatched_names_20251104_1643.csv
+│   ├── unmatched_names_20251104_1714.csv
+│   └── workbook_preview_20251104_1417.csv
+├── README.md
+├── Scripts
+│   ├── Prev
+│   │   ├── build_full_report.py
+│   │   ├── build_full_report_worked_manager_misssing.py
+│   │   ├── build_full_report_wrked__and_mngr.py
+│   │   ├── insert_exec_summary.py
+│   │   ├── name_translate.py
+│   │   ├── prev1
+│   │   │   ├── build_full_report.py
+│   │   │   ├── name_translate.py
+│   │   │   └── train_report.py
+│   │   └── train_report.py
+│   ├── build_full_report.py
+│   ├── build_module_catalog.py
+│   ├── insert_exec_summary.py
+│   ├── inspect_excel_preview.py
+│   ├── name_translate.py
+│   ├── name_translate_No_fuzzy.py
+│   ├── name_translate_fuzzy.py
+│   └── train_report.py
+├── Session_Checklists
+│   ├── Prev
+│   │   ├── runcheck_20251029_1333.html
+│   │   ├── runcheck_20251029_2049.html
+│   │   ├── runcheck_20251030_1123.html
+│   │   ├── runcheck_20251030_1432.html
+│   │   ├── runcheck_20251030_1524.html
+│   │   ├── runcheck_20251030_1857.html
+│   │   └── runcheck_20251030_1919.html
+│   ├── SOP_Build_Checklist_v4d_20251031_1647.html
+│   ├── runcheck_20251103_1456.html
+│   ├── runcheck_20251103_1517.html
+│   ├── runcheck_20251103_1542.html
+│   ├── runcheck_20251103_1602.html
+│   ├── runcheck_20251103_2017.html
+│   ├── runcheck_20251104_1215.html
+│   ├── runcheck_20251104_1413.html
+│   ├── runcheck_20251104_1451.html
+│   ├── runcheck_20251104_1643.html
+│   ├── runcheck_20251104_1651.html
+│   ├── runcheck_20251104_1714.html
+│   └── runcheck_latest.html
+├── Transi
+│   ├── FindName.csv
+│   ├── Module_Catalog_20251104_1537.csv
+│   └── Prev
+│       ├── FindName.csv
+│       ├── FindName_Resp_Worklist_103125_1827.csv
+│       ├── FindName_Resp_Worklist_20251030_1503.csv
+│       ├── FindName_Resp_Worklist_20251030_1914.csv
+│       ├── FindName_Worklist_103125_1757.csv
+│       ├── FindName_Worklist_103125_1827.csv
+│       ├── FindName_Worklist_20251030_1159.csv
+│       ├── FindName_Worklist_20251030_1503.csv
+│       ├── FindName_Worklist_20251030_1914.csv
+│       ├── FindName_Worklist_Resp_20251030_1159.csv
+│       └── FindName_Worklist_Resp_20251030_1503.csv
+├── edx_trn_att_repo_seed_103125_1716
+│   ├── Inputs
+│   │   ├── classify
+│   │   │   └── SR04 Document Tracking Report_103125_1010.csv
+│   │   ├── req_matrix
+│   │   │   └── Proposed list of roles and mdule groups by entitiy.xlsx
+│   │   └── uap
+│   │       └── SR04-Trn_Att.csv
+│   ├── README_repo_seed.md
+│   ├── Transi
+│   │   ├── FindName.csv
+│   │   ├── FindName_Worklist_103125_1716.csv
+│   │   ├── by_user_requirements_seed_103125_1716.csv
+│   │   ├── module_classify_from_dtr_103125_1716.csv
+│   │   ├── role_area_policy_normalized_103125_1716.csv
+│   │   └── role_module_requirements_seed_103125_1716.csv
+│   └── emp_mstr
+│       └── All_Employees_New_Hires_Terms_10_29_25.xlsx
+├── edx_trn_att_repo_seed_103125_1716.zip
+├── edx_trn_att_scaffold_20251029_1200.zip
+├── edx_trn_att_update
+│   ├── Scripts
+│   │   ├── build_full_report.py
+│   │   ├── insert_exec_summary.py
+│   │   └── name_translate.py
+│   └── docs
+│       └── README_run.md
+├── edx_trn_att_update_103125_1653.zip
+├── emp_mstr
+│   └── All_Employees_New_Hires_Terms_10_29_25.xlsx
+├── note.md
+├── requirements.txt
+└── tree_110425_1224.txt
+
+28 directories, 127 files

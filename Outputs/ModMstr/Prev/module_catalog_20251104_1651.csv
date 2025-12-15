@@ -1,0 +1,303 @@
+Module,Entity,SOP,SubSOP,Source_File,Generated_Timestamp
+01_Direct Ship with Serials,PALCO,FINANCIAL,ACCOUNTS PAYABLE,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01.2_CSD Incident,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_ISM Incident,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Incident to SRO,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Quick Create SRO,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Add SRO Lines,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Add Operations,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Add Planned Transactions,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Add a Non-Stock,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Print the Non-Stock PO,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Receive the Non-Stock,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11_Schedule Service,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+12_Posting Transactions,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+13_Invoicing in ISM,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+14_Close SRO,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+15_Create SRO Estimate,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+16_Create SRO Callback,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+17_Convert Estimate To SRO,PALCO,ISM,01_Service Order Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create Rental Contract,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Add Rental Items,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Print Rental Agreement,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Add Re Rent Items,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Print Re Rent PO,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Receive Re Rent PO,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Check Out Rental,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Check In Rental,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Close Rental,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11_Change Billing Details,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+12_Receive Vendor RM PO,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+13_Add Freight to Rental,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+14_Print RM PO,PALCO,ISM,02_Rental Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Filter Working Status,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Change Working Status,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Change Operations,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Customer Bill Override,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_ISM Invoice,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Mark Accepted,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Mark Reconciled,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Vendor Invoice Center,PALCO,ISM,03_Warranty Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Partner Set Up,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Partners Schedule Set Up,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Create a New Work Code,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Create an SRO Template,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Create a Warranty Code,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Set Up a Rate,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Contract Rental Template,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Contract Service Template PMA,PALCO,ISM,04_ISM Set Up,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create a Customer Unit,PALCO,ISM,06_Register a Unit,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Add a Warranty to a Unit,PALCO,ISM,06_Register a Unit,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Travel to Site,PALCO,ISM,07_Tech Mobile,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Perform Site Work,PALCO,ISM,07_Tech Mobile,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Add Material,PALCO,ISM,07_Tech Mobile,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Travel Leaving Site,PALCO,ISM,07_Tech Mobile,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Close Appointment,PALCO,ISM,07_Tech Mobile,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Change Status to Call Back,PALCO,ISM,07_Tech Mobile,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create PMA Contract,PALCO,ISM,08_PMA Service Orders,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Add PMA Contract Lines,PALCO,ISM,08_PMA Service Orders,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Generate SRO,PALCO,ISM,08_PMA Service Orders,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Bill Contract,PALCO,ISM,08_PMA Service Orders,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create Purchase Order,PALCO,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Adjust Line Items,PALCO,SALES,02_Order Modification,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Enter Stock Sales Order and Change Line Items,PALCO,SALES,02_Order Modification,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Manually Apply Hold and Approve Held Order,PALCO,SALES,02_Order Modification,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Suspend an Order,PALCO,SALES,02_Order Modification,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Review the Shopping List,PALCO,SALES,03_Order Review,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Use Order Inquiry to Search for Orders,PALCO,SALES,03_Order Review,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Add Catalog Product to Order,PALCO,SALES,05_Product Management,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create a Blanket Order,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Add Items,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Add Lump Sum,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Create a Release,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Run OEEPC,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Print Pick Ticket,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Shipping Feedback,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Make a Product Serialized,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Create Order as Needed Non Stock,PALCO,SALES,Palco Specific Sales,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Order Inquiry,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Print Pick Ticket,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Shipping Feedback for Start Up,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Create a Start Up Incident,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Add Start Up Notes,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Add Line,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Schedule,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Register Unit,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Order Inquiry Using a Serial Number,PALCO,START UP,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Test for Subi,SE,,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+CSD Basics,SE,Basics,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Log into UAP,SE,Basics,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 2 | Accounts Payable,SE,FINANCIAL,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 2 | Accounts Receivable,SE,FINANCIAL,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create Invoice Process Group,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Enter and Process Expense Invoice,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Inquire on Vendor Info,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+"04_Change Vendor Invoice - Due Date, Discount Rate",SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Set Up Split Payment for Invoice in Entered Stage,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Change Payment to Split Payment Schedule,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Perform a Reversal,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Enter a Credit Memo,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Enter a Misc Credit,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Enter a Debit Memo,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+12_Create New Trade Vendor,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+13_Enter Trade Invoice - PO Matches,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+14_Enter Trade Invoice - PO Price Adjustment,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+14_Enter Trade Invoice - Price Deduction,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+15_Enter Trade Invoice - Add On Charges,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+16_Enter Trade Invoice - Reconcile Against Multiple POs,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+17_Enter Trade Invoice - Partial Receipt (Short Pay),SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+18_Enter Trade Invoice - PO Correction,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+19_Select Invoices for Payment,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+20_AP Vendor Entry Pay Invoice Due Report,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+21_Print Checks,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+23_Enter Invoice for Misc Vendor,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+24_Process Payable Invoice,SE,FINANCIAL,Accounts Payable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Customer Setup,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Enter an Invoice,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Price Correction,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Run (ARRO) AR Open Activity Report,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Enter a Credit Memo,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Run ARER Roll Balances asses Service Charge,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Ship-to Setup,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Run Customer Statement (ARES),SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Short Pay with Sales Tax,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_(ARRT) Run Trial Balance Report,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Apply Payment with Debit Memo,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Returned Check,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_(ARRP) Period Analysis Report,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Apply Payment to Invoice,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Customer Invoice Modification,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Apply Payment to Multiple Invoices,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Run AR Year End Processing Report,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Apply Payment to Oldest Invoice,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Process Short Payment,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Apply Short Payment with Write-Off,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Apply Payment with Unearned Discount,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11_Apply Payment Using Split Check,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+12_Apply Credit to Invoice,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+13_Apply Account Credits to Invoice,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+15_Apply Misc Cash,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+16_Customer Statement Print,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+17_Payment Reversal,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+18_Process Overpayment,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+19_Refund Customer via Check,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+21_Review Journal,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+22_Run Credit Card Receive on Account,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+23_Invoice Processing,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+24_Tax Adjustment Correction,SE,FINANCIAL,Accounts Receivable,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Release Credit Hold,SE,FINANCIAL,Credit,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+"02_Customer Inquiry with Past Due Invoices, Large Dollar Amount Balance",SE,FINANCIAL,Credit,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Run the Aging Report,SE,FINANCIAL,Credit,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Perform a Credit Review on a Customer Account,SE,FINANCIAL,Credit,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Create New Vendor,SE,FINANCIAL,General Ledger,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Account Inquiry and Report,SE,FINANCIAL,General Ledger,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 2 | Warehouse Planning,SE,OPERATIONS,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+002_INQUIRE ON PRODUCT AVAILABILITY,SE,OPERATIONS,00_Basic Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Product Inquiry,SE,OPERATIONS,00_Basic Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Order Inquiries,SE,OPERATIONS,00_Basic Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+"01_Ship Sales Order, Include Addons",SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Run either the IC Entry Cycle Count Report or the IC Entry Physical Count Report,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Short Receive PO,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Print Count Sheets,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Enter the Count into CSD Using Count Entry Function,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Perform Shipping Feedback to Ship Order,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Run the Reconciliation Report,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Edit Entered Counts,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Run WT Entry Recommended Replenishment Action Report,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Unship an Order,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Run Physical Count Sheet,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09.3_Run Results Report in ICEPW,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Add Items to a Count During Count Entry,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11_Adjust Inventory to Unavailable,SE,OPERATIONS,02_Warehouse,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Verify Customer Eligibility,SE,PJM,01_Basic Bidding Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Establish Job Entry,SE,PJM,01_Basic Bidding Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_View Job in Bidding Calendar,SE,PJM,01_Basic Bidding Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Add Bidder Details to Project Entry,SE,PJM,01_Basic Bidding Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Add Vendor Details to Project Entry,SE,PJM,01_Basic Bidding Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Add Customer Documents to a Job Entry,SE,PJM,01_Basic Bidding Process,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Organize Vendor Quote in Excel for Upload,SE,PJM,04_Customer Quote Creation,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Create the Customer Quote,SE,PJM,04_Customer Quote Creation,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Email Customer Quote,SE,PJM,04_Customer Quote Creation,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_OEET Entering a Stock Customer Sales Order,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_SASTT Creating a Price Class,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_ SASTT - Product Price Type & PDSP -Customer Type/Product Type,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_ICSL - Creating a Product Line,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_ ICSP & ICSW - Creating a Stock Item,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Creating a Stock Item - ICSP & ICSW,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_ICSC - Creating a Catalog Item,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08A_ICSEC - Barcode - UPC,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08B_Interchange - Keywords,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08C_ICSEC Substitute,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08D_ICSEC Supersede,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08E_ICSEC Option,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08F_ICSEC Upgrade,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08G_ICSEC Customer Part Number,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08H_ICSEC Vendor Part Number,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09A_Remnants - Creating a Piece Item,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09B_Reels - Creating a Rack Item,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10A_PDEC - Individual Stock Item Price Update Manually,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10B_ICSC - Individual Catalog Item Price Update Manually,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11A_ PDSP - Level 1 - Customer/Product,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11B_PDSP - Level 2 - Customer/Product Price Type,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11C_PDSP - Level 2 - Customer/Product Line,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11D_PDSP - Level 2 - Customer/Product Category,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11E_PDSP - Level 3 - Customer Type/Product (SPEC.),SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11F_PDSP - Level 3 - Customer Type/Product (MASTER),SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11G_PDSP - Level 5 - Customer,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11H_PDSP -  Level 6 - Customer Type,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11I_PDSP - Level 7 - Product (PROMOTION),SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11J_PDSP -  Level 8 - Product Price Type (PROMOTION),SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+12_Convert a Quote to a Pricing Record,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+13_PDRX - Pricing Records Expiring Report,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+14_PDEM - Price and Discounting Mass Maintenance Entry,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+15A_SAAMM - Mass Maintenance Export,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+15B_SAAMM - Mass Maintenance Import,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+16_PDSF - Future Price/Cost Change Update,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+17_PDAPP - PD Administrator Price/Costs Update,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 2 | Pricing,SE,PRICING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 2 | Purchasing,SE,PURCHASING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+TEST WITH HELEN,SE,PURCHASING,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Add Items to PO and Finish It,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03.5_Perform Lookups in a PO,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Purchase Order Apply Add Ons and Discounts,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04.5_Create Warehouse Transfer,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Finish the Purchase Order,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Locate PO Using PO Inquiry,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Change PO,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Copy PO,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Create Quote PO with Notes and Comments,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Print PO,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Apply Hold and Approve Held PO,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11_Cancel PO,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+13_Add Items Using Easy Line Entry,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+14_Add Items to Purchase Order Using Advanced Line Entry,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+15_Add Nonstock Items to a Purchase Order Using Advanced Line Entry,SE,PURCHASING,01_Purchase Order Entry to Print,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Generate RRAR,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_View RRAR Records,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Review and Modify RRAR Record,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Review Line Item Details,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Update or Validate Quantities Needed,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Accept Replenishments,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Adjust RARR Quantities Using Increase-Decrease Function in PO Demand Center,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Consolidate Multiple RRARS for Different Vendor Product Lines or Warehouses,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+11_Merge POs_Print POs_Genrerate Exception Report,SE,PURCHASING,02_Replinishment Action Report Tasks,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Set Up New Product Line,SE,PURCHASING,03_Basic Product Line Setup,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Purchase Order Submit PO to Vendor,SE,PURCHASING,04_PO Print to Receipt,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Purchase Order Maintain PO,SE,PURCHASING,04_PO Print to Receipt,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Acknowledge Purchase Order,SE,PURCHASING,04_PO Print to Receipt,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Initiate Vendor Return,SE,PURCHASING,05_Return Merchandise PO to Shipment,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Print PO Expedite Report,SE,PURCHASING,06.5_Run Reports,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Print Inventory Turnover Report,SE,PURCHASING,06.5_Run Reports,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Print Fill Report by Class Report,SE,PURCHASING,06.5_Run Reports,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Print Gap Report,SE,PURCHASING,06.5_Run Reports,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Print Surplus Stock Report,SE,PURCHASING,06.5_Run Reports,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_View Consolidation Info in Demand Center,SE,PURCHASING,06_Demand Tasks (DEM),/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Merge POs_Print POs_Generate Exception Report,SE,PURCHASING,06_Demand Tasks (DEM),/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Generate IC Admin Review Cycle Adjustment Report,SE,PURCHASING,06_Demand Tasks (DEM),/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Generate IC Admin Inventory Classification and Rank Report,SE,PURCHASING,06_Demand Tasks (DEM),/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Review Exception Processing Center Screen,SE,PURCHASING,06_Demand Tasks (DEM),/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Manual Entry of a Warehouse Transfer,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Approving a Warehouse Transfer That is on Hold,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Run the WTERR,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Maintaining a Warehouse Tranfer,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Notes on a Warehouse Transfer,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Canceling a Warehouse Transfer,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Tying a Warehouse Transfer to a Customer Order,SE,PURCHASING,07_Warehouse Transfers,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_How to Use the Quote Modification,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Determining Extra Stock to Order,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Blanket POs,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Accumulative POs,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Returning a Core Product,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Returning an Acknowledged PO to the Printed Stage,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Tying a PO RM to a Sales Order Line,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+08_Correcting an Over Under Receipt,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+09_Correcting a Wrong Product Receipt,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+10_Correcting a Wrong Cost Receipt,SE,PURCHASING,08_Miscellaneous,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 2 | Sales,SE,SALES,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+sales order example,SE,SALES,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Enter Stock Customer Sales Order,SE,SALES,01_Order Entry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Enter a Quote Order,SE,SALES,01_Order Entry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+03_Enter a Direct Order,SE,SALES,01_Order Entry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_Enter a Counter Sales Order and Record Tender Payments,SE,SALES,01_Order Entry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+06_Enter a Non-Stock Product on an Order,SE,SALES,01_Order Entry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+07_Enter a Return Order,SE,SALES,01_Order Entry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Add Items to Stock Customer Sales Order,SE,SALES,02_Order Modification,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+"04_Add Comments, Notes to Customer Sales Order",SE,SALES,02_Order Modification,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+"02_Review Taxes, Totals, Payments for Stock Customer Sales Order",SE,SALES,03_Order Review,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+04_View Units of Measure,SE,SALES,03_Order Review,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Copy Quote Order to a Stock Order,SE,SALES,04_Order Copying and Conversion,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Copy Customer Sales Order,SE,SALES,04_Order Copying and Conversion,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+05_Add Special Order Product to Sales Order,SE,SALES,05_Product Management,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Perform Lookups in Customer Sales Order,SE,SALES,06_Lookup and Inquiry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+02_Use Order Inquiry to Search Orders,SE,SALES,06_Lookup and Inquiry,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Wire Order Placement,SE,SALES,07_Wire Order Placement,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Process Core as Return Merchandise,SE,SALES,BATTERY,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+01_Enter Stock Customer Sales Order -Test,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+APS100 Supplier Invoice Record,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+CREATE INCIDENT,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Helen's Course,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Introduction to CSD,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+LMS Exercise Test,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Quiz Level 1,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+Shims Stock Order Inquiry 2,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651
+create a stock order,SE,z_PLAYGROUND,,/workspaces/edx_trn_att/Inputs/ModMstr/SR04 Document Tracking Report_103125_1010.csv,20251104_1651

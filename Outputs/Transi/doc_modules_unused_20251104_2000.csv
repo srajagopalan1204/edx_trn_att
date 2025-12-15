@@ -1,0 +1,84 @@
+Name,File Name,Parent.Name,Parent.Context
+01_Set Up New Product Line,CO1_SE_SOP_PUR_PRD_OPM_01_Set Up New Product Line_BW_KC (1).udc,03_Basic Product Line Setup,CSD > Document Library > PURCHASING > 03_Basic Product Line Setup
+14_Print RM PO,14_Print RM PO (1).udc,02_Rental Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+15A_SAAMM - Mass Maintenance Export,15A_SAAMM_MASS_MAINTENANCE_EXPORT.udc,PRICING,CSD > Document Library > PRICING
+15_Create SRO Estimate,C03_PPS_AA15_Create_SRO_Estimate_07012025_1500_TD (1).udc,01_Service Order Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+08C_ICSEC Substitute,08C_ICSEC_SUBSTITUTE.udc,PRICING,CSD > Document Library > PRICING
+17_Convert Estimate To SRO,01 17 Convert Estimate To SRO UAP.udc,01_Service Order Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+13_PDRX - Pricing Records Expiring Report,13_PDRX_PRICING_RECORDS_EXPIRING_REPORT.udc,PRICING,CSD > Document Library > PRICING
+Helen's Course,Helens Course.ulc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+09_Vendor Invoice Center,09_Vendor Invoice Center.udc,03_Warranty Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+05_Customer Bill Override,05_Customer Bill Override.udc,03_Warranty Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+06_Creating a Stock Item - ICSP & ICSW,06_Creating a Stock Item - ICSP & ICSW.udc,PRICING,CSD > Document Library > PRICING
+14_Enter Trade Invoice - PO Price Adjustment,14_Enter Trade Invoice - PO Does Not Match (1).udc,02_Basic AP Process,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+TEST WITH HELEN,TEST WITH HELEN 2.udc,PURCHASING,CSD > Document Library > PURCHASING
+02_Short Receive PO,CO1_SE_PO_Management_OPM_02_Short Receive PO_KC.udc,03_Receiving,CSD > Document Library > OPERATIONS > 02_Warehouse > 03_Receiving
+08D_ICSEC Supersede,08D_ICSEC_SUPERSEDE.udc,PRICING,CSD > Document Library > PRICING
+06_ ICSP & ICSW - Creating a Stock Item,06_ ICSP&ICSW_CREATING_A_STOCK_ITEM (1).udc,PRICING,CSD > Document Library > PRICING
+11J_PDSP -  Level 8 - Product Price Type (PROMOTION),11J_PDSP_LEVEL8_PRODUCT_PRICE_TYPE(PROMOTION).udc,PRICING,CSD > Document Library > PRICING
+APS100 Supplier Invoice Record,APS100 Supplier Invoice Record.udc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+16_Create SRO Callback,16_Create SRO Callback.udc,01_Service Order Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+11H_PDSP -  Level 6 - Customer Type,11H_PDSP_LEVEL6_CUSTOMER_TYPE.udc,PRICING,CSD > Document Library > PRICING
+17_PDAPP - PD Administrator Price/Costs Update,17_PDAPP_PD_ADMINISTRATOR_PRICE-COST_UPDATE.udc,PRICING,CSD > Document Library > PRICING
+08_Contract Rental Template,CO3_PPS_EE08_Contract Rental Template_KC.udc,04_ISM Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+16_PDSF - Future Price/Cost Change Update,16_PDSF_FUTURE_PRICE-COST_CHANGE_UPDATE.udc,PRICING,CSD > Document Library > PRICING
+01_Direct Ship with Serials,CO3_PPS_Direct Order Enter Serial Number During AP Invoice_KC.udc,ACCOUNTS PAYABLE,CSD > Document Library > PALCO POWER SYSTEMS > FINANCIAL > ACCOUNTS PAYABLE
+09A_Remnants - Creating a Piece Item,09A_REMNANTS_CREATING_A_PIECE_ITEM.udc,PRICING,CSD > Document Library > PRICING
+03_Create a New Work Code,CO3_PPS_EE03_Work Code Setup_KC_TS.udc,04_ISM Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+11G_PDSP - Level 5 - Customer,11G_PDSP_LEVEL5_CUSTOMER.udc,PRICING,CSD > Document Library > PRICING
+09_Print the Non-Stock PO,09_Print the Non-Stock PO.udc,01_Service Order Process,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+05_Customer Invoice Modification,CO1_SE_AR Maint-OP5_Customer Invoice Modification_KC.udc,03_Account Adjustments and Corrections,CSD > Document Library > FINANCIAL > Accounts Receivable > 03_Account Adjustments and Corrections
+05_Email Customer Quote,05_Email Customer Quote.udc,04_Customer Quote Creation,CSD > Document Library > PJM > 04_Customer Quote Creation
+08E_ICSEC Option,08E_ICSEC_OPTIONS.udc,PRICING,CSD > Document Library > PRICING
+11A_ PDSP - Level 1 - Customer/Product,11A_ PDSP_LEVEL1_CUSTOMER-PRODUCT.udc,PRICING,CSD > Document Library > PRICING
+Test for Subi,test for subi.udc,Document Library,CSD > Document Library
+11D_PDSP - Level 2 - Customer/Product Category,11D_PDSP_LEVEL2_CUSTOMER-PRODUCT_CATEGORY.udc,PRICING,CSD > Document Library > PRICING
+08A_ICSEC - Barcode - UPC,08A_ICSES_BARCODE (1) (1).udc,PRICING,CSD > Document Library > PRICING
+03_Generate SRO,CO3_PPS_KK03_Generate SRO_KC_TS (1).udc,08_PMA Service Orders,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 08_PMA Service Orders
+07_Shipping Feedback,06_Shipping Feedback.udc,Palco Specific Sales,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+02_Add PMA Contract Lines,CO3_PPS_KK_02_Adding PMA Contract Lines_BW_KC.udc,08_PMA Service Orders,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 08_PMA Service Orders
+01_Enter Stock Customer Sales Order -Test,01_Enter Stock Customer Sales Order -Test.udc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+03_Run the WTERR,CO1_SE_SOP_PUR_WHT_OPM_03_Run the WTERR_BW_KC.udc,07_Warehouse Transfers,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+14_Enter Trade Invoice - Price Deduction,14_Enter Trade Invoice - PO Does Match (1).udc,02_Basic AP Process,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+09B_Reels - Creating a Rack Item,09B_REELS_CREATING_A_RACK_ITEM.udc,PRICING,CSD > Document Library > PRICING
+08H_ICSEC Vendor Part Number,08H_ICSEC_VENDOR_PART_NUMBER.udc,PRICING,CSD > Document Library > PRICING
+08B_Interchange - Keywords,08B_ICSEC_INTERCHANGE.udc,PRICING,CSD > Document Library > PRICING
+07_Add Customer Documents to a Job Entry,07_Add Customer Documents to a Job Entry.udc,01_Basic Bidding Process,CSD > Document Library > PJM > 01_Basic Bidding Process
+12_Convert a Quote to a Pricing Record,12_CONVERT_A_QUOTE_TO_A_PRICING_RECORD.udc,PRICING,CSD > Document Library > PRICING
+11F_PDSP - Level 3 - Customer Type/Product (MASTER),11F_PDSP_LEVEL3_CUSTOMER_TYPE-PRODUCT(MASTER).udc,PRICING,CSD > Document Library > PRICING
+07_Set Up a Rate,CO3_PPS_EE07_Set Up a Rate_KC (1).udc,04_ISM Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+05_Close Appointment,CO3_PPS_FF05_Close Appointment_KC.udc,07_Tech Mobile,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+03_Add Lump Sum,03_Add Lump Sum.udc,Palco Specific Sales,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+10A_PDEC - Individual Stock Item Price Update Manually,10A_PDEC_INDIV_STOCK_ITEM_PRICE_UPDATE_MANUALLY.udc,PRICING,CSD > Document Library > PRICING
+08F_ICSEC Upgrade,08F_ICSEC_UPGRADE.udc,PRICING,CSD > Document Library > PRICING
+04_ SASTT - Product Price Type & PDSP -Customer Type/Product Type,04_SASTT_PT_&_PDSP_CT-PT.udc,PRICING,CSD > Document Library > PRICING
+10_Add Items to a Count During Count Entry,CO1_SE_Count Cycle_OPM_10_Add Items to a Count During Count Entry_KC.udc,01_Physical or Cycle Count to Count Update,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+LMS Exercise Test,EXERCISE OE_01 ENTER STOCK CUSTOMER SALES ORDER.docx,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+CREATE INCIDENT,CREATE INCIDENT.udc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+11E_PDSP - Level 3 - Customer Type/Product (SPEC.),11E_PDSP_LEVEL3_CUSTOMER_TYPE-PRODUCT(SPEC.).udc,PRICING,CSD > Document Library > PRICING
+Shims Stock Order Inquiry 2,Shims Stock Order Inquiry 2.udc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+01_OEET Entering a Stock Customer Sales Order,01_OEET_ENTERING_A_STOCK_CUSTOMER_SALES_ORDER (1).udc,PRICING,CSD > Document Library > PRICING
+04_Travel Leaving Site,CO3_PPS_FF04_Travel Leaving Site_KC (1) (1).udc,07_Tech Mobile,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+11B_PDSP - Level 2 - Customer/Product Price Type,11B_PDSP_LEVEL2_CUSTOMER-PRODUCT_PRICE_TYPE.udc,PRICING,CSD > Document Library > PRICING
+07_ICSC - Creating a Catalog Item,07_ICSC_CREATING_A_CATALOG_ITEM.udc,PRICING,CSD > Document Library > PRICING
+create a stock order,create a stock order.udc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+06_Print Pick Ticket,06_Print Pick Ticket.udc,Palco Specific Sales,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+15B_SAAMM - Mass Maintenance Import,15B_SAAMM_MASS_MAINTENANCE_IMPORT.udc,PRICING,CSD > Document Library > PRICING
+Quiz Level 2 | Purchasing,Quiz Level 2 Purchasing.ulc,PURCHASING,CSD > Document Library > PURCHASING
+09_Create Order as Needed Non Stock,CO3_PPS_LL09_Create Order as Needed Non Stock_KC TS.udc,Palco Specific Sales,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+07_Schedule,07_Schedule.udc,START UP,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Introduction to CSD,Introduction to CSD.ulc,z_PLAYGROUND,CSD > Document Library > z_PLAYGROUND
+09_Contract Service Template PMA,CO3_PPS_EE09_Contract Service Template PMA_BW_KC.udc,04_ISM Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+11C_PDSP - Level 2 - Customer/Product Line,11C_PDSP_LEVEL2_CUSTOMER-PRODUCT_LINE.udc,PRICING,CSD > Document Library > PRICING
+24_Tax Adjustment Correction,CO1_SE_SOP_OP24_Tax Adjustment Correction_KC.udc,02_Quote to Cash,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+03_Add Material,C03_FF03_Add_Material_07082025_0948_TD.udc,07_Tech Mobile,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+06_Change Status to Call Back,CO3_PPS_FF06_Change Status to Call Back_KC.udc,07_Tech Mobile,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+08G_ICSEC Customer Part Number,08G_ICSEC_CUSTOMER_PART_NUMBER.udc,PRICING,CSD > Document Library > PRICING
+11I_PDSP - Level 7 - Product (PROMOTION),11I_PDSP_LEVEL7_PRODUCT(PROMOTION).udc,PRICING,CSD > Document Library > PRICING
+01_Organize Vendor Quote in Excel for Upload,01_Organize Vendor Quote in Excel for Upload.udc,04_Customer Quote Creation,CSD > Document Library > PJM > 04_Customer Quote Creation
+05_Create an SRO Template,05_Create an SRO Template (1).udc,04_ISM Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+14_PDEM - Price and Discounting Mass Maintenance Entry,14_PDEM_PRICE_AND_DISCOUNTING_MASS_MAINT_ENTRY.udc,PRICING,CSD > Document Library > PRICING
+03_SASTT Creating a Price Class,03_SASST_CREATING_A_PRICE_CLASS.udc,PRICING,CSD > Document Library > PRICING
+05_ICSL - Creating a Product Line,05_ICSL_CREATING_A_PRODUCT_LINE.udc,PRICING,CSD > Document Library > PRICING
+03_Create the Customer Quote,03_Create the Customer Quote.udc,04_Customer Quote Creation,CSD > Document Library > PJM > 04_Customer Quote Creation
+10B_ICSC - Individual Catalog Item Price Update Manually,10B_ICSC_INDIV_ CATALOG_ITEM_PRICE_UPDATE_MANUALLY.udc,PRICING,CSD > Document Library > PRICING

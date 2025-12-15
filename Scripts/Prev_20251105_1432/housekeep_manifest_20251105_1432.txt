@@ -1,0 +1,46 @@
+Housekeep @ 20251105_1432 America/New_York
+Backed up: Scripts  ->  Scripts/Prev_20251105_1432
+
+Files backed up:
+./Prev/build_full_report.py
+./Prev/build_full_report_worked_manager_misssing.py
+./Prev/build_full_report_wrked__and_mngr.py
+./Prev/insert_exec_summary.py
+./Prev/name_translate.py
+./Prev/prev1/build_full_report.py
+./Prev/prev1/name_translate.py
+./Prev/prev1/train_report.py
+./Prev/train_report.py
+./apply_module_worklist.py
+./build_full_report.py
+./build_full_report_v2.py
+./build_module_catalog.py
+./build_module_risk_flat.py
+./build_module_risk_from_enriched.py
+./check_uap_vs_catalog.py
+./enrich_uap_with_catalog.py
+./finalize_module_catalog.py
+./insert_exec_summary.py
+./inspect_excel_preview.py
+./make_module_translation.py
+./name_translate.py
+./name_translate_No_fuzzy.py
+./name_translate_fuzzy.py
+./patch_with_catalog.py
+./train_report.py
+./validate_module_catalog.py
+
+moved: build_module_risk_flat.py -> OneOff/
+moved: make_module_translation.py -> OneOff/
+moved: name_translate.py -> OneOff/
+moved: name_translate_No_fuzzy.py -> OneOff/
+moved: name_translate_fuzzy.py -> OneOff/
+moved: train_report.py -> OneOff/
+
+Moved to Scripts/OneOff:
+build_module_risk_flat.py
+make_module_translation.py
+name_translate.py
+name_translate_No_fuzzy.py
+name_translate_fuzzy.py
+train_report.py

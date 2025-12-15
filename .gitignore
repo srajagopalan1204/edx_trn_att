@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+*.log
+# keep Outputs committed if you want audit, so do NOT ignore Outputs/*.xlsx by default

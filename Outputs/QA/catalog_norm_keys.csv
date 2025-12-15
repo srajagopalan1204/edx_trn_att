@@ -1,0 +1,582 @@
+raw,key_core,key_nospace
+01-Access Sales Order Entry Window,access sales order entry window,accesssalesorderentrywindow
+01-Log in to SX.e,log in to sx.e,logintosx.e
+02-Change Layout and Appearance of Grid,change layout and appearance of grid,changelayoutandappearanceofgrid
+03-Global Search,global search,globalsearch
+03-Use Order Inquiry for sales orders,use order inquiry for sales orders,useorderinquiryforsalesorders
+04-Advanced Search Techniques,advanced search techniques,advancedsearchtechniques
+04-Print customer order pick ticket,print customer order pick ticket,printcustomerorderpickticket
+05-Lookups and Search Features,lookups and search features,lookupsandsearchfeatures
+05-Ship sales order,ship sales order,shipsalesorder
+06-Add Note Using Notes Context App,add note using notes context app,addnoteusingnotescontextapp
+06-Invoice sales order,invoice sales order,invoicesalesorder
+01.2_CSD Incident,2 csd incident,2csdincident
+07-Apply customer payment to invoice,apply customer payment to invoice,applycustomerpaymenttoinvoice
+07-Open Help Context App,open help context app,openhelpcontextapp
+08-Create a PO,create a po,createapo
+01_Create PMA Contract,create pma contract,createpmacontract
+01_Create Purchase Order,create purchase order,createpurchaseorder
+01_Create Rental Contract,create rental contract,createrentalcontract
+01_Create a Blanket Order,create a blanket order,createablanketorder
+01_Create a Customer Unit,create a customer unit,createacustomerunit
+08-Print a Report,print a report,printareport
+09-Personalize Advanced Line Entry View in Order Entry,personalize advanced line entry view in order entry,personalizeadvancedlineentryviewinorderentry
+09-Print a PO,print a po,printapo
+01_Filter Working Status,filter working status,filterworkingstatus
+10-Log out of Infor Distribution SX.e and Infor Ming.le,log out of infor distribution sx.e and infor ming.le,logoutofinfordistributionsx.eandinforming.le
+10-Receive a PO,receive a po,receiveapo
+01_ISM Incident,ism incident,ismincident
+11-Cost PO to vendor invoice,cost po to vendor invoice,costpotovendorinvoice
+12-Inquire with order info,inquire with order info,inquirewithorderinfo
+01_Order Inquiry,order inquiry,orderinquiry
+01_Partner Set Up,partner set up,partnersetup
+13-Inquire without order info,inquire without order info,inquirewithoutorderinfo
+14-Use PO Inquiry to locate PO,use po inquiry to locate po,usepoinquirytolocatepo
+15-Use global search,use global search,useglobalsearch
+CSD Basics,csd basics,csdbasics
+Log into UAP,log into uap,logintouap
+01-Set up vendor,set up vendor,setupvendor
+02-Set up vendor ship-from,set up vendor ship from,setupvendorshipfrom
+01_Review the Shopping List,review the shopping list,reviewtheshoppinglist
+13-Enter a manual payment,enter a manual payment,enteramanualpayment
+16-Enter trade invoice - PO does not match,enter trade invoice po does not match,entertradeinvoicepodoesnotmatch
+01_Travel to Site,travel to site,traveltosite
+19-Enter trade invoice - partial receipt,enter trade invoice partial receipt,entertradeinvoicepartialreceipt
+21-Cash Requirements Report,cash requirements report,cashrequirementsreport
+25-Set up misc vendor in AP,set up misc vendor in ap,setupmiscvendorinap
+27-Set up vendor history table,set up vendor history table,setupvendorhistorytable
+28-Set up federal tax 1099,set up federal tax 1099,setupfederaltax1099
+01-Set up customer,set up customer,setupcustomer
+02-Set up ship-to address,set up ship to address,setupshiptoaddress
+06-Reverse a transaction,reverse a transaction,reverseatransaction
+16-Apply a COD credit,apply a cod credit,applyacodcredit
+18-Modify customer invoice,modify customer invoice,modifycustomerinvoice
+20-Complete price correction,complete price correction,completepricecorrection
+21-Correct payment posted to wrong account,correct payment posted to wrong account,correctpaymentpostedtowrongaccount
+22-Process short payment with sales tax write-off,process short payment with sales tax write off,processshortpaymentwithsalestaxwriteoff
+02_Add Items,add items,additems
+23-Update account due to returned check,update account due to returned check,updateaccountduetoreturnedcheck
+02_Add Rental Items,add rental items,addrentalitems
+02_Add a Warranty to a Unit,add a warranty to a unit,addawarrantytoaunit
+02_Adjust Line Items,adjust line items,adjustlineitems
+24-AR Open Activity Report,ar open activity report,aropenactivityreport
+26-Print customer statement,print customer statement,printcustomerstatement
+27-AR Trial Balance Report,ar trial balance report,artrialbalancereport
+28-AR Period Analysis Report,ar period analysis report,arperiodanalysisreport
+02-Company setup in GL,company setup in gl,companysetupingl
+03-Review admin options in GL,review admin options in gl,reviewadminoptionsingl
+04-Set up accounts,set up accounts,setupaccounts
+02_Partners Schedule Set Up,partners schedule set up,partnersschedulesetup
+02_Perform Site Work,perform site work,performsitework
+06-Add GL accounts to vendor,add gl accounts to vendor,addglaccountstovendor
+02_Print Pick Ticket,print pick ticket,printpickticket
+07-Set up bank and add to vendor,set up bank and add to vendor,setupbankandaddtovendor
+08-Enter real-time journal,enter real time journal,enterrealtimejournal
+09-Set up batch,set up batch,setupbatch
+10-Enter a batch journal,enter a batch journal,enterabatchjournal
+11-Process and update batch journal,process and update batch journal,processandupdatebatchjournal
+12-Enter reverse entry journal,enter reverse entry journal,enterreverseentryjournal
+13-Inquire on a journal,inquire on a journal,inquireonajournal
+14-AR Trial Balance Report,ar trial balance report,artrialbalancereport
+15-Review balance history,review balance history,reviewbalancehistory
+16-Review suspense account,review suspense account,reviewsuspenseaccount
+17-Post monthly profit,post monthly profit,postmonthlyprofit
+18-Generate a tax register,generate a tax register,generateataxregister
+19-Run a financial statement,run a financial statement,runafinancialstatement
+20-Close the GL,close the gl,closethegl
+01-Create new vendor,create new vendor,createnewvendor
+01_Create Invoice Process Group,create invoice process group,createinvoiceprocessgroup
+03-Review the Shopping List,review the shopping list,reviewtheshoppinglist
+01_Customer Setup,customer setup,customersetup
+01_Enter an Invoice,enter an invoice,enteraninvoice
+01_Price Correction,price correction,pricecorrection
+01_Release Credit Hold,release credit hold,releasecredithold
+01_Run (ARRO) AR Open Activity Report,run (arro) ar open activity report,run(arro)aropenactivityreport
+03_Change Working Status,change working status,changeworkingstatus
+"02_Customer Inquiry with Past Due Invoices, Large Dollar Amount Balance","customer inquiry with past due invoices, large dollar amount balance","customerinquirywithpastdueinvoices,largedollaramountbalance"
+02_Enter a Credit Memo,enter a credit memo,enteracreditmemo
+02_Ship-to Setup,ship to setup,shiptosetup
+03-Create invoice process group,create invoice process group,createinvoiceprocessgroup
+03_Incident to SRO,incident to sro,incidenttosro
+03-Enter an invoice,enter an invoice,enteraninvoice
+03_Inquire on Vendor Info,inquire on vendor info,inquireonvendorinfo
+03_Run Customer Statement (ARES),run customer statement (ares),runcustomerstatement(ares)
+03_Run the Aging Report,run the aging report,runtheagingreport
+03_Print Rental Agreement,print rental agreement,printrentalagreement
+03_Short Pay with Sales Tax,short pay with sales tax,shortpaywithsalestax
+04-Enter a credit memo,enter a credit memo,enteracreditmemo
+04-Enter and process expense invoice,enter and process expense invoice,enterandprocessexpenseinvoice
+04_(ARRT) Run Trial Balance Report,(arrt) run trial balance report,(arrt)runtrialbalancereport
+03_Shipping Feedback for Start Up,shipping feedback for start up,shippingfeedbackforstartup
+"04_Change Vendor Invoice - Due Date, Discount Rate","change vendor invoice due date, discount rate","changevendorinvoiceduedate,discountrate"
+03_Use Order Inquiry to Search for Orders,use order inquiry to search for orders,useorderinquirytosearchfororders
+04_Perform a Credit Review on a Customer Account,perform a credit review on a customer account,performacreditreviewonacustomeraccount
+04-Adjust Line Items,adjust line items,adjustlineitems
+04_Returned Check,returned check,returnedcheck
+05-Account inquiry and report,account inquiry and report,accountinquiryandreport
+05-Apply payment with debit memo,apply payment with debit memo,applypaymentwithdebitmemo
+05-Inquire on vendor info,inquire on vendor info,inquireonvendorinfo
+05_(ARRP) Period Analysis Report,(arrp) period analysis report,(arrp)periodanalysisreport
+05_Apply Payment to Invoice,apply payment to invoice,applypaymenttoinvoice
+05_Set Up Split Payment for Invoice in Entered Stage,set up split payment for invoice in entered stage,setupsplitpaymentforinvoiceinenteredstage
+"06-Change vendor invoice - due date, discount rate","change vendor invoice due date, discount rate","changevendorinvoiceduedate,discountrate"
+06_Apply Payment to Multiple Invoices,apply payment to multiple invoices,applypaymenttomultipleinvoices
+06_Change Payment to Split Payment Schedule,change payment to split payment schedule,changepaymenttosplitpaymentschedule
+06_Run AR Year End Processing Report,run ar year end processing report,runaryearendprocessingreport
+07-Apply payment to invoice,apply payment to invoice,applypaymenttoinvoice
+07-Set up split payment for invoice in Entered stage,set up split payment for invoice in entered stage,setupsplitpaymentforinvoiceinenteredstage
+07_Apply Payment to Oldest Invoice,apply payment to oldest invoice,applypaymenttooldestinvoice
+04_Add Re Rent Items,add re rent items,addrerentitems
+04_Bill Contract,bill contract,billcontract
+04_Change Operations,change operations,changeoperations
+07_Perform a Reversal,perform a reversal,performareversal
+04_Create a Release,create a release,createarelease
+04_Create a Start Up Incident,create a start up incident,createastartupincident
+08-Apply payment to multiple invoices,apply payment to multiple invoices,applypaymenttomultipleinvoices
+08-Change payment to split payment schedule,change payment to split payment schedule,changepaymenttosplitpaymentschedule
+08_Enter a Credit Memo,enter a credit memo,enteracreditmemo
+08_Process Short Payment,process short payment,processshortpayment
+09-Apply payment to oldest invoice,apply payment to oldest invoice,applypaymenttooldestinvoice
+09-Perform a reversal,perform a reversal,performareversal
+09_Apply Short Payment with Write-Off,apply short payment with write off,applyshortpaymentwithwriteoff
+04_Quick Create SRO,quick create sro,quickcreatesro
+09_Enter a Misc Credit,enter a misc credit,enteramisccredit
+10-Enter a credit memo,enter a credit memo,enteracreditmemo
+10-Process short payment,process short payment,processshortpayment
+10_Apply Payment with Unearned Discount,apply payment with unearned discount,applypaymentwithunearneddiscount
+10_Enter a Debit Memo,enter a debit memo,enteradebitmemo
+11-Apply short payment with write-off,apply short payment with write off,applyshortpaymentwithwriteoff
+11-Enter a misc credit,enter a misc credit,enteramisccredit
+11_Apply Payment Using Split Check,apply payment using split check,applypaymentusingsplitcheck
+12-Apply payment with unearned discount,apply payment with unearned discount,applypaymentwithunearneddiscount
+12-Enter a debit memo,enter a debit memo,enteradebitmemo
+12_Apply Credit to Invoice,apply credit to invoice,applycredittoinvoice
+13-Apply payment using split check,apply payment using split check,applypaymentusingsplitcheck
+13_Apply Account Credits to Invoice,apply account credits to invoice,applyaccountcreditstoinvoice
+13_Enter Trade Invoice - PO Matches,enter trade invoice po matches,entertradeinvoicepomatches
+14-Apply credit to invoice,apply credit to invoice,applycredittoinvoice
+14-Create new trade vendor,create new trade vendor,createnewtradevendor
+05_Add SRO Lines,add sro lines,addsrolines
+15-Apply account credits to invoice,apply account credits to invoice,applyaccountcreditstoinvoice
+05_Add Start Up Notes,add start up notes,addstartupnotes
+15-Enter trade invoice - PO matches,enter trade invoice po matches,entertradeinvoicepomatches
+15_Apply Misc Cash,apply misc cash,applymisccash
+05_Manually Apply Hold and Approve Held Order,manually apply hold and approve held order,manuallyapplyholdandapproveheldorder
+15_Enter Trade Invoice - Add On Charges,enter trade invoice add on charges,entertradeinvoiceaddoncharges
+16_Customer Statement Print,customer statement print,customerstatementprint
+16_Enter Trade Invoice - Reconcile Against Multiple POs,enter trade invoice reconcile against multiple pos,entertradeinvoicereconcileagainstmultiplepos
+17-Apply misc cash,apply misc cash,applymisccash
+05_Run OEEPC,run oeepc,runoeepc
+17-Enter trade invoice - add-on charges,enter trade invoice add on charges,entertradeinvoiceaddoncharges
+17_Enter Trade Invoice - Partial Receipt (Short Pay),enter trade invoice partial receipt (short pay),entertradeinvoicepartialreceipt(shortpay)
+17_Payment Reversal,payment reversal,paymentreversal
+18-Enter trade invoice - reconcile against multiple POs,enter trade invoice reconcile against multiple pos,entertradeinvoicereconcileagainstmultiplepos
+18_Enter Trade Invoice - PO Correction,enter trade invoice po correction,entertradeinvoicepocorrection
+18_Process Overpayment,process overpayment,processoverpayment
+19-Release credit hold,release credit hold,releasecredithold
+19_Refund Customer via Check,refund customer via check,refundcustomerviacheck
+19_Select Invoices for Payment,select invoices for payment,selectinvoicesforpayment
+20-Enter trade invoice - PO correction,enter trade invoice po correction,entertradeinvoicepocorrection
+20_AP Vendor Entry Pay Invoice Due Report,ap vendor entry pay invoice due report,apvendorentrypayinvoiceduereport
+21_Print Checks,print checks,printchecks
+21_Review Journal,review journal,reviewjournal
+22-Select invoices for payment,select invoices for payment,selectinvoicesforpayment
+06_Add Line,add line,addline
+06_Add Operations,add operations,addoperations
+22_Run Credit Card Receive on Account,run credit card receive on account,runcreditcardreceiveonaccount
+23-AP Vendor Entry Pay Invoice Due Report,ap vendor entry pay invoice due report,apvendorentrypayinvoiceduereport
+23_Invoice Processing,invoice processing,invoiceprocessing
+24-Print checks,print checks,printchecks
+24_Process Payable Invoice,process payable invoice,processpayableinvoice
+06_Create a Warranty Code,create a warranty code,createawarrantycode
+25-Run AR Roll Balances and assess service charge,run ar roll balances and assess service charge,runarrollbalancesandassessservicecharge
+06_ISM Invoice,ism invoice,isminvoice
+06_Print Re Rent PO,print re rent po,printrerentpo
+26-Enter invoice for misc vendor,enter invoice for misc vendor,enterinvoiceformiscvendor
+29-AR Year End Processing Report,ar year end processing report,aryearendprocessingreport
+Quiz Level 2 | Accounts Payable,quiz level 2 | accounts payable,quizlevel2|accountspayable
+06_Suspend an Order,suspend an order,suspendanorder
+Quiz Level 2 | Accounts Receivable,quiz level 2 | accounts receivable,quizlevel2|accountsreceivable
+03-Create inventory item in single WH,create inventory item in single wh,createinventoryiteminsinglewh
+04-Copy inventory item to single WH,copy inventory item to single wh,copyinventoryitemtosinglewh
+05-Move non-stock item to stock item,move non stock item to stock item,movenonstockitemtostockitem
+06-Inquire on a product,inquire on a product,inquireonaproduct
+09-Enter counts,enter counts,entercounts
+13-Verify product adjustment,verify product adjustment,verifyproductadjustment
+15-IC Trial Balance of Stock Inventory Report,ic trial balance of stock inventory report,ictrialbalanceofstockinventoryreport
+18-Accept WT RRAR,accept wt rrar,acceptwtrrar
+18-Copy pricing record,copy pricing record,copypricingrecord
+07_Add Planned Transactions,add planned transactions,addplannedtransactions
+19-Change prices and costs on group of products,change prices and costs on group of products,changepricesandcostsongroupofproducts
+19-Merge WT RRAR,merge wt rrar,mergewtrrar
+21-Create product lot numbers,create product lot numbers,createproductlotnumbers
+22-Track serial products,track serial products,trackserialproducts
+24-Review setup of pre-built kit item,review setup of pre built kit item,reviewsetupofprebuiltkititem
+07_Mark Accepted,mark accepted,markaccepted
+25-Run replenishing pre-built kits report,run replenishing pre built kits report,runreplenishingprebuiltkitsreport
+07_Receive Re Rent PO,receive re rent po,receivererentpo
+26-Create work order manually,create work order manually,createworkordermanually
+27-Print work orders,print work orders,printworkorders
+"01-Ship Sales Order, Include Addons","ship sales order, include addons","shipsalesorder,includeaddons"
+01_Product Inquiry,product inquiry,productinquiry
+"01_Ship Sales Order, Include Addons","ship sales order, include addons","shipsalesorder,includeaddons"
+02_Run either the IC Entry Cycle Count Report or the IC Entry Physical Count Report,run either the ic entry cycle count report or the ic entry physical count report,runeithertheicentrycyclecountreportortheicentryphysicalcountreport
+03-Unship an Order,unship an order,unshipanorder
+03_Order Inquiries,order inquiries,orderinquiries
+03_Print Count Sheets,print count sheets,printcountsheets
+04_Enter the Count into CSD Using Count Entry Function,enter the count into csd using count entry function,enterthecountintocsdusingcountentryfunction
+05_Perform Shipping Feedback to Ship Order,perform shipping feedback to ship order,performshippingfeedbacktoshiporder
+05_Run the Reconciliation Report,run the reconciliation report,runthereconciliationreport
+07-Inquire on product availability,inquire on product availability,inquireonproductavailability
+08_Add a Non-Stock,add a non stock,addanonstock
+08_Check Out Rental,check out rental,checkoutrental
+07_Edit Entered Counts,edit entered counts,editenteredcounts
+07_Run WT Entry Recommended Replenishment Action Report,run wt entry recommended replenishment action report,runwtentryrecommendedreplenishmentactionreport
+08-Print count sheets,print count sheets,printcountsheets
+08_Make a Product Serialized,make a product serialized,makeaproductserialized
+08_Mark Reconciled,mark reconciled,markreconciled
+08_Run Physical Count Sheet,run physical count sheet,runphysicalcountsheet
+08_Register Unit,register unit,registerunit
+09.3_Run Results Report in ICEPW,3 run results report in icepw,3runresultsreportinicepw
+11_Adjust Inventory to Unavailable,adjust inventory to unavailable,adjustinventorytounavailable
+16-Print Count Sheets,print count sheets,printcountsheets
+17-Run WT Entry Recommended Replenishment Action Report,run wt entry recommended replenishment action report,runwtentryrecommendedreplenishmentactionreport
+Quiz Level 2 | Warehouse Planning,quiz level 2 | warehouse planning,quizlevel2|warehouseplanning
+02_Verify Customer Eligibility,verify customer eligibility,verifycustomereligibility
+03_Establish Job Entry,establish job entry,establishjobentry
+04_View Job in Bidding Calendar,view job in bidding calendar,viewjobinbiddingcalendar
+05_Add Bidder Details to Project Entry,add bidder details to project entry,addbidderdetailstoprojectentry
+06_Add Vendor Details to Project Entry,add vendor details to project entry,addvendordetailstoprojectentry
+01 Customer Inquiry Pricing,customer inquiry pricing,customerinquirypricing
+02 Set Up a Customer Record,set up a customer record,setupacustomerrecord
+09_Check In Rental,check in rental,checkinrental
+03 Create and Verify a Pricing Record,create and verify a pricing record,createandverifyapricingrecord
+04 Create Pricing Record Using Quantity Break,create pricing record using quantity break,createpricingrecordusingquantitybreak
+05 Copy Pricing Record to New Customer,copy pricing record to new customer,copypricingrecordtonewcustomer
+09_Order Inquiry Using a Serial Number,order inquiry using a serial number,orderinquiryusingaserialnumber
+06 Create Price Record Set,create price record set,createpricerecordset
+07 Load Price Set to PD Mass Maintenance,load price set to pd mass maintenance,loadpricesettopdmassmaintenance
+08 Export Pricing Data to Excel,export pricing data to excel,exportpricingdatatoexcel
+09 Import Pricing Data from Excel,import pricing data from excel,importpricingdatafromexcel
+10 Copy Pricing Record to New Customer,copy pricing record to new customer,copypricingrecordtonewcustomer
+11 Run Expired Pricing Records Report,run expired pricing records report,runexpiredpricingrecordsreport
+Quiz Level 2 | Pricing,quiz level 2 | pricing,quizlevel2|pricing
+01-Set Up New Product and Product Line,set up new product and product line,setupnewproductandproductline
+02-Create PO,create po,createpo
+07-Change PO,change po,changepo
+08-Copy PO,copy po,copypo
+10-Print PO,print po,printpo
+10_Close Rental,close rental,closerental
+12-Cancel PO,cancel po,cancelpo
+14-View RRAR Records using Demand Center,view rrar records using demand center,viewrrarrecordsusingdemandcenter
+10_Receive the Non-Stock,receive the non stock,receivethenonstock
+22-Review IC Month End Processing Report Options,review ic month end processing report options,reviewicmonthendprocessingreportoptions
+01_Generate RRAR,generate rrar,generaterrar
+01_How to Use the Quote Modification,how to use the quote modification,howtousethequotemodification
+01_Initiate Vendor Return,initiate vendor return,initiatevendorreturn
+11-Manually Apply Hold and Approve Held PO,manually apply hold and approve held po,manuallyapplyholdandapproveheldpo
+01_Manual Entry of a Warehouse Transfer,manual entry of a warehouse transfer,manualentryofawarehousetransfer
+01_Print PO Expedite Report,print po expedite report,printpoexpeditereport
+11-Use Order Inquiry to Search for Orders,use order inquiry to search for orders,useorderinquirytosearchfororders
+01_Purchase Order Submit PO to Vendor,purchase order submit po to vendor,purchaseordersubmitpotovendor
+01_View Consolidation Info in Demand Center,view consolidation info in demand center,viewconsolidationinfoindemandcenter
+02_Add Items to PO and Finish It,add items to po and finish it,additemstopoandfinishit
+11_Change Billing Details,change billing details,changebillingdetails
+02_Approving a Warehouse Transfer That is on Hold,approving a warehouse transfer that is on hold,approvingawarehousetransferthatisonhold
+11_Schedule Service,schedule service,scheduleservice
+02_Determining Extra Stock to Order,determining extra stock to order,determiningextrastocktoorder
+02_Merge POs_Print POs_Generate Exception Report,merge pos print pos generate exception report,mergeposprintposgenerateexceptionreport
+12-Enter Stock Sales Order and Change Line Items,enter stock sales order and change line items,enterstocksalesorderandchangelineitems
+02_Print Inventory Turnover Report,print inventory turnover report,printinventoryturnoverreport
+02_Purchase Order Maintain PO,purchase order maintain po,purchaseordermaintainpo
+02_View RRAR Records,view rrar records,viewrrarrecords
+03-Add Items to PO and Finish It,add items to po and finish it,additemstopoandfinishit
+03.5_Perform Lookups in a PO,5 perform lookups in a po,5performlookupsinapo
+12_Posting Transactions,posting transactions,postingtransactions
+12_Receive Vendor RM PO,receive vendor rm po,receivevendorrmpo
+03_Acknowledge Purchase Order,acknowledge purchase order,acknowledgepurchaseorder
+03_Blanket POs,blanket pos,blanketpos
+03_Generate IC Admin Review Cycle Adjustment Report,generate ic admin review cycle adjustment report,generateicadminreviewcycleadjustmentreport
+03_Print Fill Report by Class Report,print fill report by class report,printfillreportbyclassreport
+03_Purchase Order Apply Add Ons and Discounts,purchase order apply add ons and discounts,purchaseorderapplyaddonsanddiscounts
+03_Review and Modify RRAR Record,review and modify rrar record,reviewandmodifyrrarrecord
+04-Perform Lookups in a PO,perform lookups in a po,performlookupsinapo
+13_Add Freight to Rental,add freight to rental,addfreighttorental
+04.5_Create Warehouse Transfer,5 create warehouse transfer,5createwarehousetransfer
+04_Accumulative POs,accumulative pos,accumulativepos
+04_Finish the Purchase Order,finish the purchase order,finishthepurchaseorder
+13_Invoicing in ISM,invoicing in ism,invoicinginism
+04_Generate IC Admin Inventory Classification and Rank Report,generate ic admin inventory classification and rank report,generateicadmininventoryclassificationandrankreport
+04_Maintaining a Warehouse Tranfer,maintaining a warehouse tranfer,maintainingawarehousetranfer
+04_Print Gap Report,print gap report,printgapreport
+04_Review Line Item Details,review line item details,reviewlineitemdetails
+05-Create Warehouse Transfer,create warehouse transfer,createwarehousetransfer
+05_Locate PO Using PO Inquiry,locate po using po inquiry,locatepousingpoinquiry
+05_Notes on a Warehouse Transfer,notes on a warehouse transfer,notesonawarehousetransfer
+05_Print Surplus Stock Report,print surplus stock report,printsurplusstockreport
+14_Close SRO,close sro,closesro
+05_Returning a Core Product,returning a core product,returningacoreproduct
+05_Update or Validate Quantities Needed,update or validate quantities needed,updateorvalidatequantitiesneeded
+06-Locate PO using PO Inquiry,locate po using po inquiry,locatepousingpoinquiry
+06_Accept Replenishments,accept replenishments,acceptreplenishments
+15-Manually Apply Hold and Approve Held Order,manually apply hold and approve held order,manuallyapplyholdandapproveheldorder
+06_Canceling a Warehouse Transfer,canceling a warehouse transfer,cancelingawarehousetransfer
+06_Change PO,change po,changepo
+06_Returning an Acknowledged PO to the Printed Stage,returning an acknowledged po to the printed stage,returninganacknowledgedpototheprintedstage
+06_Review Exception Processing Center Screen,review exception processing center screen,reviewexceptionprocessingcenterscreen
+07_Adjust RARR Quantities Using Increase-Decrease Function in PO Demand Center,adjust rarr quantities using increase decrease function in po demand center,adjustrarrquantitiesusingincreasedecreasefunctioninpodemandcenter
+07_Copy PO,copy po,copypo
+07_Tying a PO RM to a Sales Order Line,tying a po rm to a sales order line,tyingapormtoasalesorderline
+07_Tying a Warehouse Transfer to a Customer Order,tying a warehouse transfer to a customer order,tyingawarehousetransfertoacustomerorder
+08_Correcting an Over Under Receipt,correcting an over under receipt,correctinganoverunderreceipt
+08_Create Quote PO with Notes and Comments,create quote po with notes and comments,createquotepowithnotesandcomments
+16-Suspend an Order,suspend an order,suspendanorder
+09_Consolidate Multiple RRARS for Different Vendor Product Lines or Warehouses,consolidate multiple rrars for different vendor product lines or warehouses,consolidatemultiplerrarsfordifferentvendorproductlinesorwarehouses
+09_Correcting a Wrong Product Receipt,correcting a wrong product receipt,correctingawrongproductreceipt
+09_Print PO,print po,printpo
+10_Apply Hold and Approve Held PO,apply hold and approve held po,applyholdandapproveheldpo
+10_Correcting a Wrong Cost Receipt,correcting a wrong cost receipt,correctingawrongcostreceipt
+11_Cancel PO,cancel po,cancelpo
+11_Merge POs_Print POs_Genrerate Exception Report,merge pos print pos genrerate exception report,mergeposprintposgenrerateexceptionreport
+13_Add Items Using Easy Line Entry,add items using easy line entry,additemsusingeasylineentry
+14_Add Items to Purchase Order Using Advanced Line Entry,add items to purchase order using advanced line entry,additemstopurchaseorderusingadvancedlineentry
+15_Add Nonstock Items to a Purchase Order Using Advanced Line Entry,add nonstock items to a purchase order using advanced line entry,addnonstockitemstoapurchaseorderusingadvancedlineentry
+16-Review Line Item Details,review line item details,reviewlineitemdetails
+17-Accept Replenishments,accept replenishments,acceptreplenishments
+18-View Consolidation Info in Demand Center,view consolidation info in demand center,viewconsolidationinfoindemandcenter
+"19-Merge POs, Print POs, Generate Exception Report","merge pos, print pos, generate exception report","mergepos,printpos,generateexceptionreport"
+20-Generate IC Admin Review Cycle Adjustment Report,generate ic admin review cycle adjustment report,generateicadminreviewcycleadjustmentreport
+21-Generate IC Admin Inventory Classification and Rank Report,generate ic admin inventory classification and rank report,generateicadmininventoryclassificationandrankreport
+23-Review Exception Processing Center Screen,review exception processing center screen,reviewexceptionprocessingcenterscreen
+01-Enter Stock Customer Sales Order,enter stock customer sales order,enterstockcustomersalesorder
+01_Add Items to Stock Customer Sales Order,add items to stock customer sales order,additemstostockcustomersalesorder
+01_Copy Quote Order to a Stock Order,copy quote order to a stock order,copyquoteordertoastockorder
+01_Enter Stock Customer Sales Order,enter stock customer sales order,enterstockcustomersalesorder
+01_Perform Lookups in Customer Sales Order,perform lookups in customer sales order,performlookupsincustomersalesorder
+01_Process Core as Return Merchandise,process core as return merchandise,processcoreasreturnmerchandise
+01_Wire Order Placement,wire order placement,wireorderplacement
+02-Add Items to Stock Customer Sales Order,add items to stock customer sales order,additemstostockcustomersalesorder
+02-Enter stock customer sales order,enter stock customer sales order,enterstockcustomersalesorder
+02_Copy Customer Sales Order,copy customer sales order,copycustomersalesorder
+02_Enter a Quote Order,enter a quote order,enteraquoteorder
+"02_Review Taxes, Totals, Payments for Stock Customer Sales Order","review taxes, totals, payments for stock customer sales order","reviewtaxes,totals,paymentsforstockcustomersalesorder"
+02_Use Order Inquiry to Search Orders,use order inquiry to search orders,useorderinquirytosearchorders
+03_Enter Stock Sales Order and Change Line Items,enter stock sales order and change line items,enterstocksalesorderandchangelineitems
+03_Enter a Direct Order,enter a direct order,enteradirectorder
+"04_Add Comments, Notes to Customer Sales Order","add comments, notes to customer sales order","addcomments,notestocustomersalesorder"
+04_Enter a Counter Sales Order and Record Tender Payments,enter a counter sales order and record tender payments,enteracountersalesorderandrecordtenderpayments
+04_View Units of Measure,view units of measure,viewunitsofmeasure
+"05-Review Taxes, Totals, Payments for Stock Customer Sales Order","review taxes, totals, payments for stock customer sales order","reviewtaxes,totals,paymentsforstockcustomersalesorder"
+05_Add Special Order Product to Sales Order,add special order product to sales order,addspecialorderproducttosalesorder
+06-Perform Lookups in Customer Sales Order,perform lookups in customer sales order,performlookupsincustomersalesorder
+06_Enter a Non-Stock Product on an Order,enter a non stock product on an order,enteranonstockproductonanorder
+07-Enter Quote Order,enter quote order,enterquoteorder
+07_Enter a Return Order,enter a return order,enterareturnorder
+08-Copy Quote Order to a Stock Order,copy quote order to a stock order,copyquoteordertoastockorder
+09-Enter a Direct Order,enter a direct order,enteradirectorder
+10-Enter Counter Sales Order and Record Tender Payments,enter counter sales order and record tender payments,entercountersalesorderandrecordtenderpayments
+13-Copy Customer Sales Order,copy customer sales order,copycustomersalesorder
+"14-Add Comments, Notes to Customer Sales Order","add comments, notes to customer sales order","addcomments,notestocustomersalesorder"
+17-Enter Sales Order for Kits,enter sales order for kits,entersalesorderforkits
+18-Add Lot Numbered Product to Sales Order,add lot numbered product to sales order,addlotnumberedproducttosalesorder
+23-Add Catalog Product to Order,add catalog product to order,addcatalogproducttoorder
+19-Add Optional Product to Sales Order,add optional product to sales order,addoptionalproducttosalesorder
+"20-Add Interchangeable, Substitution Products to Order","add interchangeable, substitution products to order","addinterchangeable,substitutionproductstoorder"
+21-View Units of Measure,view units of measure,viewunitsofmeasure
+22-Enter Non Stock Product On an Order,enter non stock product on an order,enternonstockproductonanorder
+24-Add Special Order Product to Sales Order,add special order product to sales order,addspecialorderproducttosalesorder
+25-Enter a Return Order,enter a return order,enterareturnorder
+Quiz Level 2 | Sales,quiz level 2 | sales,quizlevel2|sales
+sales order example,sales order example,salesorderexample
+01 Run SA Operator Security Violations Report,run sa operator security violations report,runsaoperatorsecurityviolationsreport
+01-Set Up Report Schedule Type,set up report schedule type,setupreportscheduletype
+02-Report Scheduler Startup-Shutdown Function,report scheduler startup shutdown function,reportschedulerstartupshutdownfunction
+02-Review Operator Record,review operator record,reviewoperatorrecord
+03-Create Report Scheduler Queue,create report scheduler queue,createreportschedulerqueue
+03-Review R and D Operator Record,review r and d operator record,reviewranddoperatorrecord
+04-Create Report Scheduler Job Group,create report scheduler job group,createreportschedulerjobgroup
+04-Grant Authority to an Operator,grant authority to an operator,grantauthoritytoanoperator
+02-Assign Serial Numbers to Orders During Shipping,assign serial numbers to orders during shipping,assignserialnumberstoordersduringshipping
+04-Ship Warehouse Transfer,ship warehouse transfer,shipwarehousetransfer
+05-Assign Serial Numbers to Transfer During Shipping,assign serial numbers to transfer during shipping,assignserialnumberstotransferduringshipping
+06-Print Pre-Receiving Report,print pre receiving report,printprereceivingreport
+07-Receive PO,receive po,receivepo
+08-Short-Receive PO,short receive po,shortreceivepo
+09-Add Product to PO at Receiving,add product to po at receiving,addproducttopoatreceiving
+New Customer Registration,new customer registration,newcustomerregistration
+10-Receive Serialized Product,receive serialized product,receiveserializedproduct
+11-Receive Corrections,receive corrections,receivecorrections
+12-Print Warehouse Transfer Pre-Receiving Report,print warehouse transfer pre receiving report,printwarehousetransferprereceivingreport
+13-Receive Warehouse Transfer,receive warehouse transfer,receivewarehousetransfer
+14-Process Exception Receipts,process exception receipts,processexceptionreceipts
+15-Inquire on a Product,inquire on a product,inquireonaproduct
+Scott Electric Navigation,scott electric navigation,scottelectricnavigation
+UAP 101,uap 101,uap101
+UAP Course Starter,uap course starter,uapcoursestarter
+Quiz Level 1,quiz level 1,quizlevel1
+004 order inquiries,order inquiries,orderinquiries
+01    access sales order entry window,access sales order entry window,accesssalesorderentrywindow
+01 add items to stock customer sales order,add items to stock customer sales order,additemstostockcustomersalesorder
+01 create a blanket order,create a blanket order,createablanketorder
+01 create invoice process group 1,create invoice process group 1,createinvoiceprocessgroup1
+01    customer inquiry pricing,customer inquiry pricing,customerinquirypricing
+01    enter stock customer sales order,enter stock customer sales order,enterstockcustomersalesorder
+01filter working status,filter working status,filterworkingstatus
+01generate rrar,generate rrar,generaterrar
+01ism incident,ism incident,ismincident
+01    log in to sxe,log in to sxe,logintosxe
+01 order inquiry,order inquiry,orderinquiry
+01 perform lookups in customer sales order,perform lookups in customer sales order,performlookupsincustomersalesorder
+01    set up customer,set up customer,setupcustomer
+02 add items 1,add items 1,additems1
+02  add items to stock customer sales order,add items to stock customer sales order,additemstostockcustomersalesorder
+02 add rental items,add rental items,addrentalitems
+02  change layout and appearance of grid,change layout and appearance of grid,changelayoutandappearanceofgrid
+02 copy customer sales order,copy customer sales order,copycustomersalesorder
+02 csd incident,csd incident,csdincident
+02 determining extra stock to order,determining extra stock to order,determiningextrastocktoorder
+02 enter a quote order 1,enter a quote order 1,enteraquoteorder1
+02  enter stock customer sales order,enter stock customer sales order,enterstockcustomersalesorder
+02 merge posprint posgenerate exception report,merge posprint posgenerate exception report,mergeposprintposgenerateexceptionreport
+02 run either the ic entry cycle count report or the ic entry physical count report,run either the ic entry cycle count report or the ic entry physical count report,runeithertheicentrycyclecountreportortheicentryphysicalcountreport
+02  set up a customer record,set up a customer record,setupacustomerrecord
+02 verify customer eligibility,verify customer eligibility,verifycustomereligibility
+035 perform lookups in a po,perform lookups in a po,performlookupsinapo
+03 acknowledge purchase order,acknowledge purchase order,acknowledgepurchaseorder
+03 create and verify a pricing record,create and verify a pricing record,createandverifyapricingrecord
+03 create invoice process group,create invoice process group,createinvoiceprocessgroup
+03enter a direct order 1,enter a direct order 1,enteradirectorder1
+03 enter an invoice,enter an invoice,enteraninvoice
+03enter stock sales order and change line items,enter stock sales order and change line items,enterstocksalesorderandchangelineitems
+03 global search,global search,globalsearch
+03 incident to sro,incident to sro,incidenttosro
+03 initiate vendor return,initiate vendor return,initiatevendorreturn
+03 inquire on vendor info,inquire on vendor info,inquireonvendorinfo
+03 print count sheets,print count sheets,printcountsheets
+03 print fill report by class report,print fill report by class report,printfillreportbyclassreport
+03 review admin options in gl,review admin options in gl,reviewadminoptionsingl
+03 review the shopping list,review the shopping list,reviewtheshoppinglist
+03 short pay with sales tax 1,short pay with sales tax 1,shortpaywithsalestax1
+03 use order inquiry for sales orders,use order inquiry for sales orders,useorderinquiryforsalesorders
+03 use order inquiry to search for orders,use order inquiry to search for orders,useorderinquirytosearchfororders
+045 create warehouse transfer,create warehouse transfer,createwarehousetransfer
+04 add comments notes to customer sales order,add comments notes to customer sales order,addcommentsnotestocustomersalesorder
+04    adjust line items,adjust line items,adjustlineitems
+04    advanced search techniques,advanced search techniques,advancedsearchtechniques
+04 change operations 1,change operations 1,changeoperations1
+04    print customer order pick ticket,print customer order pick ticket,printcustomerorderpickticket
+04 print gap report,print gap report,printgapreport
+04 returned check,returned check,returnedcheck
+04    set up accounts,set up accounts,setupaccounts
+04 view job in bidding calendar,view job in bidding calendar,viewjobinbiddingcalendar
+05   account inquiry and report,account inquiry and report,accountinquiryandreport
+05 add special order product to sales order,add special order product to sales order,addspecialorderproducttosalesorder
+05 add start up notes,add start up notes,addstartupnotes
+05 apply payment to invoice,apply payment to invoice,applypaymenttoinvoice
+05 arrp period analysis report,arrp period analysis report,arrpperiodanalysisreport
+05   inquire on vendor info,inquire on vendor info,inquireonvendorinfo
+05   lookups and search features,lookups and search features,lookupsandsearchfeatures
+05 returning a core product,returning a core product,returningacoreproduct
+05   review taxes totals payments for stock customer sales order,review taxes totals payments for stock customer sales order,reviewtaxestotalspaymentsforstockcustomersalesorder
+05   ship sales order,ship sales order,shipsalesorder
+06   add note using notes context app,add note using notes context app,addnoteusingnotescontextapp
+06 add operations 1,add operations 1,addoperations1
+06 apply payment to multiple invoices,apply payment to multiple invoices,applypaymenttomultipleinvoices
+06 enter a non stock product on an order,enter a non stock product on an order,enteranonstockproductonanorder
+06   inquire on a product,inquire on a product,inquireonaproduct
+06   invoice sales order,invoice sales order,invoicesalesorder
+06   perform lookups in customer sales order,perform lookups in customer sales order,performlookupsincustomersalesorder
+06 returning an acknowledged po to the printed stage,returning an acknowledged po to the printed stage,returninganacknowledgedpototheprintedstage
+06 run ar year end processing report,run ar year end processing report,runaryearendprocessingreport
+06 suspend an order,suspend an order,suspendanorder
+07 adjust rarr quantities using increase decrease function in po demand center,adjust rarr quantities using increase decrease function in po demand center,adjustrarrquantitiesusingincreasedecreasefunctioninpodemandcenter
+07   apply customer payment to invoice,apply customer payment to invoice,applycustomerpaymenttoinvoice
+07   apply payment to invoice,apply payment to invoice,applypaymenttoinvoice
+07   enter quote order,enter quote order,enterquoteorder
+07   open help context app,open help context app,openhelpcontextapp
+07 perform a reversal,perform a reversal,performareversal
+08    apply payment to multiple invoices,apply payment to multiple invoices,applypaymenttomultipleinvoices
+08    copy quote order to a stock order,copy quote order to a stock order,copyquoteordertoastockorder
+08 correcting an over under receipt,correcting an over under receipt,correctinganoverunderreceipt
+08    create a po,create a po,createapo
+08    print a report,print a report,printareport
+09    add product to po at receiving,add product to po at receiving,addproducttopoatreceiving
+09    apply payment to oldest invoice,apply payment to oldest invoice,applypaymenttooldestinvoice
+09    enter a direct order,enter a direct order,enteradirectorder
+09    perform a reversal,perform a reversal,performareversal
+09    personalize advanced line entry view in order entry,personalize advanced line entry view in order entry,personalizeadvancedlineentryviewinorderentry
+09    print a po,print a po,printapo
+09    set up batch,set up batch,setupbatch
+10 correcting a wrong cost receipt,correcting a wrong cost receipt,correctingawrongcostreceipt
+10    enter a batch journal,enter a batch journal,enterabatchjournal
+10    enter a credit memo,enter a credit memo,enteracreditmemo
+10 enter a debit memo,enter a debit memo,enteradebitmemo
+10    enter counter sales order and record tender payments,enter counter sales order and record tender payments,entercountersalesorderandrecordtenderpayments
+10    log out of infor distribution sxe and infor mingle,log out of infor distribution sxe and infor mingle,logoutofinfordistributionsxeandinformingle
+10    receive a po,receive a po,receiveapo
+10 receive the non stock,receive the non stock,receivethenonstock
+11 adjust inventory to unavailable,adjust inventory to unavailable,adjustinventorytounavailable
+11 apply payment using split check,apply payment using split check,applypaymentusingsplitcheck
+11    cost po to vendor invoice,cost po to vendor invoice,costpotovendorinvoice
+11    process and update batch journal,process and update batch journal,processandupdatebatchjournal
+11    use order inquiry to search for orders,use order inquiry to search for orders,useorderinquirytosearchfororders
+12  apply payment with unearned discount,apply payment with unearned discount,applypaymentwithunearneddiscount
+12  enter stock sales order and change line items,enter stock sales order and change line items,enterstocksalesorderandchangelineitems
+12  inquire with order info,inquire with order info,inquirewithorderinfo
+12 posting transactions,posting transactions,postingtransactions
+12 receive vendor rm po,receive vendor rm po,receivevendorrmpo
+13 apply payment using split check,apply payment using split check,applypaymentusingsplitcheck
+13 copy customer sales order,copy customer sales order,copycustomersalesorder
+13 enter trade invoice   po matches,enter trade invoice po matches,entertradeinvoicepomatches
+13 inquire without order info,inquire without order info,inquirewithoutorderinfo
+14    add comments notes to customer sales order,add comments notes to customer sales order,addcommentsnotestocustomersalesorder
+14    process exception receipts,process exception receipts,processexceptionreceipts
+14    use po inquiry to locate po,use po inquiry to locate po,usepoinquirytolocatepo
+15   apply account credits to invoice,apply account credits to invoice,applyaccountcreditstoinvoice
+15 apply misc cash,apply misc cash,applymisccash
+15 enter trade invoice   add on charges,enter trade invoice add on charges,entertradeinvoiceaddoncharges
+15   inquire on a product,inquire on a product,inquireonaproduct
+15   manually apply hold and approve held order,manually apply hold and approve held order,manuallyapplyholdandapproveheldorder
+15   use global search,use global search,useglobalsearch
+16   apply a cod credit,apply a cod credit,applyacodcredit
+16   enter trade invoice   po does not match,enter trade invoice po does not match,entertradeinvoicepodoesnotmatch
+16   suspend an order,suspend an order,suspendanorder
+17   enter sales order for kits,enter sales order for kits,entersalesorderforkits
+17   run wt entry recommended replenishment action report,run wt entry recommended replenishment action report,runwtentryrecommendedreplenishmentactionreport
+18    add lot numbered product to sales order,add lot numbered product to sales order,addlotnumberedproducttosalesorder
+18 enter trade invoice   po correction,enter trade invoice po correction,entertradeinvoicepocorrection
+18    modify customer invoice,modify customer invoice,modifycustomerinvoice
+19    add optional product to sales order,add optional product to sales order,addoptionalproducttosalesorder
+19    merge wt rrar,merge wt rrar,mergewtrrar
+19    release credit hold,release credit hold,releasecredithold
+20    add interchangeable substitution products to order,add interchangeable substitution products to order,addinterchangeablesubstitutionproductstoorder
+20    close the gl,close the gl,closethegl
+20    complete price correction,complete price correction,completepricecorrection
+21    correct payment posted to wrong account,correct payment posted to wrong account,correctpaymentpostedtowrongaccount
+21    generate ic admin inventory classification and rank report,generate ic admin inventory classification and rank report,generateicadmininventoryclassificationandrankreport
+21 print checks,print checks,printchecks
+21    view units of measure,view units of measure,viewunitsofmeasure
+22  enter non stock product on an order,enter non stock product on an order,enternonstockproductonanorder
+22  process short payment with sales tax write off,process short payment with sales tax write off,processshortpaymentwithsalestaxwriteoff
+22  track serial products,track serial products,trackserialproducts
+23 add catalog product to order,add catalog product to order,addcatalogproducttoorder
+23 invoice processing,invoice processing,invoiceprocessing
+24    add special order product to sales order,add special order product to sales order,addspecialorderproducttosalesorder
+24    ar open activity report,ar open activity report,aropenactivityreport
+24    print checks,print checks,printchecks
+25   enter a return order,enter a return order,enterareturnorder
+26   create work order manually,create work order manually,createworkordermanually
+26   enter invoice for misc vendor,enter invoice for misc vendor,enterinvoiceformiscvendor
+28    ar period analysis report,ar period analysis report,arperiodanalysisreport
+co1sesopop20refund customer via cckc,co1sesopop20refund customer via cckc,co1sesopop20refundcustomerviacckc
+co1sesopq2cop13apply account credits to invoicebwkc,co1sesopq2cop13apply account credits to invoicebwkc,co1sesopq2cop13applyaccountcreditstoinvoicebwkc
+co3ppsee01partner set upkc,co3ppsee01partner set upkc,co3ppsee01partnersetupkc
+csd basics,csd basics,csdbasics
+log into uap,log into uap,logintouap
+quiz level 1,quiz level 1,quizlevel1
+quiz level 2  accounts receivable,quiz level 2 accounts receivable,quizlevel2accountsreceivable
+quiz level 2  purchasing 1,quiz level 2 purchasing 1,quizlevel2purchasing1
+quiz level 2  sales 1,quiz level 2 sales 1,quizlevel2sales1
+quiz level 2  warehouse planning,quiz level 2 warehouse planning,quizlevel2warehouseplanning
+sopoe01enter stock customer sales order,sopoe01enter stock customer sales order,sopoe01enterstockcustomersalesorder
+,,

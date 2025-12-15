@@ -1,0 +1,1886 @@
+Module,Entity,SOP,SubSOP,UsersOpened,UsersSucceeded,UsersStillNotPassed,ConversionPct,AttemptsToPass_Min,AttemptsToPass_Avg,AttemptsToPass_Max,TimeToPassHrs_Min,TimeToPassHrs_Avg,TimeToPassHrs_Max,PassScore_Min,PassScore_Avg,PassScore_Max
+01-customer-inquiry-pricing,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+01-log-in-to-sxe,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+01-set-up-vendor,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04add-comments-notes-to-customer-sales-order,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+04enter-a-customer-sales-order-and-record-tender-payments-1,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+06-invoice-sales-order,PALCO,CSD,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+06change-payment-to-split-payment-schedule,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+07-enter-quote-order,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-add-comments-notes-to-customer-sales-order,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+14-use-po-inquiry-to-locate-po,PALCO,CSD,,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,PALCO,CSD,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+25-enter-a-return-order,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+29-ar-year-end-processing-report,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,PALCO,CSD,,1,0,1,0.0,,,,,,,,,
+08-print-a-report,PALCO,ISM,01_Service Order Process,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-use-global-search,PALCO,ISM,02_Rental Process,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,PALCO,ISM,03_Warranty Process,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,PALCO,ISM,03_Warranty Process,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,PALCO,ISM,08_PMA Service Orders,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+02add-items-1,PALCO,ISM,SRO,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03-use-order-inquiry-for-sales-orders,PALCO,ISM,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,PALCO,ISM,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-global-search,PALCO,PURCHASING,01_Purchase Order Entry to Print,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-advanced-search-techniques,PALCO,PURCHASING,01_Purchase Order Entry to Print,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-enter-stock-sales-order-and-change-line-items,PALCO,PURCHASING,01_Purchase Order Entry to Print,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+21-view-units-of-measure,PALCO,PURCHASING,01_Purchase Order Entry to Print,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-access-sales-order-entry-window,PALCO,SALES,02_Order Modification,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-enter-stock-customer-sales-order,PALCO,SALES,02_Order Modification,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,PALCO,SALES,02_Order Modification,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,59.6,100.0
+01ism-incident,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+01perform-lookups-in-customer-sales-order,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+01release-credit-hold,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+01ship-sales-order-include-addons,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02-add-items-to-stock-customer-sales-order,PALCO,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,98.0,100.0
+02-change-layout-and-appearance-of-grid,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+02-create-po,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,PALCO,SALES,02_Order Modification,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-set-up-vendor-ship-from,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,PALCO,SALES,02_Order Modification,2,0,2,0.0,,,,,,,,,
+02review-taxes-totals-payments-for-stock-customer-sales-order,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+03-create-invoice-process-group,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,PALCO,SALES,02_Order Modification,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,94.0,100.0
+035perform-lookups-in-a-po,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+03enter-a-direct-order-1,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+03inquire-on-vendor-info,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,PALCO,SALES,02_Order Modification,2,0,2,0.0,,,,,,,,,
+04-advanced-search-techniques,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-create-pricing-record-using-quantity-break,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+04-grant-authority-to-an-operator,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+045create-warehouse-transfer,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+04change-vendor-invoice---due-date-discount-rate-1,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-lookups-and-search-features,PALCO,SALES,02_Order Modification,2,0,2,0.0,,,,,,,,,
+05-ship-sales-order,PALCO,SALES,02_Order Modification,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,97.25,100.0
+06-invoice-sales-order,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-perform-lookups-in-customer-sales-order,PALCO,SALES,02_Order Modification,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-reverse-a-transaction,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+06suspend-an-order,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-apply-customer-payment-to-invoice,PALCO,SALES,02_Order Modification,2,0,2,0.0,,,,,,,,,
+07-enter-quote-order,PALCO,SALES,02_Order Modification,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-open-help-context-app,PALCO,SALES,02_Order Modification,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-receive-po,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+07-set-up-split-payment-for-invoice-in-entered-stage,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07apply-payment-to-oldest-invoice,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+08-copy-quote-order-to-a-stock-order,PALCO,SALES,02_Order Modification,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,PALCO,SALES,02_Order Modification,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-short-receive-po,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+09-print-a-po,PALCO,SALES,02_Order Modification,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,94.5,100.0
+093run-results-report-in-icepw,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,PALCO,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,92.0,100.0
+10-receive-a-po,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10close-rental,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+11-apply-short-payment-with-write-off,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-process-and-update-batch-journal,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-use-order-inquiry-to-search-for-orders,PALCO,SALES,02_Order Modification,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,92.5,95.0
+11adjust-inventory-to-unavailable,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+12-enter-stock-sales-order-and-change-line-items,PALCO,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+12-inquire-with-order-info,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-enter-a-manual-payment,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+13-receive-warehouse-transfer,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-add-comments-notes-to-customer-sales-order,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+14-process-exception-receipts,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+14-use-po-inquiry-to-locate-po,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-inquire-on-a-product,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16enter-trade-invoice---reconcile-against-multiple-pos-1,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+18-add-lot-numbered-product-to-sales-order,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-copy-pricing-record,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+19-add-optional-product-to-sales-order,PALCO,SALES,02_Order Modification,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,97.0,100.0
+19-run-a-financial-statement,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-complete-price-correction,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-generate-ic-admin-inventory-classification-and-rank-report,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,PALCO,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,PALCO,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+24-add-special-order-product-to-sales-order,PALCO,SALES,02_Order Modification,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24-ar-open-activity-report,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+csd-basics,PALCO,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+quiz-level-2-accounts-receivable,PALCO,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,PALCO,SALES,02_Order Modification,5,3,2,60.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+sopoe01enter-stock-customer-sales-order,PALCO,SALES,02_Order Modification,2,0,2,0.0,,,,,,,,,
+01-access-sales-order-entry-window,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.5,2.0,0.0,0.0,0.0,-1.0,49.5,100.0
+01-log-in-to-sxe,PALCO,SALES,03_Order Review,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01order-inquiry,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+01process-core-as-return-merchandise,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+02-enter-stock-customer-sales-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02-set-up-ship-to-address,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+02-set-up-vendor-ship-from,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02verify-customer-eligibility,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+03-create-and-verify-a-pricing-record,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+03inquire-on-vendor-info,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-advanced-search-techniques,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-copy-inventory-item-to-single-wh,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+04-enter-a-credit-memo,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+04-enter-and-process-expense-invoice,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+04-print-customer-order-pick-ticket,PALCO,SALES,03_Order Review,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+04change-vendor-invoice---due-date-discount-rate-1,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.5,100.0
+05manually-apply-hold-and-approve-held-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-add-note-using-notes-context-app,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+06-create-price-record-set,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+06-invoice-sales-order,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,64.33333333333333,97.0
+06-perform-lookups-in-customer-sales-order,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+06-print-pre-receiving-report,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+06returning-an-acknowledged-po-to-the-printed-stage,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+06run-ar-year-end-processing-report,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+06suspend-an-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-apply-customer-payment-to-invoice,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+07-open-help-context-app,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-po,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+09-add-product-to-po-at-receiving,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,93.0,100.0
+09-print-a-po,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+11-cost-po-to-vendor-invoice,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-enter-a-misc-credit,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+11-run-expired-pricing-records-report,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+11-use-order-inquiry-to-search-for-orders,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+11adjust-inventory-to-unavailable,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,96.0,98.0
+12-inquire-with-order-info,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13add-freight-to-rental,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+14-add-comments-notes-to-customer-sales-order,PALCO,SALES,03_Order Review,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.33333333333333,100.0
+15-use-global-search,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-suspend-an-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-add-optional-product-to-sales-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-add-interchangeable-substitution-products-to-order,PALCO,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-view-units-of-measure,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+23-review-exception-processing-center-screen,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+24-review-setup-of-pre-built-kit-item,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+25-enter-a-return-order,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+27-set-up-vendor-history-table,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-1,PALCO,SALES,03_Order Review,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-accounts-receivable,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,PALCO,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+uap-101,PALCO,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+01perform-lookups-in-customer-sales-order,PALCO,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+03-global-search,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,PALCO,SALES,05_Product Management,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+03-use-order-inquiry-for-sales-orders,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-adjust-line-items,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04generate-ic-admin-inventory-classification-and-rank-report,PALCO,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+07-enter-quote-order,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+09-add-product-to-po-at-receiving,PALCO,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+11-apply-short-payment-with-write-off,PALCO,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+11-receive-corrections,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+14-use-po-inquiry-to-locate-po,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-apply-a-cod-credit,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16customer-statement-print,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+26-enter-invoice-for-misc-vendor,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+quiz-level-1,PALCO,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+sopoe01enter-stock-customer-sales-order,PALCO,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+01create-a-blanket-order,PALCO,SALES,Palco Specific Sales,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02enter-a-quote-order-1,PALCO,SALES,Palco Specific Sales,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,PALCO,SALES,Palco Specific Sales,1,0,1,0.0,,,,,,,,,
+08-print-a-report,PALCO,SALES,Palco Specific Sales,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,PALCO,SALES,Palco Specific Sales,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+02csd-incident,PALCO,Sales,,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,PALCO,Sales,,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,PALCO,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+07-open-help-context-app,PALCO,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,PALCO,Sales,,1,0,1,0.0,,,,,,,,,
+03-create-invoice-process-group,SE,AR,Customer,1,0,1,0.0,,,,,,,,,
+07-apply-customer-payment-to-invoice,SE,AR,,1,0,1,0.0,,,,,,,,,
+10-print-po,SE,AR,,1,0,1,0.0,,,,,,,,,
+004order-inquiries,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,BASIC,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-customer-inquiry-pricing,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01-enter-stock-customer-sales-order,SE,BASIC,,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,74.75,100.0
+01-log-in-to-sxe,SE,BASIC,,8,4,4,50.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,98.5,100.0
+01-run-sa-operator-security-violations-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01-set-up-new-product-and-product-line,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01-set-up-vendor,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01create-a-blanket-order,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01create-a-customer-unit,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01create-invoice-process-group-1,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01enter-an-invoice,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01generate-rrar,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+01ism-incident,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+01perform-lookups-in-customer-sales-order,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01price-correction,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01print-po-expedite-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01process-core-as-return-merchandise,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01purchase-order-submit-po-to-vendor,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+01review-the-shopping-list,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+01ship-sales-order-include-addons,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+01view-consolidation-info-in-demand-center,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01wire-order-placement,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,BASIC,,6,4,2,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,BASIC,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,99.0,100.0
+02-enter-stock-customer-sales-order,SE,BASIC,,6,4,2,66.66666666666667,1.0,1.25,2.0,0.0,0.3416666666666667,1.3666666666666667,100.0,100.0,100.0
+02-set-up-vendor-ship-from,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02add-items-to-po-and-finish-it,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+02add-rental-items,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02copy-customer-sales-order,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02csd-incident,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02enter-a-credit-memo,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,BASIC,,3,0,3,0.0,,,,,,,,,
+02partners-schedule-set-up,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02print-pick-ticket,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+02run-either-the-ic-entry-cycle-count-report-or-the-ic-entry-physical-count-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+03-create-and-verify-a-pricing-record,SE,BASIC,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-create-invoice-process-group,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-enter-an-invoice,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,BASIC,,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,SE,BASIC,,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,97.75,100.0
+03-use-order-inquiry-for-sales-orders,SE,BASIC,,3,0,3,0.0,,,,,,,,,
+03change-working-status,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+03enter-a-direct-order-1,SE,BASIC,,5,2,3,40.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,49.5,100.0
+03enter-stock-sales-order-and-change-line-items,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+03incident-to-sro,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+03print-count-sheets,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03print-fill-report-by-class-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+03review-and-modify-rrar-record,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+03short-pay-with-sales-tax-1,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+03use-order-inquiry-to-search-for-orders,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-adjust-line-items,SE,BASIC,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+04-advanced-search-techniques,SE,BASIC,,8,6,2,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,BASIC,,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,96.5,100.0
+04-set-up-accounts,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+04add-comments-notes-to-customer-sales-order,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+04bill-contract,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+04enter-a-customer-sales-order-and-record-tender-payments-1,SE,BASIC,,3,0,3,0.0,,,,,,,,,
+04finish-the-purchase-order,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,81.0,81.0
+04view-job-in-bidding-calendar,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04view-units-of-measure,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-assign-serial-numbers-to-transfer-during-shipping,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+05-copy-pricing-record-to-new-customer,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-inquire-on-vendor-info,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-lookups-and-search-features,SE,BASIC,,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,95.5,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,BASIC,,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,SE,BASIC,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-bidder-details-to-project-entry,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+05apply-payment-to-invoice,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+05arrp-period-analysis-report,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+05manually-apply-hold-and-approve-held-order,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+05notes-on-a-warehouse-transfer,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+05perform-shipping-feedback-to-ship-order,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,86.0,86.0
+05set-up-split-payment-for-invoice-in-entered-stage,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,81.0,81.0
+06-add-note-using-notes-context-app,SE,BASIC,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-create-price-record-set,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-inquire-on-a-product,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+06-invoice-sales-order,SE,BASIC,,8,3,5,37.5,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+06-perform-lookups-in-customer-sales-order,SE,BASIC,,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-reverse-a-transaction,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+06add-operations-1,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+06apply-payment-to-multiple-invoices,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+06change-payment-to-split-payment-schedule,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-apply-customer-payment-to-invoice,SE,BASIC,,6,5,1,83.33333333333333,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,79.0,100.0
+07-enter-quote-order,SE,BASIC,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+07-open-help-context-app,SE,BASIC,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,81.5,100.0
+07-receive-po,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07adjust-rarr-quantities-using-increase-decrease-function-in-po-demand-center,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+07edit-entered-counts,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+07run-wt-entry-recommended-replenishment-action-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+08-apply-payment-to-multiple-invoices,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-quote-order-to-a-stock-order,SE,BASIC,,8,7,1,87.5,1.0,1.0,1.0,0.0,0.0,0.0,90.0,97.14285714285714,100.0
+08-create-a-po,SE,BASIC,,8,6,2,75.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,83.16666666666667,100.0
+08-enter-real-time-journal,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+08-print-a-report,SE,BASIC,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+08check-out-rental,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+08mark-reconciled,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+08process-short-payment,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-enter-a-direct-order,SE,BASIC,,6,4,2,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,93.0,95.5,100.0
+09-perform-a-reversal,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,BASIC,,5,1,4,20.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+09-print-a-po,SE,BASIC,,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,98.5,100.0
+09consolidate-multiple-rrars-for-different-vendor-product-lines-or-warehouses,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09correcting-a-wrong-product-receipt,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+09enter-a-misc-credit-1,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+10-enter-a-credit-memo,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,BASIC,,8,7,1,87.5,1.0,1.0,1.0,0.0,0.0,0.0,90.0,96.28571428571429,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,BASIC,,8,5,3,62.5,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,BASIC,,9,7,2,77.77777777777777,1.0,1.0,1.0,0.0,0.0,0.0,95.0,98.57142857142857,100.0
+10apply-hold-and-approve-held-po-1,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+10apply-payment-with-unearned-discount,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+10correcting-a-wrong-cost-receipt,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+10enter-a-debit-memo,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+10receive-the-non-stock,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,BASIC,,6,5,1,83.33333333333333,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.2,100.0
+11-enter-a-misc-credit,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-process-and-update-batch-journal,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+11-run-expired-pricing-records-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+11-use-order-inquiry-to-search-for-orders,SE,BASIC,,6,3,3,50.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,96.66666666666667,100.0
+11apply-payment-using-split-check,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+11change-billing-details,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-inquire-with-order-info,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+12-print-warehouse-transfer-pre-receiving-report,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+13-copy-customer-sales-order,SE,BASIC,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,85.0,92.5,100.0
+13-enter-a-manual-payment,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,BASIC,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-receive-warehouse-transfer,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13enter-trade-invoice---po-matches,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+14-add-comments-notes-to-customer-sales-order,SE,BASIC,,6,4,2,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,92.0,95.5,100.0
+14-ar-trial-balance-report,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+14-use-po-inquiry-to-locate-po,SE,BASIC,,8,4,4,50.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.5,97.0
+15-apply-account-credits-to-invoice,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+15-manually-apply-hold-and-approve-held-order,SE,BASIC,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-review-balance-history,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-use-global-search,SE,BASIC,,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,97.5,100.0
+15apply-misc-cash,SE,BASIC,,3,0,3,0.0,,,,,,,,,
+16-print-count-sheets,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+16-suspend-an-order,SE,BASIC,,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,98.4,100.0
+16enter-trade-invoice---reconcile-against-multiple-pos-1,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+17-enter-sales-order-for-kits,SE,BASIC,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+18-accept-wt-rrar,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-add-lot-numbered-product-to-sales-order,SE,BASIC,,8,7,1,87.5,1.0,1.0,1.0,0.0,0.0,0.0,94.0,99.14285714285714,100.0
+18-modify-customer-invoice,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-add-optional-product-to-sales-order,SE,BASIC,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-enter-trade-invoice---partial-receipt,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-merge-wt-rrar,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+19refund-customer-via-check,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+19select-invoices-for-payment,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+20-add-interchangeable-substitution-products-to-order,SE,BASIC,,8,8,0,100.0,1.0,1.125,2.0,0.0,0.008333333333333333,0.06666666666666667,100.0,100.0,100.0
+20-close-the-gl,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+20ap-vendor-entry-pay-invoice-due-report-1,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+21-correct-payment-posted-to-wrong-account,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-create-product-lot-numbers,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,BASIC,,7,7,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,85.57142857142857,100.0
+21print-checks,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+22-enter-non-stock-product-on-an-order,SE,BASIC,,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-process-short-payment-with-sales-tax-write-off,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+22run-credit-card-receive-on-account,SE,BASIC,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,BASIC,,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,97.0,100.0
+23-update-account-due-to-returned-check,SE,BASIC,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+24-add-special-order-product-to-sales-order,SE,BASIC,,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,79.8,100.0
+24-ar-open-activity-report,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24process-payable-invoice,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+25-enter-a-return-order,SE,BASIC,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,86.0,93.0,100.0
+25-set-up-misc-vendor-in-ap,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+27-ar-trial-balance-report,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+28-set-up-federal-tax-1099,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+29-ar-year-end-processing-report,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+co1sesopop20refund-customer-via-cckc,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+co1sesopq2cop13apply-account-credits-to-invoicebwkc,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+co3ppsoohow-to-do-a-shipping-feedback-for-start-upbwkc,SE,BASIC,,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,BASIC,,6,2,4,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,46.5,94.0
+log-into-uap,SE,BASIC,,2,0,2,0.0,,,,,,,,,
+quiz-level-1,SE,BASIC,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-purchasing-2,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+quiz-level-2-sales-1,SE,BASIC,,4,1,3,25.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+scott-electric-navigation,SE,BASIC,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+sopoe01enter-stock-customer-sales-order,SE,BASIC,,9,2,7,22.22222222222222,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,41.0,83.0
+sopoe07enter-a-return-order-1,SE,BASIC,,6,1,5,16.666666666666668,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+004order-inquiries,SE,Basic,Inquiries,2,0,2,0.0,,,,,,,,,
+01perform-lookups-in-customer-sales-order,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01product-inquiry,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02-enter-stock-customer-sales-order,SE,Basic,Inquiries,1,0,1,0.0,,,,,,,,,
+02customer-inquiry-with-past-due-invoices-large-dollar-amount-balance,SE,Basic,Inquiries,1,0,1,0.0,,,,,,,,,
+04-enter-a-credit-memo,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-add-note-using-notes-context-app,SE,Basic,Inquiries,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-enter-a-direct-order,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-cost-po-to-vendor-invoice,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-use-order-inquiry-to-search-for-orders,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,82.0,82.0,82.0
+13-inquire-without-order-info,SE,Basic,Inquiries,1,0,1,0.0,,,,,,,,,
+14-add-comments-notes-to-customer-sales-order,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+20-add-interchangeable-substitution-products-to-order,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+29-ar-year-end-processing-report,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+csd-basics,SE,Basic,Inquiries,1,0,1,0.0,,,,,,,,,
+quiz-level-2-accounts-receivable,SE,Basic,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+01-access-sales-order-entry-window,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,40.5,82.0
+01-set-up-new-product-and-product-line,SE,Basic,,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,Basic,,1,0,1,0.0,,,,,,,,,
+01enter-an-invoice,SE,Basic,,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,67.0,67.0,67.0
+01purchase-order-submit-po-to-vendor,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,94.0,100.0
+01ship-sales-order-include-addons,SE,Basic,,1,0,1,0.0,,,,,,,,,
+02-assign-serial-numbers-to-orders-during-shipping,SE,Basic,,1,0,1,0.0,,,,,,,,,
+02-change-layout-and-appearance-of-grid,SE,Basic,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.66666666666667,100.0
+02-enter-stock-customer-sales-order,SE,Basic,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,44.5,90.0
+02csd-incident,SE,Basic,,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02partners-schedule-set-up,SE,Basic,,1,0,1,0.0,,,,,,,,,
+02print-inventory-turnover-report,SE,Basic,,1,0,1,0.0,,,,,,,,,
+02purchase-order-maintain-po,SE,Basic,,1,0,1,0.0,,,,,,,,,
+03-create-invoice-process-group,SE,Basic,,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03change-working-status,SE,Basic,,1,0,1,0.0,,,,,,,,,
+03enter-stock-sales-order-and-change-line-items,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,99.0,100.0
+03incident-to-sro,SE,Basic,,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,Basic,,2,0,2,0.0,,,,,,,,,
+04-advanced-search-techniques,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,Basic,,1,0,1,0.0,,,,,,,,,
+04-ship-warehouse-transfer,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04add-re-rent-items,SE,Basic,,1,0,1,0.0,,,,,,,,,
+04change-vendor-invoice---due-date-discount-rate-1,SE,Basic,,1,0,1,0.0,,,,,,,,,
+04enter-a-customer-sales-order-and-record-tender-payments-1,SE,Basic,,1,0,1,0.0,,,,,,,,,
+05-ship-sales-order,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-sro-lines,SE,Basic,,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.0,100.0
+06-perform-lookups-in-customer-sales-order,SE,Basic,,2,0,2,0.0,,,,,,,,,
+06apply-payment-to-multiple-invoices,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06suspend-an-order,SE,Basic,,1,0,1,0.0,,,,,,,,,
+07-apply-customer-payment-to-invoice,SE,Basic,,1,0,1,0.0,,,,,,,,,
+07-inquire-on-product-availability,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+07mark-accepted,SE,Basic,,1,0,1,0.0,,,,,,,,,
+08-copy-quote-order-to-a-stock-order,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+08-create-a-po,SE,Basic,,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,99.0,100.0
+08-print-a-report,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-add-product-to-po-at-receiving,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-enter-a-direct-order,SE,Basic,,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09enter-a-misc-credit-1,SE,Basic,,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+10-receive-a-po,SE,Basic,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10apply-payment-with-unearned-discount,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-cost-po-to-vendor-invoice,SE,Basic,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+11-use-order-inquiry-to-search-for-orders,SE,Basic,,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,82.0,92.75,97.0
+11change-billing-details,SE,Basic,,1,0,1,0.0,,,,,,,,,
+11merge-posprint-posgenrerate-exception-report,SE,Basic,,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,SE,Basic,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-inquire-with-order-info,SE,Basic,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-apply-payment-using-split-check,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,96.5,100.0
+13-copy-customer-sales-order,SE,Basic,,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-create-new-trade-vendor,SE,Basic,,1,0,1,0.0,,,,,,,,,
+15-manually-apply-hold-and-approve-held-order,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+15-use-global-search,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-apply-a-cod-credit,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-suspend-an-order,SE,Basic,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-enter-sales-order-for-kits,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.0,100.0
+18-accept-wt-rrar,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+18-add-lot-numbered-product-to-sales-order,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-enter-trade-invoice---reconcile-against-multiple-pos,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18enter-trade-invoice---po-correction,SE,Basic,,1,0,1,0.0,,,,,,,,,
+18process-overpayment,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+19-add-optional-product-to-sales-order,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19refund-customer-via-check,SE,Basic,,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,Basic,,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-ap-vendor-entry-pay-invoice-due-report,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24-add-special-order-product-to-sales-order,SE,Basic,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+25-enter-a-return-order,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-1,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+quiz-level-2-warehouse-planning,SE,Basic,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+sopoe01enter-stock-customer-sales-order,SE,Basic,,1,0,1,0.0,,,,,,,,,
+01create-a-blanket-order,SE,Basics,,1,0,1,0.0,,,,,,,,,
+01perform-lookups-in-customer-sales-order,SE,Basics,,1,0,1,0.0,,,,,,,,,
+02-change-layout-and-appearance-of-grid,SE,Basics,,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-a-direct-order-1,SE,Basics,,1,0,1,0.0,,,,,,,,,
+04change-operations,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-open-help-context-app,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-quote-order-to-a-stock-order,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+09-enter-a-direct-order,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+14-add-comments-notes-to-customer-sales-order,SE,Basics,,1,0,1,0.0,,,,,,,,,
+14-use-po-inquiry-to-locate-po,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+17-enter-sales-order-for-kits,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+csd-basics,SE,Basics,,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,SE,Basics,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+02verify-customer-eligibility,SE,Count,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-use-order-inquiry-to-search-for-orders,SE,Count,,1,0,1,0.0,,,,,,,,,
+12-inquire-with-order-info,SE,Count,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+19-add-optional-product-to-sales-order,SE,Count,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+03inquire-on-vendor-info,SE,Customer,,1,0,1,0.0,,,,,,,,,
+20-add-interchangeable-substitution-products-to-order,SE,Customer,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-access-sales-order-entry-window,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,86.0,86.0
+01-enter-stock-customer-sales-order,SE,FINANCIAL,Accounts Payable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01create-purchase-order,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+01ism-incident,SE,FINANCIAL,Accounts Payable,2,0,2,0.0,,,,,,,,,
+01order-inquiry,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+01run-arro-ar-open-activity-report,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+01ship-sales-order-include-addons,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+01travel-to-site,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-assign-serial-numbers-to-orders-during-shipping,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+02adjust-line-items,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+02csd-incident,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,FINANCIAL,Accounts Payable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+02merge-posprint-posgenerate-exception-report,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+02view-rrar-records,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-enter-an-invoice,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,FINANCIAL,Accounts Payable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03acknowledge-purchase-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+03change-working-status,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-stock-sales-order-and-change-line-items,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+03generate-ic-admin-review-cycle-adjustment-report,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+03review-and-modify-rrar-record,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+03use-order-inquiry-to-search-for-orders,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-advanced-search-techniques,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+045create-warehouse-transfer,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+04arrt-run-trial-balance-report,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+04bill-contract,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+04create-a-start-up-incident,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+04review-line-item-details,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+04view-units-of-measure,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+05-assign-serial-numbers-to-transfer-during-shipping,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-lookups-and-search-features,SE,FINANCIAL,Accounts Payable,2,0,2,0.0,,,,,,,,,
+05-ship-sales-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+05add-special-order-product-to-sales-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05locate-po-using-po-inquiry,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,87.0,87.0,87.0
+05set-up-split-payment-for-invoice-in-entered-stage,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+06-perform-lookups-in-customer-sales-order,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+06-print-pre-receiving-report,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06change-po,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06create-a-warranty-code,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+06enter-a-non-stock-product-on-an-order,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+06ism-invoice,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+06suspend-an-order,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+08-short-receive-po,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08add-a-non-stock,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+08register-unit,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+08run-physical-count-sheet,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-print-a-po,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09check-in-rental,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+10-process-short-payment,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+10-receive-a-po,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+10-receive-serialized-product,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10apply-payment-with-unearned-discount,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+10receive-the-non-stock,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-print-warehouse-transfer-pre-receiving-report,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12apply-credit-to-invoice,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+13-copy-customer-sales-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+13-receive-warehouse-transfer,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13add-items-using-easy-line-entry,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+14-process-exception-receipts,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+14-use-po-inquiry-to-locate-po,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+15-inquire-on-a-product,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+15add-nonstock-items-to-a-purchase-order-using-advanced-line-entry,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+16-print-count-sheets,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+17-apply-misc-cash,SE,FINANCIAL,Accounts Payable,2,0,2,0.0,,,,,,,,,
+17-enter-sales-order-for-kits,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+17-run-wt-entry-recommended-replenishment-action-report,SE,FINANCIAL,Accounts Payable,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17enter-trade-invoice---partial-receipt-short-pay,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+18-accept-wt-rrar,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-add-lot-numbered-product-to-sales-order,SE,FINANCIAL,Accounts Payable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+23-add-catalog-product-to-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+24process-payable-invoice,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+25-enter-a-return-order,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+26-print-customer-statement,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+co3ppsoohow-to-do-a-shipping-feedback-for-start-upbwkc,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,FINANCIAL,Accounts Payable,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,83.0,88.5,94.0
+quiz-level-1,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+quiz-level-2-accounts-receivable,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-2-sales-1,SE,FINANCIAL,Accounts Payable,2,0,2,0.0,,,,,,,,,
+quiz-level-2-warehouse-planning,SE,FINANCIAL,Accounts Payable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+uap-101-1,SE,FINANCIAL,Accounts Payable,1,0,1,0.0,,,,,,,,,
+01-create-new-vendor,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01-enter-stock-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,FINANCIAL,Accounts Receivable,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+01-set-up-vendor,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01copy-quote-order-to-a-stock-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01create-invoice-process-group-1,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01create-rental-contract,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01enter-an-invoice,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01ism-incident,SE,FINANCIAL,Accounts Receivable,2,1,1,50.0,2.0,2.0,2.0,191.11666666666667,191.11666666666667,191.11666666666667,100.0,100.0,100.0
+01order-inquiry,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01review-the-shopping-list,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+02-company-setup-in-gl,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+02add-a-warranty-to-a-unit-1,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+02csd-incident,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,2.0,2.0,2.0,120.25,120.25,120.25,100.0,100.0,100.0
+02enter-a-quote-order-1,SE,FINANCIAL,Accounts Receivable,2,0,2,0.0,,,,,,,,,
+02verify-customer-eligibility,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+03-create-invoice-process-group,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03-global-search,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-admin-options-in-gl,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+03establish-job-entry,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+03initiate-vendor-return,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+03print-count-sheets,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+03use-order-inquiry-to-search-for-orders,SE,FINANCIAL,Accounts Receivable,2,0,2,0.0,,,,,,,,,
+04-adjust-line-items,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,2.0,2.0,2.0,115.33333333333333,115.33333333333333,115.33333333333333,96.0,96.0,96.0
+04-print-customer-order-pick-ticket,SE,FINANCIAL,Accounts Receivable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04accumulative-pos,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+04add-comments-notes-to-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+04arrt-run-trial-balance-report,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-special-order-product-to-sales-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+05set-up-split-payment-for-invoice-in-entered-stage,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+06-invoice-sales-order,SE,FINANCIAL,Accounts Receivable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+06-perform-lookups-in-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06add-line,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+06add-operations-1,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+06create-a-warranty-code,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+07-apply-customer-payment-to-invoice,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07apply-payment-to-oldest-invoice,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+07perform-a-reversal,SE,FINANCIAL,Accounts Receivable,2,0,2,0.0,,,,,,,,,
+08-create-a-po,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+08-print-a-report,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+08-short-receive-po,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+09-print-a-po,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+10-receive-a-po,SE,FINANCIAL,Accounts Receivable,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10enter-a-debit-memo,SE,FINANCIAL,Accounts Receivable,2,0,2,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+11-use-order-inquiry-to-search-for-orders,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+12-enter-stock-sales-order-and-change-line-items,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+13-apply-payment-using-split-check,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+13enter-trade-invoice---po-matches,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+14-apply-credit-to-invoice,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+14close-sro,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+15-ic-trial-balance-of-stock-inventory-report,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+16-suspend-an-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+17-enter-sales-order-for-kits,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+18-generate-a-tax-register,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+18enter-trade-invoice---po-correction,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+19-add-optional-product-to-sales-order,SE,FINANCIAL,Accounts Receivable,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-change-prices-and-costs-on-group-of-products,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+19select-invoices-for-payment,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+20-add-interchangeable-substitution-products-to-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-cash-requirements-report,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,FINANCIAL,Accounts Receivable,2,2,0,100.0,1.0,1.5,2.0,0.0,59.09166666666667,118.18333333333334,97.0,98.5,100.0
+23-add-catalog-product-to-order,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+25-enter-a-return-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+26-create-work-order-manually,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+co1sesopq2cop13apply-account-credits-to-invoicebwkc,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+co3ppsee01partner-set-upkc,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,FINANCIAL,Accounts Receivable,1,1,0,100.0,3.0,3.0,3.0,0.08333333333333333,0.08333333333333333,0.08333333333333333,83.0,83.0,83.0
+sopoe01enter-stock-customer-sales-order,SE,FINANCIAL,Accounts Receivable,1,0,1,0.0,,,,,,,,,
+01add-items-to-stock-customer-sales-order,SE,FINANCIAL,Credit,1,0,1,0.0,,,,,,,,,
+08enter-a-credit-memo-1,SE,FINANCIAL,Credit,1,0,1,0.0,,,,,,,,,
+15enter-trade-invoice---add-on-charges,SE,FINANCIAL,Credit,1,0,1,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01copy-quote-order-to-a-stock-order,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+01review-the-shopping-list,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+03-review-the-shopping-list,SE,FINANCIAL,General Ledger,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03use-order-inquiry-to-search-for-orders,SE,FINANCIAL,General Ledger,1,0,1,0.0,,,,,,,,,
+05-ship-sales-order,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-add-note-using-notes-context-app,SE,FINANCIAL,General Ledger,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+08-change-payment-to-split-payment-schedule,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-perform-a-reversal,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+09-print-a-po,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-add-comments-notes-to-customer-sales-order,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+16-enter-trade-invoice---po-does-not-match,SE,FINANCIAL,General Ledger,1,0,1,0.0,,,,,,,,,
+16-suspend-an-order,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-generate-a-tax-register,SE,FINANCIAL,General Ledger,1,0,1,0.0,,,,,,,,,
+sopoe01enter-stock-customer-sales-order,SE,FINANCIAL,General Ledger,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01filter-working-status,SE,Finance,AP,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02enter-a-credit-memo,SE,Finance,AP,1,0,1,0.0,,,,,,,,,
+03incident-to-sro,SE,Finance,AP,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05apply-payment-to-invoice,SE,Finance,AP,1,0,1,0.0,,,,,,,,,
+25-enter-a-return-order,SE,Finance,AP,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,Finance,AP,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+01-access-sales-order-entry-window,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,86.0,86.0
+01-enter-stock-customer-sales-order,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,83.0,91.5,100.0
+01-log-in-to-sxe,SE,Finance,AR,8,3,5,37.5,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,32.666666666666664,100.0
+01-set-up-customer,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01add-items-to-stock-customer-sales-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01create-a-customer-unit,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01create-invoice-process-group-1,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01ism-incident,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01perform-lookups-in-customer-sales-order,SE,Finance,AR,2,0,2,0.0,,,,,,,,,
+01price-correction,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01product-inquiry,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+01run-arro-ar-open-activity-report,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+01travel-to-site,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,94.0,97.0,100.0
+02-change-layout-and-appearance-of-grid,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-report-scheduler-startup-shutdown-function,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02-set-up-vendor-ship-from,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02adjust-line-items,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02csd-incident,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02customer-inquiry-with-past-due-invoices-large-dollar-amount-balance,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02print-pick-ticket,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02purchase-order-maintain-po,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02use-order-inquiry-to-search-orders,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+02view-rrar-records,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+03-create-invoice-process-group,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-global-search,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-r-and-d-operator-record,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+035perform-lookups-in-a-po,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-a-direct-order-1,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+03enter-stock-sales-order-and-change-line-items,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03establish-job-entry,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+03generate-ic-admin-review-cycle-adjustment-report,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+03incident-to-sro,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03purchase-order-apply-add-ons-and-discounts,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,Finance,AR,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+04-advanced-search-techniques,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+04-grant-authority-to-an-operator,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,49.5,100.0
+04-set-up-accounts,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+04add-comments-notes-to-customer-sales-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+04add-re-rent-items,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+04arrt-run-trial-balance-report,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+04enter-a-customer-sales-order-and-record-tender-payments-1,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+04finish-the-purchase-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+04review-line-item-details,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-apply-payment-with-debit-memo,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-create-warehouse-transfer,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,Finance,AR,6,6,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,93.66666666666667,100.0
+05run-oeepc,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+05update-or-validate-quantities-needed,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,Finance,AR,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,94.0,100.0
+06-invoice-sales-order,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-perform-lookups-in-customer-sales-order,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+06-print-pre-receiving-report,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+06-reverse-a-transaction,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+06create-a-warranty-code,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+06suspend-an-order,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-apply-customer-payment-to-invoice,SE,Finance,AR,6,5,1,83.33333333333333,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,77.4,100.0
+07-enter-quote-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,Finance,AR,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-set-up-bank-and-add-to-vendor,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07adjust-rarr-quantities-using-increase-decrease-function-in-po-demand-center,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+07edit-entered-counts,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+07perform-a-reversal,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+08-copy-quote-order-to-a-stock-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+08-create-a-po,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-export-pricing-data-to-excel,SE,Finance,AR,2,0,2,0.0,,,,,,,,,
+08-print-a-report,SE,Finance,AR,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,95.0,100.0
+08correcting-an-over-under-receipt,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+08process-short-payment,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+09-enter-a-direct-order,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,86.0,86.0
+093run-results-report-in-icepw,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+09apply-short-payment-with-write-off,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+09order-inquiry-using-a-serial-number,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,Finance,AR,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,90.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,Finance,AR,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,98.0,99.0,100.0
+11-receive-corrections,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+11schedule-service,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+12-enter-reverse-entry-journal,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-enter-stock-sales-order-and-change-line-items,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+12-inquire-with-order-info,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.0,100.0
+12-print-warehouse-transfer-pre-receiving-report,SE,Finance,AR,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+12apply-credit-to-invoice,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+13-copy-customer-sales-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+13-inquire-without-order-info,SE,Finance,AR,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.5,100.0
+13enter-trade-invoice---po-matches,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+14-add-comments-notes-to-customer-sales-order,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+14-use-po-inquiry-to-locate-po,SE,Finance,AR,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.0,100.0
+15-enter-trade-invoice---po-matches,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-inquire-on-a-product,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-use-global-search,SE,Finance,AR,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,95.0,100.0
+16-apply-a-cod-credit,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+16-suspend-an-order,SE,Finance,AR,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-apply-misc-cash,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-enter-sales-order-for-kits,SE,Finance,AR,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-run-wt-entry-recommended-replenishment-action-report,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17enter-trade-invoice---partial-receipt-short-pay,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+18-add-lot-numbered-product-to-sales-order,SE,Finance,AR,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,98.5,100.0
+18enter-trade-invoice---po-correction,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+19-add-optional-product-to-sales-order,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+19-enter-trade-invoice---partial-receipt,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-merge-wt-rrar,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-release-credit-hold,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+19refund-customer-via-check,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+20-add-interchangeable-substitution-products-to-order,SE,Finance,AR,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,98.0,100.0
+21-view-units-of-measure,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+22-review-ic-month-end-processing-report-options,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+22-select-invoices-for-payment,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,Finance,AR,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+24-add-special-order-product-to-sales-order,SE,Finance,AR,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.4,100.0
+24-print-checks,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+25-enter-a-return-order,SE,Finance,AR,6,6,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,98.33333333333333,100.0
+26-print-customer-statement,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+28-ar-period-analysis-report,SE,Finance,AR,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+co1sesopop20refund-customer-via-cckc,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+co1sesopq2cop13apply-account-credits-to-invoicebwkc,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+csd-basics,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+quiz-level-1,SE,Finance,AR,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-purchasing-2,SE,Finance,AR,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,SE,Finance,AR,10,5,5,50.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,84.0,90.0
+sopoe01enter-stock-customer-sales-order,SE,Finance,AR,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,49.5,100.0
+sopoe07enter-a-return-order-1,SE,Finance,AR,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+01ism-incident,SE,Finance,GL,1,0,1,0.0,,,,,,,,,
+01run-arro-ar-open-activity-report,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-set-up-a-customer-record,SE,Finance,GL,1,0,1,0.0,,,,,,,,,
+02adjust-line-items,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-print-a-po,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-add-comments-notes-to-customer-sales-order,SE,Finance,GL,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,94.5,97.0
+14-use-po-inquiry-to-locate-po,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-use-global-search,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15enter-trade-invoice---add-on-charges,SE,Finance,GL,1,0,1,0.0,,,,,,,,,
+25-enter-a-return-order,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+co1sesopq2cop13apply-account-credits-to-invoicebwkc,SE,Finance,GL,1,0,1,0.0,,,,,,,,,
+quiz-level-1,SE,Finance,GL,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,SE,Finance,GL,1,0,1,0.0,,,,,,,,,
+quiz-level-2-warehouse-planning,SE,Finance,GL,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+sopoe01enter-stock-customer-sales-order,SE,Finance,GL,1,0,1,0.0,,,,,,,,,
+02csd-incident,SE,Finance,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04add-comments-notes-to-customer-sales-order,SE,Finance,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-change-vendor-invoice---due-date-discount-rate,SE,Finance,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-enter-stock-customer-sales-order,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,Inventory Control,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01add-items-to-stock-customer-sales-order,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+01ism-incident,SE,Inventory Control,,1,0,1,0.0,,,,,,,,,
+04-copy-inventory-item-to-single-wh,SE,Inventory Control,,1,0,1,0.0,,,,,,,,,
+05-move-non-stock-item-to-stock-item,SE,Inventory Control,,1,0,1,0.0,,,,,,,,,
+06-perform-lookups-in-customer-sales-order,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+07-open-help-context-app,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-print-a-po,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+quiz-level-2-sales-1,SE,Inventory Control,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+01-access-sales-order-entry-window,SE,OPERATIONS,00_Basic Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-perform-lookups-in-customer-sales-order,SE,OPERATIONS,00_Basic Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-inquire-with-order-info,SE,OPERATIONS,00_Basic Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-access-sales-order-entry-window,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+02enter-a-quote-order-1,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02verify-customer-eligibility,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03establish-job-entry,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04view-job-in-bidding-calendar,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06add-vendor-details-to-project-entry,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06enter-a-non-stock-product-on-an-order,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+09-enter-a-direct-order,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+12-print-warehouse-transfer-pre-receiving-report,SE,OPERATIONS,02_Warehouse,1,0,1,0.0,,,,,,,,,
+13-copy-customer-sales-order,SE,OPERATIONS,02_Warehouse,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+19-add-optional-product-to-sales-order,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-add-interchangeable-substitution-products-to-order,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,OPERATIONS,02_Warehouse,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+25-enter-a-return-order,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+log-into-uap,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+quiz-level-2-sales-1,SE,OPERATIONS,02_Warehouse,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+uap-101-1,SE,OPERATIONS,02_Warehouse,1,0,1,0.0,,,,,,,,,
+01-enter-stock-customer-sales-order,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,82.0,82.0,82.0
+01ism-incident,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+01travel-to-site,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,OPERATIONS,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+02enter-a-quote-order-1,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02verify-customer-eligibility,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+03-use-order-inquiry-for-sales-orders,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+03establish-job-entry,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-advanced-search-techniques,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+08-create-a-po,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-export-pricing-data-to-excel,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+08-print-a-report,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+10-receive-a-po,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,OPERATIONS,,1,1,0,100.0,2.0,2.0,2.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-add-comments-notes-to-customer-sales-order,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+16-suspend-an-order,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-add-optional-product-to-sales-order,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+quiz-level-1,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,SE,OPERATIONS,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+sopoe01enter-stock-customer-sales-order,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+uap-101,SE,OPERATIONS,,1,0,1,0.0,,,,,,,,,
+01create-invoice-process-group-1,SE,Operations,,1,0,1,0.0,,,,,,,,,
+02add-items-to-po-and-finish-it,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+03-review-the-shopping-list,SE,Operations,,1,0,1,0.0,,,,,,,,,
+03enter-stock-sales-order-and-change-line-items,SE,Operations,,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,SE,Operations,,1,0,1,0.0,,,,,,,,,
+04enter-the-count-into-csd-using-count-entry-function,SE,Operations,,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06apply-payment-to-multiple-invoices,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+06change-payment-to-split-payment-schedule,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07add-planned-transactions,SE,Operations,,1,0,1,0.0,,,,,,,,,
+07adjust-rarr-quantities-using-increase-decrease-function-in-po-demand-center,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+09-print-a-po,SE,Operations,,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+13-copy-customer-sales-order,SE,Operations,,1,0,1,0.0,,,,,,,,,
+16-suspend-an-order,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,Operations,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+csd-basics,SE,Operations,,2,0,2,0.0,,,,,,,,,
+sopoe01enter-stock-customer-sales-order,SE,Operations,,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,Order,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01manual-entry-of-a-warehouse-transfer,SE,PJM,01_Basic Bidding Process,1,0,1,0.0,,,,,,,,,
+03inquire-on-vendor-info,SE,PJM,01_Basic Bidding Process,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03run-the-aging-report,SE,PJM,01_Basic Bidding Process,1,0,1,0.0,,,,,,,,,
+06run-ar-year-end-processing-report,SE,PJM,01_Basic Bidding Process,1,0,1,0.0,,,,,,,,,
+07tying-a-po-rm-to-a-sales-order-line,SE,PJM,01_Basic Bidding Process,1,0,1,0.0,,,,,,,,,
+12-inquire-with-order-info,SE,PJM,01_Basic Bidding Process,1,0,1,0.0,,,,,,,,,
+05arrp-period-analysis-report,SE,PJM,,1,0,1,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+01create-rental-contract,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,PRICE,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-global-search,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+04view-job-in-bidding-calendar,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+05-ship-sales-order,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+05add-bidder-details-to-project-entry,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+07-apply-payment-to-invoice,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+09-set-up-batch,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+10-enter-a-batch-journal,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+16-enter-trade-invoice---po-does-not-match,SE,PRICE,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+26-print-customer-statement,SE,PRICE,,1,0,1,0.0,,,,,,,,,
+01ship-sales-order-include-addons,SE,PURCHASING,01_Purchase Order Entry to Print,1,0,1,0.0,,,,,,,,,
+02review-taxes-totals-payments-for-stock-customer-sales-order,SE,PURCHASING,01_Purchase Order Entry to Print,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02ship-to-setup,SE,PURCHASING,01_Purchase Order Entry to Print,1,0,1,0.0,,,,,,,,,
+01copy-quote-order-to-a-stock-order,SE,PURCHASING,,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,Pricing,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10apply-payment-with-unearned-discount,SE,Pricing,,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,Purchasing,Inquiries,1,0,1,0.0,,,,,,,,,
+02view-rrar-records,SE,Purchasing,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03incident-to-sro,SE,Purchasing,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+csd-basics,SE,Purchasing,Inquiries,1,0,1,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+01-log-in-to-sxe,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+01enter-an-invoice,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,Quiz,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-create-invoice-process-group,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+06apply-payment-to-multiple-invoices,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+08-create-a-po,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+09print-po,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,Quiz,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,Quiz,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11merge-posprint-posgenrerate-exception-report,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+12-inquire-with-order-info,SE,Quiz,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,Quiz,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,Quiz,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+17-enter-sales-order-for-kits,SE,Quiz,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18enter-trade-invoice---po-correction,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+19-add-optional-product-to-sales-order,SE,Quiz,,1,0,1,0.0,,,,,,,,,
+20-add-interchangeable-substitution-products-to-order,SE,Quiz,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-access-sales-order-entry-window,SE,SALES,01_Order Entry,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,86.0,97.66666666666667,100.0
+01-create-new-vendor,SE,SALES,01_Order Entry,2,0,2,0.0,,,,,,,,,
+01-enter-stock-customer-sales-order,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,SALES,01_Order Entry,5,3,2,60.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,97.0,100.0
+01add-items-to-stock-customer-sales-order,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01create-invoice-process-group-1,SE,SALES,01_Order Entry,2,0,2,0.0,,,,,,,,,
+01enter-an-invoice,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+01ism-incident,SE,SALES,01_Order Entry,2,0,2,0.0,,,,,,,,,
+01perform-lookups-in-customer-sales-order,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+01product-inquiry,SE,SALES,01_Order Entry,2,0,2,0.0,,,,,,,,,
+01ship-sales-order-include-addons,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+01wire-order-placement,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,SALES,01_Order Entry,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,SALES,01_Order Entry,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,94.0,100.0
+02-enter-stock-customer-sales-order,SE,SALES,01_Order Entry,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,66.33333333333333,100.0
+02-set-up-a-customer-record,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-set-up-ship-to-address,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02add-items-1,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+02add-rental-items,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+02adjust-line-items,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+03-use-order-inquiry-for-sales-orders,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03acknowledge-purchase-order,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+03blanket-pos,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+03enter-a-direct-order-1,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+03enter-stock-sales-order-and-change-line-items,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+03purchase-order-apply-add-ons-and-discounts,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+04-advanced-search-techniques,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-create-pricing-record-using-quantity-break,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+04-enter-and-process-expense-invoice,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+04-print-customer-order-pick-ticket,SE,SALES,01_Order Entry,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-set-up-accounts,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+04-ship-warehouse-transfer,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04add-re-rent-items,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+04enter-the-count-into-csd-using-count-entry-function,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+04maintaining-a-warehouse-tranfer,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+04perform-a-credit-review-on-a-customer-account,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+05-account-inquiry-and-report,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-inquire-on-vendor-info,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+05-ship-sales-order,SE,SALES,01_Order Entry,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,84.0,94.66666666666667,100.0
+05run-the-reconciliation-report,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06-add-gl-accounts-to-vendor,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+06-invoice-sales-order,SE,SALES,01_Order Entry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-locate-po-using-po-inquiry,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06-perform-lookups-in-customer-sales-order,SE,SALES,01_Order Entry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,84.0,92.0,100.0
+06canceling-a-warehouse-transfer,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06change-payment-to-split-payment-schedule,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06enter-a-non-stock-product-on-an-order,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06print-re-rent-po,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+06review-exception-processing-center-screen,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+07-apply-customer-payment-to-invoice,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+07-apply-payment-to-invoice,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-enter-quote-order,SE,SALES,01_Order Entry,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-load-price-set-to-pd-mass-maintenance,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,77.8,100.0
+07copy-po,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+07edit-entered-counts,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+08-change-payment-to-split-payment-schedule,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-quote-order-to-a-stock-order,SE,SALES,01_Order Entry,1,1,0,100.0,2.0,2.0,2.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+08-print-a-report,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08enter-a-credit-memo-1,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-add-product-to-po-at-receiving,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+09-apply-payment-to-oldest-invoice,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-enter-a-direct-order,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+09-import-pricing-data-from-excel,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+09-perform-a-reversal,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,SALES,01_Order Entry,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,96.5,100.0
+09-print-a-po,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09order-inquiry-using-a-serial-number,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+10-enter-a-credit-memo,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,SALES,01_Order Entry,3,3,0,100.0,1.0,1.3333333333333333,2.0,0.0,0.005555555555555556,0.016666666666666666,97.0,99.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,SALES,01_Order Entry,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-serialized-product,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,SALES,01_Order Entry,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,99.33333333333333,100.0
+11-receive-corrections,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+11-use-order-inquiry-to-search-for-orders,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,97.25,100.0
+12-cancel-po,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,SE,SALES,01_Order Entry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,94.5,98.0
+12-inquire-with-order-info,SE,SALES,01_Order Entry,7,5,2,71.42857142857143,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.8,100.0
+13-copy-customer-sales-order,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.0,100.0
+13-inquire-without-order-info,SE,SALES,01_Order Entry,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,87.0,95.66666666666667,100.0
+14-add-comments-notes-to-customer-sales-order,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.5,2.0,0.0,0.016666666666666666,0.03333333333333333,93.0,96.5,100.0
+14-apply-credit-to-invoice,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-ar-trial-balance-report,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+14-create-new-trade-vendor,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-process-exception-receipts,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+14-use-po-inquiry-to-locate-po,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.25,2.0,0.0,0.0,0.0,95.0,98.75,100.0
+15-inquire-on-a-product,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+15-manually-apply-hold-and-approve-held-order,SE,SALES,01_Order Entry,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+15-use-global-search,SE,SALES,01_Order Entry,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-enter-trade-invoice---po-does-not-match,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-print-count-sheets,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+16-review-suspense-account,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-suspend-an-order,SE,SALES,01_Order Entry,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-accept-replenishments,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+17-enter-sales-order-for-kits,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,99.0,100.0
+17-enter-trade-invoice---add-on-charges,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-post-monthly-profit,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+17-run-wt-entry-recommended-replenishment-action-report,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-add-lot-numbered-product-to-sales-order,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,97.0,100.0
+18-view-consolidation-info-in-demand-center,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+19-merge-wt-rrar,SE,SALES,01_Order Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+20-add-interchangeable-substitution-products-to-order,SE,SALES,01_Order Entry,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,96.0,100.0
+20-enter-trade-invoice---po-correction,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-view-units-of-measure,SE,SALES,01_Order Entry,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21print-checks,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+22-enter-non-stock-product-on-an-order,SE,SALES,01_Order Entry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+23-add-catalog-product-to-order,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+24-add-special-order-product-to-sales-order,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.25,2.0,0.0,0.004166666666666667,0.016666666666666666,100.0,100.0,100.0
+24-ar-open-activity-report,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+25-enter-a-return-order,SE,SALES,01_Order Entry,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+26-enter-invoice-for-misc-vendor,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+27-set-up-vendor-history-table,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+28-ar-period-analysis-report,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+28-set-up-federal-tax-1099,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+co1sesoppurentopm14add-items-to-purchase-order-using-advanced-line-entrybwkc,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,SALES,01_Order Entry,4,1,3,25.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+log-into-uap,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+quiz-level-1,SE,SALES,01_Order Entry,6,6,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,92.66666666666667,100.0
+quiz-level-2-purchasing-1,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,SE,SALES,01_Order Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+sopoe01enter-stock-customer-sales-order,SE,SALES,01_Order Entry,2,0,2,0.0,,,,,,,,,
+uap-101,SE,SALES,01_Order Entry,1,0,1,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-enter-stock-customer-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01create-pma-contract,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-enter-stock-customer-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,2.0,2.0,2.0,0.15,0.15,0.15,95.0,95.0,95.0
+02-review-operator-record,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,SALES,02_Order Modification,2,0,2,0.0,,,,,,,,,
+03-global-search,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+03acknowledge-purchase-order,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+03run-customer-statement-ares,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-advanced-search-techniques,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-copy-pricing-record-to-new-customer,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+05-inquire-on-vendor-info,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+05-lookups-and-search-features,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,85.0,85.0,85.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-start-up-notes,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+05perform-shipping-feedback-to-ship-order,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+05returning-a-core-product,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+06-perform-lookups-in-customer-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+07-apply-customer-payment-to-invoice,SE,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,66.33333333333333,100.0
+07-set-up-split-payment-for-invoice-in-entered-stage,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+08-change-payment-to-split-payment-schedule,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-quote-order-to-a-stock-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,SE,SALES,02_Order Modification,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-serialized-product,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+11-cost-po-to-vendor-invoice,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-inquire-with-order-info,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+14-add-comments-notes-to-customer-sales-order,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+15-enter-trade-invoice---po-matches,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-add-lot-numbered-product-to-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+19-add-optional-product-to-sales-order,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+22-enter-non-stock-product-on-an-order,SE,SALES,02_Order Modification,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,99.0,100.0
+23-update-account-due-to-returned-check,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+23invoice-processing,SE,SALES,02_Order Modification,1,0,1,0.0,,,,,,,,,
+24-add-special-order-product-to-sales-order,SE,SALES,02_Order Modification,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24-print-checks,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+co1sesopq2cop13apply-account-credits-to-invoicebwkc,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-1,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,SE,SALES,02_Order Modification,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+01-log-in-to-sxe,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+01-set-up-vendor,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+01add-items-to-stock-customer-sales-order,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+02use-order-inquiry-to-search-orders,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+03change-working-status,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+03enter-stock-sales-order-and-change-line-items,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-special-order-product-to-sales-order,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,84.0,84.0,84.0
+06-invoice-sales-order,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+06-perform-lookups-in-customer-sales-order,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+06enter-a-non-stock-product-on-an-order,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+07-enter-quote-order,SE,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07apply-payment-to-oldest-invoice,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07perform-a-reversal,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07receive-re-rent-po,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+08-copy-quote-order-to-a-stock-order,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,SE,SALES,03_Order Review,2,0,2,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-use-order-inquiry-to-search-for-orders,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-print-warehouse-transfer-pre-receiving-report,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+13-receive-warehouse-transfer,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+14-add-comments-notes-to-customer-sales-order,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+14-use-po-inquiry-to-locate-po,SE,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,94.5,97.0
+15-manually-apply-hold-and-approve-held-order,SE,SALES,03_Order Review,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.66666666666667,100.0
+21-cash-requirements-report,SE,SALES,03_Order Review,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+25-enter-a-return-order,SE,SALES,03_Order Review,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+co3ppsee01partner-set-upkc,SE,SALES,03_Order Review,1,0,1,0.0,,,,,,,,,
+01-log-in-to-sxe,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+01-ship-sales-order-include-addons,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+01add-items-to-stock-customer-sales-order,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02-add-items-to-stock-customer-sales-order,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+02-company-setup-in-gl,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-create-po,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+02-set-up-a-customer-record,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+03-enter-an-invoice,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-unship-an-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,SALES,04_Order Copying and Conversion,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-a-direct-order-1,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+04-advanced-search-techniques,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-create-pricing-record-using-quantity-break,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,64.0,100.0
+04accumulative-pos,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,94.5,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-inquire-on-a-product,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+06-invoice-sales-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+07-apply-customer-payment-to-invoice,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+07perform-a-reversal,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-quote-order-to-a-stock-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+09-print-a-po,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,95.0,100.0
+11-cost-po-to-vendor-invoice,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12receive-vendor-rm-po,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+13-inquire-without-order-info,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-add-comments-notes-to-customer-sales-order,SE,SALES,04_Order Copying and Conversion,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+14-use-po-inquiry-to-locate-po,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,81.0,81.0
+15-use-global-search,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,90.0,100.0
+16-apply-a-cod-credit,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-review-line-item-details,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+16-suspend-an-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-enter-sales-order-for-kits,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-accept-wt-rrar,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-add-lot-numbered-product-to-sales-order,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,94.0,100.0
+18-modify-customer-invoice,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+19-add-optional-product-to-sales-order,SE,SALES,04_Order Copying and Conversion,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-merge-wt-rrar,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19select-invoices-for-payment,SE,SALES,04_Order Copying and Conversion,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-1,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-purchasing-2,SE,SALES,04_Order Copying and Conversion,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+quiz-level-2-sales-1,SE,SALES,04_Order Copying and Conversion,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-access-sales-order-entry-window,SE,SALES,05_Product Management,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,93.0,100.0
+02review-taxes-totals-payments-for-stock-customer-sales-order,SE,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,SALES,05_Product Management,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03run-customer-statement-ares,SE,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+04-enter-and-process-expense-invoice,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+05-account-inquiry-and-report,SE,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+05-ship-sales-order,SE,SALES,05_Product Management,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05apply-payment-to-invoice,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-add-note-using-notes-context-app,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-enter-a-direct-order,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+10receive-the-non-stock,SE,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+11-enter-a-misc-credit,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-enter-stock-sales-order-and-change-line-items,SE,SALES,05_Product Management,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,97.0,98.0
+12-inquire-with-order-info,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,SALES,05_Product Management,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,SALES,05_Product Management,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+14-apply-credit-to-invoice,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-modify-customer-invoice,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-add-interchangeable-substitution-products-to-order,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20ap-vendor-entry-pay-invoice-due-report-1,SE,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,SALES,05_Product Management,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,97.0,100.0
+25-run-replenishing-pre-built-kits-report,SE,SALES,05_Product Management,1,0,1,0.0,,,,,,,,,
+log-into-uap,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-1,SE,SALES,05_Product Management,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+01-enter-stock-customer-sales-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,2.0,2.0,2.0,0.03333333333333333,0.03333333333333333,0.03333333333333333,100.0,100.0,100.0
+02run-either-the-ic-entry-cycle-count-report-or-the-ic-entry-physical-count-report,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03-global-search,SE,SALES,06_Lookup and Inquiry,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,2.0,2.0,2.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-a-direct-order-1,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-create-pricing-record-using-quantity-break,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+06-reverse-a-transaction,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07run-wt-entry-recommended-replenishment-action-report,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+08-copy-quote-order-to-a-stock-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,SE,SALES,06_Lookup and Inquiry,1,0,1,0.0,,,,,,,,,
+09-enter-a-direct-order,SE,SALES,06_Lookup and Inquiry,1,0,1,0.0,,,,,,,,,
+10-receive-a-po,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+11-cost-po-to-vendor-invoice,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,83.0,83.0
+12-enter-stock-sales-order-and-change-line-items,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+16-print-count-sheets,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-suspend-an-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-modify-customer-invoice,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-add-optional-product-to-sales-order,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-release-credit-hold,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-view-units-of-measure,SE,SALES,06_Lookup and Inquiry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,SALES,06_Lookup and Inquiry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+22-process-short-payment-with-sales-tax-write-off,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23invoice-processing,SE,SALES,06_Lookup and Inquiry,1,0,1,0.0,,,,,,,,,
+27-print-work-orders,SE,SALES,06_Lookup and Inquiry,1,0,1,0.0,,,,,,,,,
+log-into-uap,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+quiz-level-1,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-accounts-receivable,SE,SALES,06_Lookup and Inquiry,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+quiz-level-2-warehouse-planning,SE,SALES,06_Lookup and Inquiry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+01-enter-stock-customer-sales-order,SE,SALES,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,SALES,,1,0,1,0.0,,,,,,,,,
+01-set-up-customer,SE,SALES,,1,0,1,0.0,,,,,,,,,
+01create-a-blanket-order,SE,SALES,,1,0,1,0.0,,,,,,,,,
+01process-core-as-return-merchandise,SE,SALES,,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,SALES,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.5,100.0
+02enter-a-quote-order-1,SE,SALES,,1,0,1,0.0,,,,,,,,,
+02use-order-inquiry-to-search-orders,SE,SALES,,1,0,1,0.0,,,,,,,,,
+03-enter-an-invoice,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,SE,SALES,,1,0,1,0.0,,,,,,,,,
+03-use-order-inquiry-for-sales-orders,SE,SALES,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-adjust-line-items,SE,SALES,,1,0,1,0.0,,,,,,,,,
+04-advanced-search-techniques,SE,SALES,,1,0,1,0.0,,,,,,,,,
+05-ship-sales-order,SE,SALES,,1,0,1,0.0,,,,,,,,,
+05add-special-order-product-to-sales-order,SE,SALES,,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,SALES,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+06-invoice-sales-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-enter-quote-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-copy-quote-order-to-a-stock-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-personalize-advanced-line-entry-view-in-order-entry,SE,SALES,,1,0,1,0.0,,,,,,,,,
+09-print-a-po,SE,SALES,,1,0,1,0.0,,,,,,,,,
+09consolidate-multiple-rrars-for-different-vendor-product-lines-or-warehouses,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+09enter-a-misc-credit-1,SE,SALES,,1,0,1,0.0,,,,,,,,,
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-cost-po-to-vendor-invoice,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+13-copy-customer-sales-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,SALES,,1,0,1,0.0,,,,,,,,,
+14-apply-credit-to-invoice,SE,SALES,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,SE,SALES,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-use-global-search,SE,SALES,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16customer-statement-print,SE,SALES,,1,0,1,0.0,,,,,,,,,
+17-apply-misc-cash,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+19-add-optional-product-to-sales-order,SE,SALES,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-view-units-of-measure,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-ap-vendor-entry-pay-invoice-due-report,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24-add-special-order-product-to-sales-order,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+log-into-uap,SE,SALES,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-2-sales-1,SE,SALES,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+sopoe07enter-a-return-order-1,SE,SALES,,1,0,1,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+01-log-in-to-sxe,SE,SYSTEM,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02-change-layout-and-appearance-of-grid,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+02csd-incident,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+11-cost-po-to-vendor-invoice,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+12-inquire-with-order-info,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+15-use-global-search,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,SYSTEM,,1,0,1,0.0,,,,,,,,,
+01-enter-stock-customer-sales-order,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02review-taxes-totals-payments-for-stock-customer-sales-order,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02run-either-the-ic-entry-cycle-count-report-or-the-ic-entry-physical-count-report,SE,Sales,Copy,1,0,1,0.0,,,,,,,,,
+02use-order-inquiry-to-search-orders,SE,Sales,Copy,1,0,1,0.0,,,,,,,,,
+03-add-items-to-po-and-finish-it,SE,Sales,Copy,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,Sales,Copy,1,0,1,0.0,,,,,,,,,
+05-assign-serial-numbers-to-transfer-during-shipping,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,86.0,86.0
+07-enter-quote-order,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+09-enter-a-direct-order,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-enter-stock-sales-order-and-change-line-items,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+14-add-comments-notes-to-customer-sales-order,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+21-view-units-of-measure,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,Sales,Copy,1,0,1,0.0,,,,,,,,,
+25-set-up-misc-vendor-in-ap,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+sopoe07enter-a-return-order-1,SE,Sales,Copy,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-enter-stock-customer-sales-order,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,82.0,82.0,82.0
+01-set-up-vendor,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01create-purchase-order,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+01product-inquiry,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02-add-items-to-stock-customer-sales-order,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,Sales,Entry,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,97.66666666666667,100.0
+02adjust-line-items,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-global-search,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-a-direct-order-1,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,84.0,84.0,84.0
+05-ship-sales-order,SE,Sales,Entry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-sro-lines,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+05manually-apply-hold-and-approve-held-order,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+05run-the-reconciliation-report,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+06-change-vendor-invoice---due-date-discount-rate,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+06-invoice-sales-order,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,86.0,86.0
+06change-po,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09-enter-a-direct-order,SE,Sales,Entry,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,96.5,100.0
+09-import-pricing-data-from-excel,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+09-print-a-po,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+11apply-payment-using-split-check,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+12-inquire-with-order-info,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12posting-transactions,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+13-inquire-without-order-info,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-apply-account-credits-to-invoice,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+15-use-global-search,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-add-interchangeable-substitution-products-to-order,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,88.0,88.0
+20ap-vendor-entry-pay-invoice-due-report-1,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,Sales,Entry,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24-add-special-order-product-to-sales-order,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+25-enter-a-return-order,SE,Sales,Entry,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+29-ar-year-end-processing-report,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+uap-101,SE,Sales,Entry,1,0,1,0.0,,,,,,,,,
+004order-inquiries,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+01-access-sales-order-entry-window,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-enter-stock-customer-sales-order,SE,Sales,Inquiries,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,Sales,Inquiries,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01order-inquiry,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+01ship-sales-order-include-addons,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+02-change-layout-and-appearance-of-grid,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,98.0,98.0,98.0
+02-enter-stock-customer-sales-order,SE,Sales,Inquiries,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02approving-a-warehouse-transfer-that-is-on-hold,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+02run-either-the-ic-entry-cycle-count-report-or-the-ic-entry-physical-count-report,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02verify-customer-eligibility,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-the-shopping-list,SE,Sales,Inquiries,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+03-use-order-inquiry-for-sales-orders,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03enter-a-direct-order-1,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,Sales,Inquiries,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+04-advanced-search-techniques,SE,Sales,Inquiries,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-enter-and-process-expense-invoice,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+04-print-customer-order-pick-ticket,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04change-vendor-invoice---due-date-discount-rate-1,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05arrp-period-analysis-report,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05perform-shipping-feedback-to-ship-order,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06add-vendor-details-to-project-entry,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+06enter-a-non-stock-product-on-an-order,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+07-open-help-context-app,SE,Sales,Inquiries,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,66.33333333333333,100.0
+08-create-a-po,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-print-a-report,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+08-print-count-sheets,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+08run-physical-count-sheet,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+11-cost-po-to-vendor-invoice,SE,Sales,Inquiries,3,0,3,0.0,,,,,,,,,
+11-use-order-inquiry-to-search-for-orders,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+11schedule-service,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+12-enter-stock-sales-order-and-change-line-items,SE,Sales,Inquiries,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13invoicing-in-ism,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+15-use-global-search,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+16-suspend-an-order,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-add-lot-numbered-product-to-sales-order,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-modify-customer-invoice,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+19-change-prices-and-costs-on-group-of-products,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+19select-invoices-for-payment,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+20-enter-trade-invoice---po-correction,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+25-run-ar-roll-balances-and-assess-service-charge,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+csd-basics,SE,Sales,Inquiries,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+quiz-level-1,SE,Sales,Inquiries,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-accounts-receivable,SE,Sales,Inquiries,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,SE,Sales,Inquiries,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,85.0,90.0
+01copy-quote-order-to-a-stock-order,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+01customer-setup,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+01filter-working-status,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,Sales,Modify,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-add-items-to-po-and-finish-it,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-unship-an-order,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+03-use-order-inquiry-for-sales-orders,SE,Sales,Modify,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03inquire-on-vendor-info,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+04-advanced-search-techniques,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-add-note-using-notes-context-app,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+07-apply-customer-payment-to-invoice,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07tying-a-warehouse-transfer-to-a-customer-order,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+09-print-a-po,SE,Sales,Modify,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-serialized-product,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+11-use-order-inquiry-to-search-for-orders,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-use-po-inquiry-to-locate-po,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+16-enter-trade-invoice---po-does-not-match,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+16-suspend-an-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17payment-reversal,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+20-add-interchangeable-substitution-products-to-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-view-units-of-measure,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-enter-non-stock-product-on-an-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+22-select-invoices-for-payment,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+23-add-catalog-product-to-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+24-add-special-order-product-to-sales-order,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+csd-basics,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+quiz-level-1,SE,Sales,Modify,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+quiz-level-2-sales-1,SE,Sales,Modify,1,0,1,0.0,,,,,,,,,
+sopoe01enter-stock-customer-sales-order,SE,Sales,Modify,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+01-log-in-to-sxe,SE,Sales,Quotes,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,82.0,91.0,100.0
+02-add-items-to-stock-customer-sales-order,SE,Sales,Quotes,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+02review-taxes-totals-payments-for-stock-customer-sales-order,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+03-create-report-scheduler-queue,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+05-ship-sales-order,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+07-change-po,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,SE,Sales,Quotes,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+09-print-a-po,SE,Sales,Quotes,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,Sales,Quotes,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,Sales,Quotes,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-inquire-on-a-product,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+18process-overpayment,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+25-set-up-misc-vendor-in-ap,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+quiz-level-1,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+quiz-level-2-purchasing-2,SE,Sales,Quotes,1,0,1,0.0,,,,,,,,,
+03-use-order-inquiry-for-sales-orders,SE,Sales,quote,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,Sales,quote,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-apply-customer-payment-to-invoice,SE,Sales,quote,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,Sales,quote,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,Sales,quote,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-copy-pricing-record,SE,Sales,quote,1,0,1,0.0,,,,,,,,,
+24-add-special-order-product-to-sales-order,SE,Sales,quote,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+01-access-sales-order-entry-window,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-customer-inquiry-pricing,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-enter-stock-customer-sales-order,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,Sales,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,66.33333333333333,100.0
+01-set-up-customer,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-set-up-vendor,SE,Sales,,2,0,2,0.0,,,,,,,,,
+01-ship-sales-order-include-addons,SE,Sales,,1,0,1,0.0,,,,,,,,,
+01add-items-to-stock-customer-sales-order,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01customer-setup,SE,Sales,,1,0,1,0.0,,,,,,,,,
+01enter-an-invoice,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01filter-working-status,SE,Sales,,1,0,1,0.0,,,,,,,,,
+01wire-order-placement,SE,Sales,,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+02-assign-serial-numbers-to-orders-during-shipping,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-change-layout-and-appearance-of-grid,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,93.0,95.0
+02-enter-stock-customer-sales-order,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,85.0,85.0,85.0
+02-set-up-a-customer-record,SE,Sales,,1,0,1,0.0,,,,,,,,,
+02adjust-line-items,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02copy-customer-sales-order,SE,Sales,,1,0,1,0.0,,,,,,,,,
+02csd-incident,SE,Sales,,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,Sales,,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-admin-options-in-gl,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-review-r-and-d-operator-record,SE,Sales,,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,87.5,94.0
+03-use-order-inquiry-for-sales-orders,SE,Sales,,4,2,2,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+035perform-lookups-in-a-po,SE,Sales,,1,0,1,0.0,,,,,,,,,
+03enter-a-direct-order-1,SE,Sales,,1,0,1,0.0,,,,,,,,,
+04-adjust-line-items,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-advanced-search-techniques,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-print-customer-order-pick-ticket,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,89.5,93.0
+04-ship-warehouse-transfer,SE,Sales,,1,0,1,0.0,,,,,,,,,
+045create-warehouse-transfer,SE,Sales,,1,0,1,0.0,,,,,,,,,
+04change-operations,SE,Sales,,1,0,1,0.0,,,,,,,,,
+04finish-the-purchase-order,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+04returned-check,SE,Sales,,2,0,2,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,Sales,,2,2,0,100.0,1.0,1.5,2.0,0.0,38.95,77.9,93.0,96.5,100.0
+05-ship-sales-order,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.5,100.0
+05apply-payment-to-invoice,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+05manually-apply-hold-and-approve-held-order,SE,Sales,,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,Sales,,2,0,2,0.0,,,,,,,,,
+06-change-vendor-invoice---due-date-discount-rate,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-create-price-record-set,SE,Sales,,1,0,1,0.0,,,,,,,,,
+06-locate-po-using-po-inquiry,SE,Sales,,1,0,1,0.0,,,,,,,,,
+06-perform-lookups-in-customer-sales-order,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+06suspend-an-order,SE,Sales,,1,0,1,0.0,,,,,,,,,
+07-apply-customer-payment-to-invoice,SE,Sales,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,49.5,100.0
+07-enter-quote-order,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-open-help-context-app,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07run-wt-entry-recommended-replenishment-action-report,SE,Sales,,1,0,1,0.0,,,,,,,,,
+08-copy-quote-order-to-a-stock-order,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-enter-real-time-journal,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-export-pricing-data-to-excel,SE,Sales,,1,0,1,0.0,,,,,,,,,
+08check-out-rental,SE,Sales,,1,0,1,0.0,,,,,,,,,
+08create-quote-po-with-notes-and-comments,SE,Sales,,1,0,1,0.0,,,,,,,,,
+09-enter-a-direct-order,SE,Sales,,1,1,0,100.0,2.0,2.0,2.0,146.28333333333333,146.28333333333333,146.28333333333333,89.0,89.0,89.0
+09-import-pricing-data-from-excel,SE,Sales,,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,SE,Sales,,2,0,2,0.0,,,,,,,,,
+09-print-a-po,SE,Sales,,1,0,1,0.0,,,,,,,,,
+10-enter-a-credit-memo,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-process-short-payment,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,Sales,,1,0,1,0.0,,,,,,,,,
+10apply-payment-with-unearned-discount,SE,Sales,,1,0,1,0.0,,,,,,,,,
+11-manually-apply-hold-and-approve-held-po,SE,Sales,,1,0,1,0.0,,,,,,,,,
+11-receive-corrections,SE,Sales,,1,0,1,0.0,,,,,,,,,
+12-apply-payment-with-unearned-discount,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-enter-a-debit-memo,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-enter-stock-sales-order-and-change-line-items,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+12-inquire-with-order-info,SE,Sales,,5,3,2,60.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12apply-credit-to-invoice,SE,Sales,,1,0,1,0.0,,,,,,,,,
+12posting-transactions,SE,Sales,,1,0,1,0.0,,,,,,,,,
+13-inquire-on-a-journal,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,Sales,,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+14-add-comments-notes-to-customer-sales-order,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,47.0,95.0
+14-ar-trial-balance-report,SE,Sales,,1,0,1,0.0,,,,,,,,,
+14-view-rrar-records-using-demand-center,SE,Sales,,1,0,1,0.0,,,,,,,,,
+15-apply-account-credits-to-invoice,SE,Sales,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15-manually-apply-hold-and-approve-held-order,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+15-use-global-search,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+15apply-misc-cash,SE,Sales,,1,0,1,0.0,,,,,,,,,
+17-accept-replenishments,SE,Sales,,1,0,1,0.0,,,,,,,,,
+17-enter-sales-order-for-kits,SE,Sales,,4,4,0,100.0,1.0,1.25,2.0,0.0,0.0,0.0,92.0,96.0,100.0
+17-post-monthly-profit,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+18-accept-wt-rrar,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+18-add-lot-numbered-product-to-sales-order,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-generate-a-tax-register,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-add-optional-product-to-sales-order,SE,Sales,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-run-a-financial-statement,SE,Sales,,1,0,1,0.0,,,,,,,,,
+20-close-the-gl,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-enter-trade-invoice---po-correction,SE,Sales,,1,0,1,0.0,,,,,,,,,
+21-view-units-of-measure,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21print-checks,SE,Sales,,1,0,1,0.0,,,,,,,,,
+22-enter-non-stock-product-on-an-order,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-select-invoices-for-payment,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,SE,Sales,,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,85.0,94.5,100.0
+24-add-special-order-product-to-sales-order,SE,Sales,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+26-enter-invoice-for-misc-vendor,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+27-ar-trial-balance-report,SE,Sales,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+28-ar-period-analysis-report,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+28-set-up-federal-tax-1099,SE,Sales,,1,0,1,0.0,,,,,,,,,
+quiz-level-2-accounts-receivable,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-2-sales-1,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+sales-order-example,SE,Sales,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,93.0,93.0
+004order-inquiries,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+01create-invoice-process-group-1,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-add-items-to-stock-customer-sales-order,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+02run-either-the-ic-entry-cycle-count-report-or-the-ic-entry-physical-count-report,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+05-lookups-and-search-features,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,89.0,89.0
+06-add-note-using-notes-context-app,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+06add-operations-1,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+07edit-entered-counts,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+08-short-receive-po,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+11-use-order-inquiry-to-search-for-orders,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+13-copy-customer-sales-order,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-inquire-without-order-info,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+14-use-po-inquiry-to-locate-po,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+16-print-count-sheets,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+17-enter-sales-order-for-kits,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+29-ar-year-end-processing-report,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+quiz-level-2-sales-1,SE,Sys,grid,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,80.0,80.0
+quiz-level-2-warehouse-planning,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+sopoe01enter-stock-customer-sales-order,SE,Sys,grid,1,0,1,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,UnAssigned,,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,97.2,100.0
+01-create-new-vendor,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-customer-inquiry-pricing,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+01-enter-stock-customer-sales-order,SE,UnAssigned,,7,5,2,71.42857142857143,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,SE,UnAssigned,,14,10,4,71.42857142857143,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,67.9,100.0
+01-run-sa-operator-security-violations-report,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01-set-up-report-schedule-type,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01copy-quote-order-to-a-stock-order,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01create-a-blanket-order,SE,UnAssigned,,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01create-invoice-process-group-1,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01create-purchase-order,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+01create-rental-contract,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01customer-setup,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+01enter-an-invoice,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+01filter-working-status,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01generate-rrar,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+01how-to-use-the-quote-modification,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01ism-incident,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+01order-inquiry,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01print-po-expedite-report,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01product-inquiry,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01review-the-shopping-list,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+01ship-sales-order-include-addons,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+01view-consolidation-info-in-demand-center,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+01wire-order-placement,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02-add-items-to-stock-customer-sales-order,SE,UnAssigned,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02-assign-serial-numbers-to-orders-during-shipping,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02-change-layout-and-appearance-of-grid,SE,UnAssigned,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,81.0,93.33333333333333,100.0
+02-company-setup-in-gl,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02-enter-stock-customer-sales-order,SE,UnAssigned,,11,7,4,63.63636363636363,1.0,1.0,1.0,0.0,0.0,0.0,95.0,98.57142857142857,100.0
+02-set-up-ship-to-address,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02-set-up-vendor-ship-from,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02add-items-to-po-and-finish-it,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+02adjust-line-items,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02copy-customer-sales-order,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02csd-incident,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+02customer-inquiry-with-past-due-invoices-large-dollar-amount-balance,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02determining-extra-stock-to-order,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02enter-a-credit-memo,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02enter-a-quote-order-1,SE,UnAssigned,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,80.0,87.5,95.0
+02merge-posprint-posgenerate-exception-report,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+02perform-site-work,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02review-taxes-totals-payments-for-stock-customer-sales-order,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+02ship-to-setup,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+02use-order-inquiry-to-search-orders,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+02verify-customer-eligibility,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+03-create-and-verify-a-pricing-record,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+03-create-inventory-item-in-single-wh,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+03-global-search,SE,UnAssigned,,8,6,2,75.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,98.5,100.0
+03-review-admin-options-in-gl,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03-use-order-inquiry-for-sales-orders,SE,UnAssigned,,10,7,3,70.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,96.57142857142857,100.0
+03enter-a-direct-order-1,SE,UnAssigned,,6,4,2,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,74.75,100.0
+03incident-to-sro,SE,UnAssigned,,3,1,2,33.333333333333336,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03inquire-on-vendor-info,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+03print-count-sheets,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+03print-rental-agreement,SE,UnAssigned,,3,0,3,0.0,,,,,,,,,
+03review-and-modify-rrar-record,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,84.0,84.0,84.0
+03use-order-inquiry-to-search-for-orders,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+04-adjust-line-items,SE,UnAssigned,,7,7,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,80.0,96.57142857142857,100.0
+04-advanced-search-techniques,SE,UnAssigned,,5,4,1,80.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-create-report-scheduler-job-group,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04-enter-a-credit-memo,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04-perform-lookups-in-a-po,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04-print-customer-order-pick-ticket,SE,UnAssigned,,6,6,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,98.83333333333333,100.0
+04add-comments-notes-to-customer-sales-order,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+04bill-contract,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04change-operations,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04change-operations-1,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04change-vendor-invoice---due-date-discount-rate-1,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04create-a-release,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04create-a-start-up-incident,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04enter-a-customer-sales-order-and-record-tender-payments-1,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+04enter-the-count-into-csd-using-count-entry-function,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+04finish-the-purchase-order,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04perform-a-credit-review-on-a-customer-account,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04print-gap-report,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+04quick-create-sro-1,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+04view-units-of-measure,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+05-inquire-on-vendor-info,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,91.0,91.0,91.0
+05-lookups-and-search-features,SE,UnAssigned,,8,7,1,87.5,1.0,1.0,1.0,0.0,0.0,0.0,93.0,99.0,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,SE,UnAssigned,,8,7,1,87.5,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-ship-sales-order,SE,UnAssigned,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05add-bidder-details-to-project-entry,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+05add-special-order-product-to-sales-order,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+05add-sro-lines,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+05add-start-up-notes,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+05locate-po-using-po-inquiry,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+05perform-shipping-feedback-to-ship-order,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+05print-surplus-stock-report,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+05run-the-reconciliation-report,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+05set-up-split-payment-for-invoice-in-entered-stage,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+06-add-gl-accounts-to-vendor,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-add-note-using-notes-context-app,SE,UnAssigned,,8,5,3,62.5,1.0,1.0,1.0,0.0,0.0,0.0,88.0,97.6,100.0
+06-change-vendor-invoice---due-date-discount-rate,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06-invoice-sales-order,SE,UnAssigned,,5,5,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,91.0,100.0
+06-perform-lookups-in-customer-sales-order,SE,UnAssigned,,4,4,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,97.0,100.0
+06accept-replenishments,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06add-line,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+06apply-payment-to-multiple-invoices,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06change-payment-to-split-payment-schedule,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+06enter-a-non-stock-product-on-an-order,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+06ism-invoice,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+07-apply-customer-payment-to-invoice,SE,UnAssigned,,9,5,4,55.55555555555556,1.0,1.2,2.0,0.0,0.0,0.0,92.0,97.6,100.0
+07-enter-quote-order,SE,UnAssigned,,8,4,4,50.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,98.0,100.0
+07-open-help-context-app,SE,UnAssigned,,5,2,3,40.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-receive-po,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-set-up-split-payment-for-invoice-in-entered-stage,SE,UnAssigned,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07add-planned-transactions,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+07perform-a-reversal,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+07receive-re-rent-po,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+08-copy-po,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+08-copy-quote-order-to-a-stock-order,SE,UnAssigned,,5,3,2,60.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+08-create-a-po,SE,UnAssigned,,6,5,1,83.33333333333333,1.0,1.2,2.0,0.0,15.323333333333332,76.61666666666666,96.0,99.2,100.0
+08-export-pricing-data-to-excel,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+08-print-a-report,SE,UnAssigned,,5,3,2,60.0,1.0,1.0,1.0,0.0,0.0,0.0,88.0,96.0,100.0
+08-print-count-sheets,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+08make-a-product-serialized,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+08mark-reconciled,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+08process-short-payment,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+08register-unit,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+09-add-product-to-po-at-receiving,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+09-enter-a-direct-order,SE,UnAssigned,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,89.0,96.83333333333333,100.0
+09-enter-counts,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+09-perform-a-reversal,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+09-personalize-advanced-line-entry-view-in-order-entry,SE,UnAssigned,,6,6,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,86.0,97.66666666666667,100.0
+09-print-a-po,SE,UnAssigned,,10,9,1,90.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,99.33333333333333,100.0
+09-set-up-batch,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+09enter-a-misc-credit-1,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+09order-inquiry-using-a-serial-number,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+10-copy-pricing-record-to-new-customer,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+10-enter-a-batch-journal,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-enter-a-credit-memo,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-enter-counter-sales-order-and-record-tender-payments,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,UnAssigned,,6,4,2,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,UnAssigned,,7,6,1,85.71428571428571,1.0,1.0,1.0,0.0,0.0,0.0,95.0,98.33333333333333,100.0
+10-receive-serialized-product,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+10close-rental,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+10enter-a-debit-memo,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+11-cost-po-to-vendor-invoice,SE,UnAssigned,,5,3,2,60.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,96.0,98.0
+11-receive-corrections,SE,UnAssigned,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,93.0,96.33333333333333,99.0
+11-use-order-inquiry-to-search-for-orders,SE,UnAssigned,,6,5,1,83.33333333333333,1.0,1.2,2.0,0.0,0.043333333333333335,0.21666666666666667,90.0,96.0,100.0
+11adjust-inventory-to-unavailable,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+11change-billing-details,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+11merge-posprint-posgenrerate-exception-report,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,81.0,81.0,81.0
+12-enter-a-debit-memo,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,97.5,100.0
+12-enter-stock-sales-order-and-change-line-items,SE,UnAssigned,,8,6,2,75.0,1.0,1.1666666666666667,2.0,0.0,0.002777777777777778,0.016666666666666666,83.0,95.0,100.0
+12-inquire-with-order-info,SE,UnAssigned,,6,5,1,83.33333333333333,1.0,1.2,2.0,0.0,0.003333333333333333,0.016666666666666666,92.0,95.2,100.0
+12apply-credit-to-invoice,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12posting-transactions,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+13-apply-payment-using-split-check,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,UnAssigned,,3,3,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,97.33333333333333,100.0
+13-enter-a-manual-payment,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+13-inquire-without-order-info,SE,UnAssigned,,4,3,1,75.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,96.33333333333333,97.0
+13-verify-product-adjustment,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+13add-freight-to-rental,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+13enter-trade-invoice---po-matches,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+14-add-comments-notes-to-customer-sales-order,SE,UnAssigned,,7,4,3,57.142857142857146,1.0,1.0,1.0,0.0,0.0,0.0,89.0,95.25,100.0
+14-create-new-trade-vendor,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-process-exception-receipts,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-use-po-inquiry-to-locate-po,SE,UnAssigned,,6,4,2,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,86.0,95.25,100.0
+15-enter-trade-invoice---po-matches,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+15-inquire-on-a-product,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+15-manually-apply-hold-and-approve-held-order,SE,UnAssigned,,10,9,1,90.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,99.11111111111111,100.0
+15-use-global-search,SE,UnAssigned,,7,4,3,57.142857142857146,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,74.75,100.0
+15apply-misc-cash,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+15enter-trade-invoice---add-on-charges,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+16-suspend-an-order,SE,UnAssigned,,8,7,1,87.5,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16customer-statement-print,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+17-apply-misc-cash,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+17-enter-sales-order-for-kits,SE,UnAssigned,,7,5,2,71.42857142857143,1.0,1.0,1.0,0.0,0.0,0.0,96.0,99.2,100.0
+17-enter-trade-invoice---add-on-charges,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+17-run-wt-entry-recommended-replenishment-action-report,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+18-add-lot-numbered-product-to-sales-order,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-enter-trade-invoice---reconcile-against-multiple-pos,SE,UnAssigned,,2,1,1,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+18-modify-customer-invoice,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+18-view-consolidation-info-in-demand-center,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+18enter-trade-invoice---po-correction,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+19-add-optional-product-to-sales-order,SE,UnAssigned,,9,8,1,88.88888888888889,1.0,1.0,1.0,0.0,0.0,0.0,94.0,98.5,100.0
+19-merge-pos-print-pos-generate-exception-report,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+19-merge-wt-rrar,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+19-release-credit-hold,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-add-interchangeable-substitution-products-to-order,SE,UnAssigned,,6,3,3,50.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+20-complete-price-correction,SE,UnAssigned,,3,2,1,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,97.0,98.5,100.0
+20-generate-ic-admin-review-cycle-adjustment-report,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+21-cash-requirements-report,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-correct-payment-posted-to-wrong-account,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+21-view-units-of-measure,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+21print-checks,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+22-enter-non-stock-product-on-an-order,SE,UnAssigned,,8,6,2,75.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,99.5,100.0
+22-process-short-payment-with-sales-tax-write-off,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+22-review-ic-month-end-processing-report-options,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+22-track-serial-products,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+23-add-catalog-product-to-order,SE,UnAssigned,,7,4,3,57.142857142857146,1.0,1.0,1.0,0.0,0.0,0.0,96.0,99.0,100.0
+23-update-account-due-to-returned-check,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23invoice-processing,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+24-add-special-order-product-to-sales-order,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+25-enter-a-return-order,SE,UnAssigned,,7,7,0,100.0,1.0,1.1428571428571428,2.0,0.0,0.0023809523809523807,0.016666666666666666,100.0,100.0,100.0
+25-run-ar-roll-balances-and-assess-service-charge,SE,UnAssigned,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+26-print-customer-statement,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+27-set-up-vendor-history-table,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+28-ar-period-analysis-report,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+co1sesopop20refund-customer-via-cckc,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+co3ppsoohow-to-do-a-shipping-feedback-for-start-upbwkc,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+csd-basics,SE,UnAssigned,,4,0,4,0.0,,,,,,,,,
+log-into-uap,SE,UnAssigned,,4,0,4,0.0,,,,,,,,,
+new-customer-registration,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+quiz-level-1,SE,UnAssigned,,8,6,2,75.0,1.0,1.0,1.0,0.0,0.0,0.0,89.0,90.83333333333333,100.0
+quiz-level-2-purchasing-2,SE,UnAssigned,,1,0,1,0.0,,,,,,,,,
+quiz-level-2-sales-1,SE,UnAssigned,,9,6,3,66.66666666666667,1.0,1.0,1.0,0.0,0.0,0.0,80.0,83.33333333333333,90.0
+scott-electric-navigation,SE,UnAssigned,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+sopoe01enter-stock-customer-sales-order,SE,UnAssigned,,9,2,7,22.22222222222222,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,49.5,100.0
+sopoe07enter-a-return-order-1,SE,UnAssigned,,7,4,3,57.142857142857146,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,48.5,100.0
+uap-101-1,SE,UnAssigned,,2,0,2,0.0,,,,,,,,,
+01-access-sales-order-entry-window,SE,,,1,0,1,0.0,,,,,,,,,
+01-log-in-to-sxe,SE,,,1,0,1,0.0,,,,,,,,,
+01create-invoice-process-group-1,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01generate-rrar,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+03incident-to-sro,SE,,,1,0,1,0.0,,,,,,,,,
+05-apply-payment-with-debit-memo,SE,,,1,0,1,0.0,,,,,,,,,
+06-add-note-using-notes-context-app,SE,,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+06suspend-an-order,SE,,,1,0,1,0.0,,,,,,,,,
+10-enter-counter-sales-order-and-record-tender-payments,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+10-receive-a-po,SE,,,1,0,1,0.0,,,,,,,,,
+12-apply-payment-with-unearned-discount,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+12-inquire-with-order-info,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+13-copy-customer-sales-order,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+14-create-new-trade-vendor,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,95.0,95.0,95.0
+14-use-po-inquiry-to-locate-po,SE,,,1,0,1,0.0,,,,,,,,,
+18-add-lot-numbered-product-to-sales-order,SE,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01-log-in-to-sxe,,,,1,0,1,0.0,,,,,,,,,
+01-ship-sales-order-include-addons,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+01filter-working-status,,,,1,0,1,0.0,,,,,,,,,
+01ism-incident,,,,1,0,1,0.0,,,,,,,,,
+02adjust-line-items,,,,1,0,1,0.0,,,,,,,,,
+03-review-the-shopping-list,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,94.0,94.0,94.0
+03-unship-an-order,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0
+03change-working-status,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04-adjust-line-items,,,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,96.0,100.0
+04-advanced-search-techniques,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+04view-job-in-bidding-calendar,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+05-review-taxes-totals-payments-for-stock-customer-sales-order,,,,1,0,1,0.0,,,,,,,,,
+07-enter-quote-order,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+07-open-help-context-app,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,90.0,90.0,90.0
+08-print-a-report,,,,2,2,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,83.0,85.5,88.0
+09-enter-a-direct-order,,,,1,1,0,100.0,2.0,2.0,2.0,0.0,0.0,0.0,100.0,100.0,100.0
+11-run-expired-pricing-records-report,,,,1,0,1,0.0,,,,,,,,,
+11cancel-po,,,,1,0,1,0.0,,,,,,,,,
+13-inquire-without-order-info,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,97.0,97.0,97.0
+15-manually-apply-hold-and-approve-held-order,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+16-suspend-an-order,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,92.0,92.0,92.0
+21-view-units-of-measure,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,100.0
+23-add-catalog-product-to-order,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,96.0,96.0,96.0
+csd-basics,,,,1,1,0,100.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,-1.0

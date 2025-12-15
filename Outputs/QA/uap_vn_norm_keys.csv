@@ -1,0 +1,417 @@
+raw,key_core,key_nospace
+05-move-non-stock-item-to-stock-item,move non stock item to stock item,movenonstockitemtostockitem
+04-copy-inventory-item-to-single-wh,copy inventory item to single wh,copyinventoryitemtosinglewh
+02add-items-1,add items 1,additems1
+01create-a-blanket-order,create a blanket order,createablanketorder
+07-open-help-context-app,open help context app,openhelpcontextapp
+08-create-a-po,create a po,createapo
+02-enter-stock-customer-sales-order,enter stock customer sales order,enterstockcustomersalesorder
+04-print-customer-order-pick-ticket,print customer order pick ticket,printcustomerorderpickticket
+08-print-a-report,print a report,printareport
+02-change-layout-and-appearance-of-grid,change layout and appearance of grid,changelayoutandappearanceofgrid
+01-access-sales-order-entry-window,access sales order entry window,accesssalesorderentrywindow
+12-inquire-with-order-info,inquire with order info,inquirewithorderinfo
+05-lookups-and-search-features,lookups and search features,lookupsandsearchfeatures
+13-inquire-without-order-info,inquire without order info,inquirewithoutorderinfo
+14-use-po-inquiry-to-locate-po,use po inquiry to locate po,usepoinquirytolocatepo
+06-invoice-sales-order,invoice sales order,invoicesalesorder
+11-cost-po-to-vendor-invoice,cost po to vendor invoice,costpotovendorinvoice
+07-apply-customer-payment-to-invoice,apply customer payment to invoice,applycustomerpaymenttoinvoice
+03-global-search,global search,globalsearch
+06-add-note-using-notes-context-app,add note using notes context app,addnoteusingnotescontextapp
+09-personalize-advanced-line-entry-view-in-order-entry,personalize advanced line entry view in order entry,personalizeadvancedlineentryviewinorderentry
+05-ship-sales-order,ship sales order,shipsalesorder
+10-log-out-of-infor-distribution-sxe-and-infor-mingle,log out of infor distribution sxe and infor mingle,logoutofinfordistributionsxeandinformingle
+03-use-order-inquiry-for-sales-orders,use order inquiry for sales orders,useorderinquiryforsalesorders
+10-receive-a-po,receive a po,receiveapo
+15-use-global-search,use global search,useglobalsearch
+01-log-in-to-sxe,log in to sxe,logintosxe
+09-print-a-po,print a po,printapo
+04-advanced-search-techniques,advanced search techniques,advancedsearchtechniques
+quiz-level-1,quiz level 1,quizlevel1
+01-enter-stock-customer-sales-order,enter stock customer sales order,enterstockcustomersalesorder
+02enter-a-quote-order-1,enter a quote order 1,enteraquoteorder1
+sopoe01enter-stock-customer-sales-order,sopoe01enter stock customer sales order,sopoe01enterstockcustomersalesorder
+15-manually-apply-hold-and-approve-held-order,manually apply hold and approve held order,manuallyapplyholdandapproveheldorder
+06-perform-lookups-in-customer-sales-order,perform lookups in customer sales order,performlookupsincustomersalesorder
+25-enter-a-return-order,enter a return order,enterareturnorder
+19-add-optional-product-to-sales-order,add optional product to sales order,addoptionalproducttosalesorder
+22-enter-non-stock-product-on-an-order,enter non stock product on an order,enternonstockproductonanorder
+09-enter-a-direct-order,enter a direct order,enteradirectorder
+13-copy-customer-sales-order,copy customer sales order,copycustomersalesorder
+20-add-interchangeable-substitution-products-to-order,add interchangeable substitution products to order,addinterchangeablesubstitutionproductstoorder
+18-add-lot-numbered-product-to-sales-order,add lot numbered product to sales order,addlotnumberedproducttosalesorder
+03-review-the-shopping-list,review the shopping list,reviewtheshoppinglist
+10-enter-counter-sales-order-and-record-tender-payments,enter counter sales order and record tender payments,entercountersalesorderandrecordtenderpayments
+17-enter-sales-order-for-kits,enter sales order for kits,entersalesorderforkits
+07-enter-quote-order,enter quote order,enterquoteorder
+04-adjust-line-items,adjust line items,adjustlineitems
+08-copy-quote-order-to-a-stock-order,copy quote order to a stock order,copyquoteordertoastockorder
+05-review-taxes-totals-payments-for-stock-customer-sales-order,review taxes totals payments for stock customer sales order,reviewtaxestotalspaymentsforstockcustomersalesorder
+11-use-order-inquiry-to-search-for-orders,use order inquiry to search for orders,useorderinquirytosearchfororders
+02-add-items-to-stock-customer-sales-order,add items to stock customer sales order,additemstostockcustomersalesorder
+24-add-special-order-product-to-sales-order,add special order product to sales order,addspecialorderproducttosalesorder
+23-add-catalog-product-to-order,add catalog product to order,addcatalogproducttoorder
+21-view-units-of-measure,view units of measure,viewunitsofmeasure
+12-enter-stock-sales-order-and-change-line-items,enter stock sales order and change line items,enterstocksalesorderandchangelineitems
+16-suspend-an-order,suspend an order,suspendanorder
+14-add-comments-notes-to-customer-sales-order,add comments notes to customer sales order,addcommentsnotestocustomersalesorder
+quiz-level-2-sales-1,quiz level 2 sales 1,quizlevel2sales1
+01-set-up-vendor,set up vendor,setupvendor
+log-into-uap,log into uap,logintouap
+csd-basics,csd basics,csdbasics
+uap-101,uap 101,uap101
+08-print-count-sheets,print count sheets,printcountsheets
+06-print-pre-receiving-report,print pre receiving report,printprereceivingreport
+11schedule-service,schedule service,scheduleservice
+04bill-contract,bill contract,billcontract
+03enter-a-direct-order-1,enter a direct order 1,enteradirectorder1
+sopoe07enter-a-return-order-1,sopoe07enter a return order 1,sopoe07enterareturnorder1
+01create-purchase-order,create purchase order,createpurchaseorder
+05add-special-order-product-to-sales-order,add special order product to sales order,addspecialorderproducttosalesorder
+02use-order-inquiry-to-search-orders,use order inquiry to search orders,useorderinquirytosearchorders
+04add-re-rent-items,add re rent items,addrerentitems
+03use-order-inquiry-to-search-for-orders,use order inquiry to search for orders,useorderinquirytosearchfororders
+03enter-stock-sales-order-and-change-line-items,enter stock sales order and change line items,enterstocksalesorderandchangelineitems
+03print-count-sheets,print count sheets,printcountsheets
+08run-physical-count-sheet,run physical count sheet,runphysicalcountsheet
+01ship-sales-order-include-addons,ship sales order include addons,shipsalesorderincludeaddons
+02run-either-the-ic-entry-cycle-count-report-or-the-ic-entry-physical-count-report,run either the ic entry cycle count report or the ic entry physical count report,runeithertheicentrycyclecountreportortheicentryphysicalcountreport
+004order-inquiries,order inquiries,orderinquiries
+11adjust-inventory-to-unavailable,adjust inventory to unavailable,adjustinventorytounavailable
+093run-results-report-in-icepw,run results report in icepw,runresultsreportinicepw
+07edit-entered-counts,edit entered counts,editenteredcounts
+05perform-shipping-feedback-to-ship-order,perform shipping feedback to ship order,performshippingfeedbacktoshiporder
+04enter-the-count-into-csd-using-count-entry-function,enter the count into csd using count entry function,enterthecountintocsdusingcountentryfunction
+01product-inquiry,product inquiry,productinquiry
+05run-the-reconciliation-report,run the reconciliation report,runthereconciliationreport
+01filter-working-status,filter working status,filterworkingstatus
+02review-taxes-totals-payments-for-stock-customer-sales-order,review taxes totals payments for stock customer sales order,reviewtaxestotalspaymentsforstockcustomersalesorder
+01perform-lookups-in-customer-sales-order,perform lookups in customer sales order,performlookupsincustomersalesorder
+uap-101-1,uap 101 1,uap1011
+12-print-warehouse-transfer-pre-receiving-report,print warehouse transfer pre receiving report,printwarehousetransferprereceivingreport
+05-account-inquiry-and-report,account inquiry and report,accountinquiryandreport
+16-review-suspense-account,review suspense account,reviewsuspenseaccount
+17-post-monthly-profit,post monthly profit,postmonthlyprofit
+14-ar-trial-balance-report,ar trial balance report,artrialbalancereport
+06-add-gl-accounts-to-vendor,add gl accounts to vendor,addglaccountstovendor
+08-enter-real-time-journal,enter real time journal,enterrealtimejournal
+13-inquire-on-a-journal,inquire on a journal,inquireonajournal
+04-set-up-accounts,set up accounts,setupaccounts
+07-set-up-bank-and-add-to-vendor,set up bank and add to vendor,setupbankandaddtovendor
+10-enter-a-batch-journal,enter a batch journal,enterabatchjournal
+03-review-admin-options-in-gl,review admin options in gl,reviewadminoptionsingl
+01-create-new-vendor,create new vendor,createnewvendor
+20-close-the-gl,close the gl,closethegl
+18-generate-a-tax-register,generate a tax register,generateataxregister
+15-review-balance-history,review balance history,reviewbalancehistory
+09-set-up-batch,set up batch,setupbatch
+19-run-a-financial-statement,run a financial statement,runafinancialstatement
+11-process-and-update-batch-journal,process and update batch journal,processandupdatebatchjournal
+02-company-setup-in-gl,company setup in gl,companysetupingl
+12-enter-reverse-entry-journal,enter reverse entry journal,enterreverseentryjournal
+quiz-level-2-purchasing-2,quiz level 2 purchasing 2,quizlevel2purchasing2
+11-receive-corrections,receive corrections,receivecorrections
+09-add-product-to-po-at-receiving,add product to po at receiving,addproducttopoatreceiving
+04-ship-warehouse-transfer,ship warehouse transfer,shipwarehousetransfer
+19-merge-wt-rrar,merge wt rrar,mergewtrrar
+18-accept-wt-rrar,accept wt rrar,acceptwtrrar
+02-assign-serial-numbers-to-orders-during-shipping,assign serial numbers to orders during shipping,assignserialnumberstoordersduringshipping
+13-receive-warehouse-transfer,receive warehouse transfer,receivewarehousetransfer
+15-inquire-on-a-product,inquire on a product,inquireonaproduct
+14-process-exception-receipts,process exception receipts,processexceptionreceipts
+10-receive-serialized-product,receive serialized product,receiveserializedproduct
+07-receive-po,receive po,receivepo
+08-short-receive-po,short receive po,shortreceivepo
+17-run-wt-entry-recommended-replenishment-action-report,run wt entry recommended replenishment action report,runwtentryrecommendedreplenishmentactionreport
+16-print-count-sheets,print count sheets,printcountsheets
+03-unship-an-order,unship an order,unshipanorder
+01-ship-sales-order-include-addons,ship sales order include addons,shipsalesorderincludeaddons
+05-assign-serial-numbers-to-transfer-during-shipping,assign serial numbers to transfer during shipping,assignserialnumberstotransferduringshipping
+02-set-up-vendor-ship-from,set up vendor ship from,setupvendorshipfrom
+02verify-customer-eligibility,verify customer eligibility,verifycustomereligibility
+05-copy-pricing-record-to-new-customer,copy pricing record to new customer,copypricingrecordtonewcustomer
+05-apply-payment-with-debit-memo,apply payment with debit memo,applypaymentwithdebitmemo
+11-apply-short-payment-with-write-off,apply short payment with write off,applyshortpaymentwithwriteoff
+23-update-account-due-to-returned-check,update account due to returned check,updateaccountduetoreturnedcheck
+06-reverse-a-transaction,reverse a transaction,reverseatransaction
+04-create-pricing-record-using-quantity-break,create pricing record using quantity break,createpricingrecordusingquantitybreak
+04-enter-a-credit-memo,enter a credit memo,enteracreditmemo
+02-set-up-ship-to-address,set up ship to address,setupshiptoaddress
+10-process-short-payment,process short payment,processshortpayment
+27-ar-trial-balance-report,ar trial balance report,artrialbalancereport
+02-set-up-a-customer-record,set up a customer record,setupacustomerrecord
+15-apply-account-credits-to-invoice,apply account credits to invoice,applyaccountcreditstoinvoice
+28-ar-period-analysis-report,ar period analysis report,arperiodanalysisreport
+01-customer-inquiry-pricing,customer inquiry pricing,customerinquirypricing
+01-set-up-customer,set up customer,setupcustomer
+24-ar-open-activity-report,ar open activity report,aropenactivityreport
+09-apply-payment-to-oldest-invoice,apply payment to oldest invoice,applypaymenttooldestinvoice
+20-complete-price-correction,complete price correction,completepricecorrection
+08-apply-payment-to-multiple-invoices,apply payment to multiple invoices,applypaymenttomultipleinvoices
+21-correct-payment-posted-to-wrong-account,correct payment posted to wrong account,correctpaymentpostedtowrongaccount
+18-modify-customer-invoice,modify customer invoice,modifycustomerinvoice
+19-release-credit-hold,release credit hold,releasecredithold
+07-apply-payment-to-invoice,apply payment to invoice,applypaymenttoinvoice
+14-apply-credit-to-invoice,apply credit to invoice,applycredittoinvoice
+12-apply-payment-with-unearned-discount,apply payment with unearned discount,applypaymentwithunearneddiscount
+26-print-customer-statement,print customer statement,printcustomerstatement
+17-apply-misc-cash,apply misc cash,applymisccash
+07-load-price-set-to-pd-mass-maintenance,load price set to pd mass maintenance,loadpricesettopdmassmaintenance
+25-run-ar-roll-balances-and-assess-service-charge,run ar roll balances and assess service charge,runarrollbalancesandassessservicecharge
+29-ar-year-end-processing-report,ar year end processing report,aryearendprocessingreport
+16-apply-a-cod-credit,apply a cod credit,applyacodcredit
+03-create-and-verify-a-pricing-record,create and verify a pricing record,createandverifyapricingrecord
+22-process-short-payment-with-sales-tax-write-off,process short payment with sales tax write off,processshortpaymentwithsalestaxwriteoff
+03-enter-an-invoice,enter an invoice,enteraninvoice
+06-create-price-record-set,create price record set,createpricerecordset
+13-apply-payment-using-split-check,apply payment using split check,applypaymentusingsplitcheck
+quiz-level-2-accounts-receivable,quiz level 2 accounts receivable,quizlevel2accountsreceivable
+01-run-sa-operator-security-violations-report,run sa operator security violations report,runsaoperatorsecurityviolationsreport
+09-import-pricing-data-from-excel,import pricing data from excel,importpricingdatafromexcel
+03-create-report-scheduler-queue,create report scheduler queue,createreportschedulerqueue
+04-grant-authority-to-an-operator,grant authority to an operator,grantauthoritytoanoperator
+03-review-r-and-d-operator-record,review r and d operator record,reviewranddoperatorrecord
+08-export-pricing-data-to-excel,export pricing data to excel,exportpricingdatatoexcel
+11-run-expired-pricing-records-report,run expired pricing records report,runexpiredpricingrecordsreport
+10-copy-pricing-record-to-new-customer,copy pricing record to new customer,copypricingrecordtonewcustomer
+04-create-report-scheduler-job-group,create report scheduler job group,createreportschedulerjobgroup
+02-review-operator-record,review operator record,reviewoperatorrecord
+01-set-up-report-schedule-type,set up report schedule type,setupreportscheduletype
+02-report-scheduler-startup-shutdown-function,report scheduler startup shutdown function,reportschedulerstartupshutdownfunction
+quiz-level-2-warehouse-planning,quiz level 2 warehouse planning,quizlevel2warehouseplanning
+01add-items-to-stock-customer-sales-order,add items to stock customer sales order,additemstostockcustomersalesorder
+28-set-up-federal-tax-1099,set up federal tax 1099,setupfederaltax1099
+22-select-invoices-for-payment,select invoices for payment,selectinvoicesforpayment
+09-perform-a-reversal,perform a reversal,performareversal
+17-enter-trade-invoice---add-on-charges,enter trade invoice add on charges,entertradeinvoiceaddoncharges
+27-set-up-vendor-history-table,set up vendor history table,setupvendorhistorytable
+20-enter-trade-invoice---po-correction,enter trade invoice po correction,entertradeinvoicepocorrection
+12-enter-a-debit-memo,enter a debit memo,enteradebitmemo
+08-change-payment-to-split-payment-schedule,change payment to split payment schedule,changepaymenttosplitpaymentschedule
+24-print-checks,print checks,printchecks
+06-change-vendor-invoice---due-date-discount-rate,change vendor invoice due date discount rate,changevendorinvoiceduedatediscountrate
+11-enter-a-misc-credit,enter a misc credit,enteramisccredit
+04-enter-and-process-expense-invoice,enter and process expense invoice,enterandprocessexpenseinvoice
+14-create-new-trade-vendor,create new trade vendor,createnewtradevendor
+15-enter-trade-invoice---po-matches,enter trade invoice po matches,entertradeinvoicepomatches
+25-set-up-misc-vendor-in-ap,set up misc vendor in ap,setupmiscvendorinap
+19-enter-trade-invoice---partial-receipt,enter trade invoice partial receipt,entertradeinvoicepartialreceipt
+26-enter-invoice-for-misc-vendor,enter invoice for misc vendor,enterinvoiceformiscvendor
+05-inquire-on-vendor-info,inquire on vendor info,inquireonvendorinfo
+10-enter-a-credit-memo,enter a credit memo,enteracreditmemo
+23-ap-vendor-entry-pay-invoice-due-report,ap vendor entry pay invoice due report,apvendorentrypayinvoiceduereport
+21-cash-requirements-report,cash requirements report,cashrequirementsreport
+18-enter-trade-invoice---reconcile-against-multiple-pos,enter trade invoice reconcile against multiple pos,entertradeinvoicereconcileagainstmultiplepos
+07-set-up-split-payment-for-invoice-in-entered-stage,set up split payment for invoice in entered stage,setupsplitpaymentforinvoiceinenteredstage
+16-enter-trade-invoice---po-does-not-match,enter trade invoice po does not match,entertradeinvoicepodoesnotmatch
+13-enter-a-manual-payment,enter a manual payment,enteramanualpayment
+03-create-invoice-process-group,create invoice process group,createinvoiceprocessgroup
+03establish-job-entry,establish job entry,establishjobentry
+02add-items-to-po-and-finish-it,add items to po and finish it,additemstopoandfinishit
+05add-bidder-details-to-project-entry,add bidder details to project entry,addbidderdetailstoprojectentry
+04view-job-in-bidding-calendar,view job in bidding calendar,viewjobinbiddingcalendar
+01copy-quote-order-to-a-stock-order,copy quote order to a stock order,copyquoteordertoastockorder
+01review-the-shopping-list,review the shopping list,reviewtheshoppinglist
+04add-comments-notes-to-customer-sales-order,add comments notes to customer sales order,addcommentsnotestocustomersalesorder
+04view-units-of-measure,view units of measure,viewunitsofmeasure
+06suspend-an-order,suspend an order,suspendanorder
+05manually-apply-hold-and-approve-held-order,manually apply hold and approve held order,manuallyapplyholdandapproveheldorder
+02adjust-line-items,adjust line items,adjustlineitems
+01-set-up-new-product-and-product-line,set up new product and product line,setupnewproductandproductline
+01run-arro-ar-open-activity-report,run arro ar open activity report,runarroaropenactivityreport
+05set-up-split-payment-for-invoice-in-entered-stage,set up split payment for invoice in entered stage,setupsplitpaymentforinvoiceinenteredstage
+04arrt-run-trial-balance-report,arrt run trial balance report,arrtruntrialbalancereport
+01price-correction,price correction,pricecorrection
+02ship-to-setup,ship to setup,shiptosetup
+06run-ar-year-end-processing-report,run ar year end processing report,runaryearendprocessingreport
+03inquire-on-vendor-info,inquire on vendor info,inquireonvendorinfo
+05arrp-period-analysis-report,arrp period analysis report,arrpperiodanalysisreport
+co1sesopop20refund-customer-via-cckc,co1sesopop20refund customer via cckc,co1sesopop20refundcustomerviacckc
+co1sesopq2cop13apply-account-credits-to-invoicebwkc,co1sesopq2cop13apply account credits to invoicebwkc,co1sesopq2cop13applyaccountcreditstoinvoicebwkc
+23invoice-processing,invoice processing,invoiceprocessing
+04returned-check,returned check,returnedcheck
+11apply-payment-using-split-check,apply payment using split check,applypaymentusingsplitcheck
+05apply-payment-to-invoice,apply payment to invoice,applypaymenttoinvoice
+01create-invoice-process-group-1,create invoice process group 1,createinvoiceprocessgroup1
+15apply-misc-cash,apply misc cash,applymisccash
+08process-short-payment,process short payment,processshortpayment
+09apply-short-payment-with-write-off,apply short payment with write off,applyshortpaymentwithwriteoff
+16customer-statement-print,customer statement print,customerstatementprint
+09enter-a-misc-credit-1,enter a misc credit 1,enteramisccredit1
+18process-overpayment,process overpayment,processoverpayment
+07apply-payment-to-oldest-invoice,apply payment to oldest invoice,applypaymenttooldestinvoice
+07perform-a-reversal,perform a reversal,performareversal
+10enter-a-debit-memo,enter a debit memo,enteradebitmemo
+04change-vendor-invoice---due-date-discount-rate-1,change vendor invoice due date discount rate 1,changevendorinvoiceduedatediscountrate1
+03run-customer-statement-ares,run customer statement ares,runcustomerstatementares
+17payment-reversal,payment reversal,paymentreversal
+01customer-setup,customer setup,customersetup
+10apply-payment-with-unearned-discount,apply payment with unearned discount,applypaymentwithunearneddiscount
+22run-credit-card-receive-on-account,run credit card receive on account,runcreditcardreceiveonaccount
+19refund-customer-via-check,refund customer via check,refundcustomerviacheck
+03short-pay-with-sales-tax-1,short pay with sales tax 1,shortpaywithsalestax1
+06apply-payment-to-multiple-invoices,apply payment to multiple invoices,applypaymenttomultipleinvoices
+12apply-credit-to-invoice,apply credit to invoice,applycredittoinvoice
+01enter-an-invoice,enter an invoice,enteraninvoice
+01ism-incident,ism incident,ismincident
+01travel-to-site,travel to site,traveltosite
+06enter-a-non-stock-product-on-an-order,enter a non stock product on an order,enteranonstockproductonanorder
+06add-vendor-details-to-project-entry,add vendor details to project entry,addvendordetailstoprojectentry
+02customer-inquiry-with-past-due-invoices-large-dollar-amount-balance,customer inquiry with past due invoices large dollar amount balance,customerinquirywithpastdueinvoiceslargedollaramountbalance
+03acknowledge-purchase-order,acknowledge purchase order,acknowledgepurchaseorder
+08-copy-po,copy po,copypo
+25-run-replenishing-pre-built-kits-report,run replenishing pre built kits report,runreplenishingprebuiltkitsreport
+13-verify-product-adjustment,verify product adjustment,verifyproductadjustment
+04-perform-lookups-in-a-po,perform lookups in a po,performlookupsinapo
+18-copy-pricing-record,copy pricing record,copypricingrecord
+21-create-product-lot-numbers,create product lot numbers,createproductlotnumbers
+18-view-consolidation-info-in-demand-center,view consolidation info in demand center,viewconsolidationinfoindemandcenter
+06-locate-po-using-po-inquiry,locate po using po inquiry,locatepousingpoinquiry
+06-inquire-on-a-product,inquire on a product,inquireonaproduct
+07-inquire-on-product-availability,inquire on product availability,inquireonproductavailability
+22-review-ic-month-end-processing-report-options,review ic month end processing report options,reviewicmonthendprocessingreportoptions
+14-view-rrar-records-using-demand-center,view rrar records using demand center,viewrrarrecordsusingdemandcenter
+17-accept-replenishments,accept replenishments,acceptreplenishments
+15-ic-trial-balance-of-stock-inventory-report,ic trial balance of stock inventory report,ictrialbalanceofstockinventoryreport
+26-create-work-order-manually,create work order manually,createworkordermanually
+19-change-prices-and-costs-on-group-of-products,change prices and costs on group of products,changepricesandcostsongroupofproducts
+10-print-po,print po,printpo
+03-create-inventory-item-in-single-wh,create inventory item in single wh,createinventoryiteminsinglewh
+17enter-trade-invoice---partial-receipt-short-pay,enter trade invoice partial receipt short pay,entertradeinvoicepartialreceiptshortpay
+13add-freight-to-rental,add freight to rental,addfreighttorental
+09order-inquiry-using-a-serial-number,order inquiry using a serial number,orderinquiryusingaserialnumber
+02enter-a-credit-memo,enter a credit memo,enteracreditmemo
+01order-inquiry,order inquiry,orderinquiry
+03incident-to-sro,incident to sro,incidenttosro
+08enter-a-credit-memo-1,enter a credit memo 1,enteracreditmemo1
+02csd-incident,csd incident,csdincident
+19select-invoices-for-payment,select invoices for payment,selectinvoicesforpayment
+04accumulative-pos,accumulative pos,accumulativepos
+01print-po-expedite-report,print po expedite report,printpoexpeditereport
+18enter-trade-invoice---po-correction,enter trade invoice po correction,entertradeinvoicepocorrection
+15enter-trade-invoice---add-on-charges,enter trade invoice add on charges,entertradeinvoiceaddoncharges
+01create-rental-contract,create rental contract,createrentalcontract
+01process-core-as-return-merchandise,process core as return merchandise,processcoreasreturnmerchandise
+07run-wt-entry-recommended-replenishment-action-report,run wt entry recommended replenishment action report,runwtentryrecommendedreplenishmentactionreport
+05update-or-validate-quantities-needed,update or validate quantities needed,updateorvalidatequantitiesneeded
+20ap-vendor-entry-pay-invoice-due-report-1,ap vendor entry pay invoice due report 1,apvendorentrypayinvoiceduereport1
+07add-planned-transactions,add planned transactions,addplannedtransactions
+01generate-rrar,generate rrar,generaterrar
+06create-a-warranty-code,create a warranty code,createawarrantycode
+24process-payable-invoice,process payable invoice,processpayableinvoice
+16enter-trade-invoice---reconcile-against-multiple-pos-1,enter trade invoice reconcile against multiple pos 1,entertradeinvoicereconcileagainstmultiplepos1
+01wire-order-placement,wire order placement,wireorderplacement
+09correcting-a-wrong-product-receipt,correcting a wrong product receipt,correctingawrongproductreceipt
+02copy-customer-sales-order,copy customer sales order,copycustomersalesorder
+06change-payment-to-split-payment-schedule,change payment to split payment schedule,changepaymenttosplitpaymentschedule
+21print-checks,print checks,printchecks
+03initiate-vendor-return,initiate vendor return,initiatevendorreturn
+13enter-trade-invoice---po-matches,enter trade invoice po matches,entertradeinvoicepomatches
+01create-a-customer-unit,create a customer unit,createacustomerunit
+02add-a-warranty-to-a-unit-1,add a warranty to a unit 1,addawarrantytoaunit1
+04print-gap-report,print gap report,printgapreport
+27-print-work-orders,print work orders,printworkorders
+045create-warehouse-transfer,create warehouse transfer,createwarehousetransfer
+04enter-a-customer-sales-order-and-record-tender-payments-1,enter a customer sales order and record tender payments 1,enteracustomersalesorderandrecordtenderpayments1
+04change-operations,change operations,changeoperations
+035perform-lookups-in-a-po,perform lookups in a po,performlookupsinapo
+04finish-the-purchase-order,finish the purchase order,finishthepurchaseorder
+03purchase-order-apply-add-ons-and-discounts,purchase order apply add ons and discounts,purchaseorderapplyaddonsanddiscounts
+03-add-items-to-po-and-finish-it,add items to po and finish it,additemstopoandfinishit
+02-create-po,create po,createpo
+01purchase-order-submit-po-to-vendor,purchase order submit po to vendor,purchaseordersubmitpotovendor
+sales-order-example,sales order example,salesorderexample
+23-review-exception-processing-center-screen,review exception processing center screen,reviewexceptionprocessingcenterscreen
+11-manually-apply-hold-and-approve-held-po,manually apply hold and approve held po,manuallyapplyholdandapproveheldpo
+12-cancel-po,cancel po,cancelpo
+20-generate-ic-admin-review-cycle-adjustment-report,generate ic admin review cycle adjustment report,generateicadminreviewcycleadjustmentreport
+19-merge-pos-print-pos-generate-exception-report,merge pos print pos generate exception report,mergeposprintposgenerateexceptionreport
+07-change-po,change po,changepo
+21-generate-ic-admin-inventory-classification-and-rank-report,generate ic admin inventory classification and rank report,generateicadmininventoryclassificationandrankreport
+16-review-line-item-details,review line item details,reviewlineitemdetails
+05-create-warehouse-transfer,create warehouse transfer,createwarehousetransfer
+scott-electric-navigation,scott electric navigation,scottelectricnavigation
+new-customer-registration,new customer registration,newcustomerregistration
+04review-line-item-details,review line item details,reviewlineitemdetails
+13add-items-using-easy-line-entry,add items using easy line entry,additemsusingeasylineentry
+08correcting-an-over-under-receipt,correcting an over under receipt,correctinganoverunderreceipt
+15add-nonstock-items-to-a-purchase-order-using-advanced-line-entry,add nonstock items to a purchase order using advanced line entry,addnonstockitemstoapurchaseorderusingadvancedlineentry
+11cancel-po,cancel po,cancelpo
+07tying-a-po-rm-to-a-sales-order-line,tying a po rm to a sales order line,tyingapormtoasalesorderline
+01manual-entry-of-a-warehouse-transfer,manual entry of a warehouse transfer,manualentryofawarehousetransfer
+03run-the-aging-report,run the aging report,runtheagingreport
+02view-rrar-records,view rrar records,viewrrarrecords
+01release-credit-hold,release credit hold,releasecredithold
+01how-to-use-the-quote-modification,how to use the quote modification,howtousethequotemodification
+02merge-posprint-posgenerate-exception-report,merge posprint posgenerate exception report,mergeposprintposgenerateexceptionreport
+06review-exception-processing-center-screen,review exception processing center screen,reviewexceptionprocessingcenterscreen
+03blanket-pos,blanket pos,blanketpos
+co1sesoppurentopm14add-items-to-purchase-order-using-advanced-line-entrybwkc,co1sesoppurentopm14add items to purchase order using advanced line entrybwkc,co1sesoppurentopm14additemstopurchaseorderusingadvancedlineentrybwkc
+10correcting-a-wrong-cost-receipt,correcting a wrong cost receipt,correctingawrongcostreceipt
+09consolidate-multiple-rrars-for-different-vendor-product-lines-or-warehouses,consolidate multiple rrars for different vendor product lines or warehouses,consolidatemultiplerrarsfordifferentvendorproductlinesorwarehouses
+03print-fill-report-by-class-report,print fill report by class report,printfillreportbyclassreport
+06returning-an-acknowledged-po-to-the-printed-stage,returning an acknowledged po to the printed stage,returninganacknowledgedpototheprintedstage
+08create-quote-po-with-notes-and-comments,create quote po with notes and comments,createquotepowithnotesandcomments
+04maintaining-a-warehouse-tranfer,maintaining a warehouse tranfer,maintainingawarehousetranfer
+06canceling-a-warehouse-transfer,canceling a warehouse transfer,cancelingawarehousetransfer
+07tying-a-warehouse-transfer-to-a-customer-order,tying a warehouse transfer to a customer order,tyingawarehousetransfertoacustomerorder
+05notes-on-a-warehouse-transfer,notes on a warehouse transfer,notesonawarehousetransfer
+07adjust-rarr-quantities-using-increase-decrease-function-in-po-demand-center,adjust rarr quantities using increase decrease function in po demand center,adjustrarrquantitiesusingincreasedecreasefunctioninpodemandcenter
+05returning-a-core-product,returning a core product,returningacoreproduct
+10apply-hold-and-approve-held-po-1,apply hold and approve held po 1,applyholdandapproveheldpo1
+04generate-ic-admin-inventory-classification-and-rank-report,generate ic admin inventory classification and rank report,generateicadmininventoryclassificationandrankreport
+06accept-replenishments,accept replenishments,acceptreplenishments
+02print-inventory-turnover-report,print inventory turnover report,printinventoryturnoverreport
+03generate-ic-admin-review-cycle-adjustment-report,generate ic admin review cycle adjustment report,generateicadminreviewcycleadjustmentreport
+02approving-a-warehouse-transfer-that-is-on-hold,approving a warehouse transfer that is on hold,approvingawarehousetransferthatisonhold
+05print-surplus-stock-report,print surplus stock report,printsurplusstockreport
+05locate-po-using-po-inquiry,locate po using po inquiry,locatepousingpoinquiry
+02determining-extra-stock-to-order,determining extra stock to order,determiningextrastocktoorder
+06change-po,change po,changepo
+02purchase-order-maintain-po,purchase order maintain po,purchaseordermaintainpo
+01view-consolidation-info-in-demand-center,view consolidation info in demand center,viewconsolidationinfoindemandcenter
+09print-po,print po,printpo
+04perform-a-credit-review-on-a-customer-account,perform a credit review on a customer account,performacreditreviewonacustomeraccount
+07copy-po,copy po,copypo
+11merge-posprint-posgenrerate-exception-report,merge posprint posgenrerate exception report,mergeposprintposgenrerateexceptionreport
+24-review-setup-of-pre-built-kit-item,review setup of pre built kit item,reviewsetupofprebuiltkititem
+03change-working-status,change working status,changeworkingstatus
+co3ppsee01partner-set-upkc,co3ppsee01partner set upkc,co3ppsee01partnersetupkc
+04change-operations-1,change operations 1,changeoperations1
+01create-pma-contract,create pma contract,createpmacontract
+22-track-serial-products,track serial products,trackserialproducts
+quiz-level-2-purchasing-1,quiz level 2 purchasing 1,quizlevel2purchasing1
+08check-out-rental,check out rental,checkoutrental
+12receive-vendor-rm-po,receive vendor rm po,receivevendorrmpo
+05add-start-up-notes,add start up notes,addstartupnotes
+12posting-transactions,posting transactions,postingtransactions
+10receive-the-non-stock,receive the non stock,receivethenonstock
+11change-billing-details,change billing details,changebillingdetails
+07receive-re-rent-po,receive re rent po,receivererentpo
+10close-rental,close rental,closerental
+05add-sro-lines,add sro lines,addsrolines
+07mark-accepted,mark accepted,markaccepted
+06add-line,add line,addline
+03print-rental-agreement,print rental agreement,printrentalagreement
+08mark-reconciled,mark reconciled,markreconciled
+02print-pick-ticket,print pick ticket,printpickticket
+04create-a-start-up-incident,create a start up incident,createastartupincident
+06print-re-rent-po,print re rent po,printrerentpo
+05run-oeepc,run oeepc,runoeepc
+06add-operations-1,add operations 1,addoperations1
+06ism-invoice,ism invoice,isminvoice
+08register-unit,register unit,registerunit
+09check-in-rental,check in rental,checkinrental
+02partners-schedule-set-up,partners schedule set up,partnersschedulesetup
+co3ppsoohow-to-do-a-shipping-feedback-for-start-upbwkc,co3ppsoohow to do a shipping feedback for start upbwkc,co3ppsoohowtodoashippingfeedbackforstartupbwkc
+09-enter-counts,enter counts,entercounts
+03review-and-modify-rrar-record,review and modify rrar record,reviewandmodifyrrarrecord
+14close-sro,close sro,closesro
+13invoicing-in-ism,invoicing in ism,invoicinginism
+02add-rental-items,add rental items,addrentalitems
+04quick-create-sro-1,quick create sro 1,quickcreatesro1
+08add-a-non-stock,add a non stock,addanonstock
+02perform-site-work,perform site work,performsitework
+04create-a-release,create a release,createarelease
+08make-a-product-serialized,make a product serialized,makeaproductserialized

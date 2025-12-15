@@ -1,0 +1,318 @@
+Entity,SOP,SubSOP,Module_Name,Parent_Context
+Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,01_Set Up New Product Line,CSD > Document Library > PURCHASING > 03_Basic Product Line Setup
+PALCO,ISM,02_Rental Process,14_Print RM PO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,01_Run (ARRO) AR Open Activity Report,CSD > Document Library > FINANCIAL > Accounts Receivable > 04_Accounts Receivable Reporting and Analysis
+Scott Electric Distribution,OPERATIONS,,Quiz Level 2 | Warehouse Planning,CSD > Document Library > OPERATIONS
+Scott Electric Distribution,FINANCIAL,Accounts Payable,05_Set Up Split Payment for Invoice in Entered Stage,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,04_Review Line Item Details,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,FINANCIAL,Accounts Payable,17_Enter Trade Invoice - Partial Receipt (Short Pay),CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,03_Review and Modify RRAR Record,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,SALES,05_Product Management,05_Add Special Order Product to Sales Order,CSD > Document Library > SALES > 05_Product Management
+PALCO,ISM,03_Warranty Process,03_Change Working Status,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+PALCO,SALES,05_Product Management,04_Add Catalog Product to Order,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 05_Product Management
+Scott Electric Distribution,PRICING,,15A_SAAMM - Mass Maintenance Export,CSD > Document Library > PRICING
+PALCO,ISM,01_Service Order Process,15_Create SRO Estimate,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,SALES,02_Order Modification,02_Adjust Line Items,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 02_Order Modification
+PALCO,ISM,02_Rental Process,13_Add Freight to Rental,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,13_Add Items Using Easy Line Entry,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+PALCO,ISM,02_Rental Process,08_Check Out Rental,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,OPERATIONS,02_Warehouse,03_Print Count Sheets,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,04_(ARRT) Run Trial Balance Report,CSD > Document Library > FINANCIAL > Accounts Receivable > 04_Accounts Receivable Reporting and Analysis
+PALCO,ISM,01_Service Order Process,11_Schedule Service,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,08_Correcting an Over Under Receipt,CSD > Document Library > PURCHASING > 08_Miscellaneous
+PALCO,START UP,,09_Order Inquiry Using a Serial Number,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,04_Apply Payment with Debit Memo,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,15_Add Nonstock Items to a Purchase Order Using Advanced Line Entry,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,OPERATIONS,02_Warehouse,08_Run Physical Count Sheet,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,01_Price Correction,CSD > Document Library > FINANCIAL > Accounts Receivable > 03_Account Adjustments and Corrections
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,11_Cancel PO,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,PRICING,,08C_ICSEC Substitute,CSD > Document Library > PRICING
+PALCO,SALES,Palco Specific Sales,04_Create a Release,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+PALCO,ISM,01_Service Order Process,17_Convert Estimate To SRO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,SALES,06_Lookup and Inquiry,02_Use Order Inquiry to Search Orders,CSD > Document Library > SALES > 06_Lookup and Inquiry
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,07_Tying a PO RM to a Sales Order Line,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,02_Ship-to Setup,CSD > Document Library > FINANCIAL > Accounts Receivable > 01_Basic Setup
+PALCO,ISM,08_PMA Service Orders,04_Bill Contract,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 08_PMA Service Orders
+Scott Electric Distribution,PRICING,,13_PDRX - Pricing Records Expiring Report,CSD > Document Library > PRICING
+Scott Electric Distribution,z_PLAYGROUND,,Helen's Course,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,FINANCIAL,General Ledger,01_Create New Vendor,CSD > Document Library > FINANCIAL > General Ledger > 01_Setup of General Ledger
+PALCO,ISM,03_Warranty Process,09_Vendor Invoice Center,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+PALCO,ISM,03_Warranty Process,05_Customer Bill Override,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+Scott Electric Distribution,OPERATIONS,02_Warehouse,"01_Ship Sales Order, Include Addons",CSD > Document Library > OPERATIONS > 02_Warehouse > 02_Shipping Sales Orders
+PALCO,ISM,01_Service Order Process,01_ISM Incident,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,SALES,03_Order Review,"02_Review Taxes, Totals, Payments for Stock Customer Sales Order",CSD > Document Library > SALES > 03_Order Review
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,06_Run AR Year End Processing Report,CSD > Document Library > FINANCIAL > Accounts Receivable > 04_Accounts Receivable Reporting and Analysis
+Scott Electric Distribution,PRICING,,06_Creating a Stock Item - ICSP & ICSW,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Payable,14_Enter Trade Invoice - PO Price Adjustment,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,,TEST WITH HELEN,CSD > Document Library > PURCHASING
+Scott Electric Distribution,FINANCIAL,General Ledger,05_Account Inquiry and Report,CSD > Document Library > FINANCIAL > General Ledger > 01_Setup of General Ledger
+PALCO,SALES,02_Order Modification,06_Suspend an Order,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 02_Order Modification
+Scott Electric Distribution,OPERATIONS,02_Warehouse,02_Short Receive PO,CSD > Document Library > OPERATIONS > 02_Warehouse > 03_Receiving
+PALCO,SALES,02_Order Modification,05_Manually Apply Hold and Approve Held Order,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 02_Order Modification
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,01_Manual Entry of a Warehouse Transfer,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+Scott Electric Distribution,PRICING,,08D_ICSEC Supersede,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Payable,03_Inquire on Vendor Info,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,FINANCIAL,Credit,03_Run the Aging Report,CSD > Document Library > FINANCIAL > Credit
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,05_(ARRP) Period Analysis Report,CSD > Document Library > FINANCIAL > Accounts Receivable > 04_Accounts Receivable Reporting and Analysis
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,21_Review Journal,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,02_View RRAR Records,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,PRICING,,06_ ICSP & ICSW - Creating a Stock Item,CSD > Document Library > PRICING
+PALCO,SALES,02_Order Modification,03_Enter Stock Sales Order and Change Line Items,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 02_Order Modification
+PALCO,ISM,02_Rental Process,12_Receive Vendor RM PO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,PRICING,,11J_PDSP -  Level 8 - Product Price Type (PROMOTION),CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,02_Enter a Credit Memo,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,z_PLAYGROUND,,APS100 Supplier Invoice Record,CSD > Document Library > z_PLAYGROUND
+PALCO,ISM,01_Service Order Process,16_Create SRO Callback,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,13_Apply Account Credits to Invoice,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+PALCO,ISM,04_ISM Set Up,01_Partner Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+PALCO,ISM,01_Service Order Process,14_Close SRO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,OPERATIONS,02_Warehouse,02_Run either the IC Entry Cycle Count Report or the IC Entry Physical Count Report,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,FINANCIAL,Credit,01_Release Credit Hold,CSD > Document Library > FINANCIAL > Credit
+Scott Electric Distribution,PRICING,,Quiz Level 2 | Pricing,CSD > Document Library > PRICING
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,04.5_Create Warehouse Transfer,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,23_Invoice Processing,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,SALES,,Quiz Level 2 | Sales,CSD > Document Library > SALES
+Scott Electric Distribution,SALES,01_Order Entry,03_Enter a Direct Order,CSD > Document Library > SALES > 01_Order Entry
+PALCO,START UP,,01_Order Inquiry,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Scott Electric Distribution,PRICING,,11H_PDSP -  Level 6 - Customer Type,CSD > Document Library > PRICING
+Scott Electric Distribution,PRICING,,17_PDAPP - PD Administrator Price/Costs Update,CSD > Document Library > PRICING
+PALCO,ISM,03_Warranty Process,04_Change Operations,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+PALCO,START UP,,05_Add Start Up Notes,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+PALCO,ISM,01_Service Order Process,12_Posting Transactions,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,ISM,01_Service Order Process,10_Receive the Non-Stock,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,ISM,01_Service Order Process,03_Incident to SRO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,ISM,01_Service Order Process,06_Add Operations,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,SALES,03_Order Review,01_Review the Shopping List,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 03_Order Review
+Scott Electric Distribution,SALES,06_Lookup and Inquiry,01_Perform Lookups in Customer Sales Order,CSD > Document Library > SALES > 06_Lookup and Inquiry
+PALCO,ISM,04_ISM Set Up,08_Contract Rental Template,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+PALCO,ISM,02_Rental Process,11_Change Billing Details,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,SALES,02_Order Modification,01_Add Items to Stock Customer Sales Order,CSD > Document Library > SALES > 02_Order Modification
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,04_Returned Check,CSD > Document Library > FINANCIAL > Accounts Receivable > 03_Account Adjustments and Corrections
+Scott Electric Distribution,FINANCIAL,Accounts Payable,08_Enter a Credit Memo,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+PALCO,PURCHASING,01_Purchase Order Entry to Print,01_Create Purchase Order,CSD > Document Library > PALCO POWER SYSTEMS > PURCHASING > 01_Purchase Order Entry to Print
+PALCO,ISM,02_Rental Process,07_Receive Re Rent PO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,01_How to Use the Quote Modification,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,PRICING,,16_PDSF - Future Price/Cost Change Update,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,11_Apply Payment Using Split Check,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+PALCO,FINANCIAL,ACCOUNTS PAYABLE,01_Direct Ship with Serials,CSD > Document Library > PALCO POWER SYSTEMS > FINANCIAL > ACCOUNTS PAYABLE
+Scott Electric Distribution,PRICING,,09A_Remnants - Creating a Piece Item,CSD > Document Library > PRICING
+PALCO,SALES,Palco Specific Sales,08_Make a Product Serialized,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+Scott Electric Distribution,SALES,01_Order Entry,02_Enter a Quote Order,CSD > Document Library > SALES > 01_Order Entry
+PALCO,ISM,04_ISM Set Up,03_Create a New Work Code,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+Scott Electric Distribution,Basics,,Log into UAP,CSD > Document Library > Basics
+Scott Electric Distribution,z_PLAYGROUND,,Quiz Level 1,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,SALES,05_Product Management,04_Add Catalog Product to Order,CSD > Document Library > SALES > 05_Product Management
+Scott Electric Distribution,PRICING,,11G_PDSP - Level 5 - Customer,CSD > Document Library > PRICING
+Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),02_Merge POs_Print POs_Generate Exception Report,CSD > Document Library > PURCHASING > 06_Demand Tasks (DEM)
+Scott Electric Distribution,SALES,04_Order Copying and Conversion,01_Copy Quote Order to a Stock Order,CSD > Document Library > SALES > 04_Order Copying and Conversion
+Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,03_Acknowledge Purchase Order,CSD > Document Library > PURCHASING > 04_PO Print to Receipt
+Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),06_Review Exception Processing Center Screen,CSD > Document Library > PURCHASING > 06_Demand Tasks (DEM)
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,03_Blanket POs,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,05_Apply Payment to Invoice,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+PALCO,ISM,01_Service Order Process,09_Print the Non-Stock PO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,ISM,01_Service Order Process,01.2_CSD Incident,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,03_Order Inquiries,CSD > Document Library > OPERATIONS > 00_Basic Warehouse
+Scott Electric Distribution,SALES,01_Order Entry,01_Enter Stock Customer Sales Order,CSD > Document Library > SALES > 01_Order Entry
+Scott Electric Distribution,FINANCIAL,Accounts Payable,01_Create Invoice Process Group,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,05_Customer Invoice Modification,CSD > Document Library > FINANCIAL > Accounts Receivable > 03_Account Adjustments and Corrections
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,14_Add Items to Purchase Order Using Advanced Line Entry,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,FINANCIAL,Credit,"02_Customer Inquiry with Past Due Invoices, Large Dollar Amount Balance",CSD > Document Library > FINANCIAL > Credit
+Scott Electric Distribution,FINANCIAL,Accounts Payable,19_Select Invoices for Payment,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PJM,01_Basic Bidding Process,03_Establish Job Entry,CSD > Document Library > PJM > 01_Basic Bidding Process
+PALCO,ISM,02_Rental Process,10_Close Rental,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,04_Accumulative POs,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,PJM,04_Customer Quote Creation,05_Email Customer Quote,CSD > Document Library > PJM > 04_Customer Quote Creation
+Scott Electric Distribution,SALES,01_Order Entry,07_Enter a Return Order,CSD > Document Library > SALES > 01_Order Entry
+PALCO,SALES,03_Order Review,03_Use Order Inquiry to Search for Orders,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 03_Order Review
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,10_Correcting a Wrong Cost Receipt,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,15_Apply Misc Cash,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+PALCO,ISM,01_Service Order Process,05_Add SRO Lines,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,PRICING,,08E_ICSEC Option,CSD > Document Library > PRICING
+Scott Electric Distribution,PRICING,,11A_ PDSP - Level 1 - Customer/Product,CSD > Document Library > PRICING
+Scott Electric Distribution,,,Test for Subi,CSD > Document Library
+Scott Electric Distribution,PRICING,,11D_PDSP - Level 2 - Customer/Product Category,CSD > Document Library > PRICING
+Scott Electric Distribution,SALES,01_Order Entry,06_Enter a Non-Stock Product on an Order,CSD > Document Library > SALES > 01_Order Entry
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,08_Process Short Payment,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PURCHASING,06.5_Run Reports,01_Print PO Expedite Report,CSD > Document Library > PURCHASING > 06.5_Run Reports
+PALCO,ISM,03_Warranty Process,07_Mark Accepted,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+Scott Electric Distribution,PRICING,,08A_ICSEC - Barcode - UPC,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Payable,02_Enter and Process Expense Invoice,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,09_Consolidate Multiple RRARS for Different Vendor Product Lines or Warehouses,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+PALCO,ISM,02_Rental Process,04_Add Re Rent Items,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,SALES,01_Order Entry,04_Enter a Counter Sales Order and Record Tender Payments,CSD > Document Library > SALES > 01_Order Entry
+Scott Electric Distribution,PURCHASING,06.5_Run Reports,03_Print Fill Report by Class Report,CSD > Document Library > PURCHASING > 06.5_Run Reports
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,02_Run ARER Roll Balances asses Service Charge,CSD > Document Library > FINANCIAL > Accounts Receivable > 04_Accounts Receivable Reporting and Analysis
+PALCO,ISM,08_PMA Service Orders,03_Generate SRO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 08_PMA Service Orders
+PALCO,SALES,Palco Specific Sales,07_Shipping Feedback,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+Scott Electric Distribution,FINANCIAL,Accounts Payable,18_Enter Trade Invoice - PO Correction,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,06_Returning an Acknowledged PO to the Printed Stage,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,OPERATIONS,02_Warehouse,11_Adjust Inventory to Unavailable,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,08_Create Quote PO with Notes and Comments,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,FINANCIAL,Accounts Payable,12_Create New Trade Vendor,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,SALES,03_Order Review,03_Use Order Inquiry to Search for Orders,CSD > Document Library > SALES > 03_Order Review
+PALCO,START UP,,06_Add Line,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Scott Electric Distribution,FINANCIAL,Accounts Payable,23_Enter Invoice for Misc Vendor,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,FINANCIAL,,Quiz Level 2 | Accounts Payable,CSD > Document Library > FINANCIAL
+PALCO,ISM,07_Tech Mobile,01_Travel to Site,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+Scott Electric Distribution,SALES,03_Order Review,01_Review the Shopping List,CSD > Document Library > SALES > 03_Order Review
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,04_Maintaining a Warehouse Tranfer,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+PALCO,ISM,08_PMA Service Orders,02_Add PMA Contract Lines,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 08_PMA Service Orders
+Scott Electric Distribution,SALES,02_Order Modification,"04_Add Comments, Notes to Customer Sales Order",CSD > Document Library > SALES > 02_Order Modification
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,09_Apply Short Payment with Write-Off,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,z_PLAYGROUND,,01_Enter Stock Customer Sales Order -Test,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,16_Customer Statement Print,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,FINANCIAL,Accounts Payable,09_Enter a Misc Credit,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,03_Run the WTERR,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+Scott Electric Distribution,FINANCIAL,Accounts Payable,14_Enter Trade Invoice - Price Deduction,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,06_Canceling a Warehouse Transfer,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,18_Process Overpayment,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PRICING,,09B_Reels - Creating a Rack Item,CSD > Document Library > PRICING
+Scott Electric Distribution,PRICING,,08H_ICSEC Vendor Part Number,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,07_Apply Payment to Oldest Invoice,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,07_Tying a Warehouse Transfer to a Customer Order,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+Scott Electric Distribution,PRICING,,08B_Interchange - Keywords,CSD > Document Library > PRICING
+Scott Electric Distribution,PJM,01_Basic Bidding Process,07_Add Customer Documents to a Job Entry,CSD > Document Library > PJM > 01_Basic Bidding Process
+Scott Electric Distribution,PRICING,,12_Convert a Quote to a Pricing Record,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Payable,07_Perform a Reversal,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,FINANCIAL,Accounts Payable,15_Enter Trade Invoice - Add On Charges,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,05_Notes on a Warehouse Transfer,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+Scott Electric Distribution,PRICING,,11F_PDSP - Level 3 - Customer Type/Product (MASTER),CSD > Document Library > PRICING
+PALCO,ISM,02_Rental Process,01_Create Rental Contract,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,07_Adjust RARR Quantities Using Increase-Decrease Function in PO Demand Center,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,FINANCIAL,Accounts Payable,10_Enter a Debit Memo,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,02_Add Items to PO and Finish It,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,SALES,BATTERY,01_Process Core as Return Merchandise,CSD > Document Library > SALES > BATTERY
+Scott Electric Distribution,FINANCIAL,Accounts Payable,"04_Change Vendor Invoice - Due Date, Discount Rate",CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,01_Create Purchase Order,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,05_Returning a Core Product,CSD > Document Library > PURCHASING > 08_Miscellaneous
+PALCO,ISM,04_ISM Set Up,07_Set Up a Rate,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+PALCO,SALES,02_Order Modification,"04_Add Comments, Notes to Customer Sales Order",CSD > Document Library > PALCO POWER SYSTEMS > SALES > 02_Order Modification
+Scott Electric Distribution,OPERATIONS,02_Warehouse,07_Run WT Entry Recommended Replenishment Action Report,CSD > Document Library > OPERATIONS > 02_Warehouse > 04_Transfer Orders Picking to Shipping
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,05_Update or Validate Quantities Needed,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+PALCO,ISM,02_Rental Process,03_Print Rental Agreement,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,FINANCIAL,Accounts Payable,20_AP Vendor Entry Pay Invoice Due Report,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+PALCO,ISM,03_Warranty Process,08_Mark Reconciled,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+PALCO,ISM,01_Service Order Process,07_Add Planned Transactions,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,03_Run Customer Statement (ARES),CSD > Document Library > FINANCIAL > Accounts Receivable > 04_Accounts Receivable Reporting and Analysis
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,01_Generate RRAR,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,10_Apply Hold and Approve Held PO,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+PALCO,ISM,01_Service Order Process,13_Invoicing in ISM,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+PALCO,ISM,02_Rental Process,02_Add Rental Items,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+PALCO,ISM,07_Tech Mobile,05_Close Appointment,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+PALCO,SALES,Palco Specific Sales,03_Add Lump Sum,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+PALCO,START UP,,02_Print Pick Ticket,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+PALCO,ISM,04_ISM Set Up,06_Create a Warranty Code,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+Scott Electric Distribution,FINANCIAL,,Quiz Level 2 | Accounts Receivable,CSD > Document Library > FINANCIAL
+Scott Electric Distribution,OPERATIONS,02_Warehouse,09.3_Run Results Report in ICEPW,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,PRICING,,10A_PDEC - Individual Stock Item Price Update Manually,CSD > Document Library > PRICING
+Scott Electric Distribution,PRICING,,08F_ICSEC Upgrade,CSD > Document Library > PRICING
+Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),04_Generate IC Admin Inventory Classification and Rank Report,CSD > Document Library > PURCHASING > 06_Demand Tasks (DEM)
+Scott Electric Distribution,PRICING,,04_ SASTT - Product Price Type & PDSP -Customer Type/Product Type,CSD > Document Library > PRICING
+Scott Electric Distribution,OPERATIONS,02_Warehouse,10_Add Items to a Count During Count Entry,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,z_PLAYGROUND,,LMS Exercise Test,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,17_Payment Reversal,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,SALES,03_Order Review,04_View Units of Measure,CSD > Document Library > SALES > 03_Order Review
+Scott Electric Distribution,z_PLAYGROUND,,CREATE INCIDENT,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,06_Accept Replenishments,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,PRICING,,11E_PDSP - Level 3 - Customer Type/Product (SPEC.),CSD > Document Library > PRICING
+Scott Electric Distribution,z_PLAYGROUND,,Shims Stock Order Inquiry 2,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,OPERATIONS,02_Warehouse,07_Edit Entered Counts,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,FINANCIAL,Accounts Payable,24_Process Payable Invoice,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PRICING,,01_OEET Entering a Stock Customer Sales Order,CSD > Document Library > PRICING
+Scott Electric Distribution,SALES,02_Order Modification,03_Enter Stock Sales Order and Change Line Items,CSD > Document Library > SALES > 02_Order Modification
+PALCO,ISM,07_Tech Mobile,04_Travel Leaving Site,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+Scott Electric Distribution,FINANCIAL,Accounts Payable,16_Enter Trade Invoice - Reconcile Against Multiple POs,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+PALCO,START UP,,04_Create a Start Up Incident,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+PALCO,FINANCIAL,ACCOUNTS PAYABLE,01_Create Invoice Process Group,CSD > Document Library > PALCO POWER SYSTEMS > FINANCIAL > ACCOUNTS PAYABLE > 02_Basic AP Process
+Scott Electric Distribution,OPERATIONS,02_Warehouse,05_Perform Shipping Feedback to Ship Order,CSD > Document Library > OPERATIONS > 02_Warehouse > 02_Shipping Sales Orders
+Scott Electric Distribution,PRICING,,11B_PDSP - Level 2 - Customer/Product Price Type,CSD > Document Library > PRICING
+PALCO,ISM,02_Rental Process,06_Print Re Rent PO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,01_Customer Setup,CSD > Document Library > FINANCIAL > Accounts Receivable > 01_Basic Setup
+Scott Electric Distribution,PRICING,,07_ICSC - Creating a Catalog Item,CSD > Document Library > PRICING
+Scott Electric Distribution,SALES,07_Wire Order Placement,01_Wire Order Placement,CSD > Document Library > SALES > 07_Wire Order Placement
+Scott Electric Distribution,PJM,01_Basic Bidding Process,06_Add Vendor Details to Project Entry,CSD > Document Library > PJM > 01_Basic Bidding Process
+Scott Electric Distribution,z_PLAYGROUND,,create a stock order,CSD > Document Library > z_PLAYGROUND
+PALCO,SALES,Palco Specific Sales,06_Print Pick Ticket,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+PALCO,ISM,01_Service Order Process,04_Quick Create SRO,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,PRICING,,15B_SAAMM - Mass Maintenance Import,CSD > Document Library > PRICING
+Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,01_Purchase Order Submit PO to Vendor,CSD > Document Library > PURCHASING > 04_PO Print to Receipt
+PALCO,ISM,01_Service Order Process,08_Add a Non-Stock,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 01_Service Order Process
+Scott Electric Distribution,Basics,,CSD Basics,CSD > Document Library > Basics
+Scott Electric Distribution,PURCHASING,06.5_Run Reports,02_Print Inventory Turnover Report,CSD > Document Library > PURCHASING > 06.5_Run Reports
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,09_Correcting a Wrong Product Receipt,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,PURCHASING,,Quiz Level 2 | Purchasing,CSD > Document Library > PURCHASING
+Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),03_Generate IC Admin Review Cycle Adjustment Report,CSD > Document Library > PURCHASING > 06_Demand Tasks (DEM)
+Scott Electric Distribution,SALES,04_Order Copying and Conversion,02_Copy Customer Sales Order,CSD > Document Library > SALES > 04_Order Copying and Conversion
+Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,002_INQUIRE ON PRODUCT AVAILABILITY,CSD > Document Library > OPERATIONS > 00_Basic Warehouse
+Scott Electric Distribution,OPERATIONS,02_Warehouse,04_Enter the Count into CSD Using Count Entry Function,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,FINANCIAL,Accounts Payable,06_Change Payment to Split Payment Schedule,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,OPERATIONS,02_Warehouse,07_Unship an Order,CSD > Document Library > OPERATIONS > 02_Warehouse > 02_Shipping Sales Orders
+Scott Electric Distribution,FINANCIAL,Accounts Payable,21_Print Checks,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,02_Approving a Warehouse Transfer That is on Hold,CSD > Document Library > PURCHASING > 07_Warehouse Transfers
+Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,01_Product Inquiry,CSD > Document Library > OPERATIONS > 00_Basic Warehouse
+PALCO,FINANCIAL,GENERAL LEDGER,05_Account Inquiry and Report,CSD > Document Library > PALCO POWER SYSTEMS > FINANCIAL > GENERAL LEDGER > 01_Setup of General Ledger
+PALCO,ISM,07_Tech Mobile,02_Perform Site Work,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+Scott Electric Distribution,PJM,01_Basic Bidding Process,05_Add Bidder Details to Project Entry,CSD > Document Library > PJM > 01_Basic Bidding Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,10_Apply Payment with Unearned Discount,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,SALES,,sales order example,CSD > Document Library > SALES
+PALCO,SALES,Palco Specific Sales,09_Create Order as Needed Non Stock,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+PALCO,SALES,Palco Specific Sales,02_Add Items,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+PALCO,ISM,08_PMA Service Orders,01_Create PMA Contract,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 08_PMA Service Orders
+PALCO,START UP,,07_Schedule,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Scott Electric Distribution,PURCHASING,06.5_Run Reports,05_Print Surplus Stock Report,CSD > Document Library > PURCHASING > 06.5_Run Reports
+PALCO,SALES,Palco Specific Sales,05_Run OEEPC,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+Scott Electric Distribution,z_PLAYGROUND,,Introduction to CSD,CSD > Document Library > z_PLAYGROUND
+PALCO,ISM,04_ISM Set Up,09_Contract Service Template PMA,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,03.5_Perform Lookups in a PO,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+PALCO,ISM,03_Warranty Process,06_ISM Invoice,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+Scott Electric Distribution,SALES,02_Order Modification,06_Suspend an Order,CSD > Document Library > SALES > 02_Order Modification
+PALCO,START UP,,08_Register Unit,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Scott Electric Distribution,PJM,01_Basic Bidding Process,02_Verify Customer Eligibility,CSD > Document Library > PJM > 01_Basic Bidding Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,22_Run Credit Card Receive on Account,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PRICING,,11C_PDSP - Level 2 - Customer/Product Line,CSD > Document Library > PRICING
+PALCO,ISM,02_Rental Process,09_Check In Rental,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 02_Rental Process
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,05_Locate PO Using PO Inquiry,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,SALES,02_Order Modification,05_Manually Apply Hold and Approve Held Order,CSD > Document Library > SALES > 02_Order Modification
+PALCO,SALES,03_Order Review,"02_Review Taxes, Totals, Payments for Stock Customer Sales Order",CSD > Document Library > PALCO POWER SYSTEMS > SALES > 03_Order Review
+Scott Electric Distribution,PURCHASING,08_Miscellaneous,02_Determining Extra Stock to Order,CSD > Document Library > PURCHASING > 08_Miscellaneous
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,06_Change PO,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,04_Finish the Purchase Order,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,02_Purchase Order Maintain PO,CSD > Document Library > PURCHASING > 04_PO Print to Receipt
+PALCO,SALES,Palco Specific Sales,01_Create a Blanket Order,CSD > Document Library > PALCO POWER SYSTEMS > SALES > Palco Specific Sales
+Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,01_Initiate Vendor Return,CSD > Document Library > PURCHASING > 05_Return Merchandise PO to Shipment
+PALCO,SALES,02_Order Modification,01_Add Items to Stock Customer Sales Order,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 02_Order Modification
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,19_Refund Customer via Check,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,FINANCIAL,Accounts Payable,13_Enter Trade Invoice - PO Matches,CSD > Document Library > FINANCIAL > Accounts Payable > 02_Basic AP Process
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,24_Tax Adjustment Correction,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,03_Short Pay with Sales Tax,CSD > Document Library > FINANCIAL > Accounts Receivable > 03_Account Adjustments and Corrections
+PALCO,ISM,07_Tech Mobile,03_Add Material,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+PALCO,ISM,06_Register a Unit,01_Create a Customer Unit,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 06_Register a Unit
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,06_Apply Payment to Multiple Invoices,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,z_PLAYGROUND,,Quiz Level 2 | Sales,CSD > Document Library > z_PLAYGROUND
+Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),01_View Consolidation Info in Demand Center,CSD > Document Library > PURCHASING > 06_Demand Tasks (DEM)
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,09_Print PO,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+PALCO,ISM,04_ISM Set Up,02_Partners Schedule Set Up,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+PALCO,ISM,07_Tech Mobile,06_Change Status to Call Back,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 07_Tech Mobile
+Scott Electric Distribution,PRICING,,08G_ICSEC Customer Part Number,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,12_Apply Credit to Invoice,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,OPERATIONS,02_Warehouse,05_Run the Reconciliation Report,CSD > Document Library > OPERATIONS > 02_Warehouse > 01_Physical or Cycle Count to Count Update
+Scott Electric Distribution,PRICING,,11I_PDSP - Level 7 - Product (PROMOTION),CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Credit,04_Perform a Credit Review on a Customer Account,CSD > Document Library > FINANCIAL > Credit
+Scott Electric Distribution,PJM,04_Customer Quote Creation,01_Organize Vendor Quote in Excel for Upload,CSD > Document Library > PJM > 04_Customer Quote Creation
+Scott Electric Distribution,PJM,01_Basic Bidding Process,04_View Job in Bidding Calendar,CSD > Document Library > PJM > 01_Basic Bidding Process
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,03_Purchase Order Apply Add Ons and Discounts,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+PALCO,ISM,04_ISM Set Up,05_Create an SRO Template,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 04_ISM Set Up
+Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,07_Copy PO,CSD > Document Library > PURCHASING > 01_Purchase Order Entry to Print
+Scott Electric Distribution,PRICING,,14_PDEM - Price and Discounting Mass Maintenance Entry,CSD > Document Library > PRICING
+PALCO,ISM,06_Register a Unit,02_Add a Warranty to a Unit,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 06_Register a Unit
+Scott Electric Distribution,PRICING,,03_SASTT Creating a Price Class,CSD > Document Library > PRICING
+Scott Electric Distribution,FINANCIAL,Accounts Receivable,01_Enter an Invoice,CSD > Document Library > FINANCIAL > Accounts Receivable > 02_Quote to Cash
+Scott Electric Distribution,PURCHASING,06.5_Run Reports,04_Print Gap Report,CSD > Document Library > PURCHASING > 06.5_Run Reports
+Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,11_Merge POs_Print POs_Genrerate Exception Report,CSD > Document Library > PURCHASING > 02_Replinishment Action Report Tasks
+Scott Electric Distribution,PRICING,,05_ICSL - Creating a Product Line,CSD > Document Library > PRICING
+Scott Electric Distribution,PJM,04_Customer Quote Creation,03_Create the Customer Quote,CSD > Document Library > PJM > 04_Customer Quote Creation
+PALCO,ISM,03_Warranty Process,01_Filter Working Status,CSD > Document Library > PALCO POWER SYSTEMS > ISM > 03_Warranty Process
+PALCO,SALES,03_Order Review,04_View Units of Measure,CSD > Document Library > PALCO POWER SYSTEMS > SALES > 03_Order Review
+PALCO,START UP,,03_Shipping Feedback for Start Up,CSD > Document Library > PALCO POWER SYSTEMS > START UP
+Scott Electric Distribution,PRICING,,10B_ICSC - Individual Catalog Item Price Update Manually,CSD > Document Library > PRICING
+Scott Electric Distribution,SALES,02_Order Modification,02_Adjust Line Items,CSD > Document Library > SALES > 02_Order Modification

@@ -1,0 +1,101 @@
+Entity_norm,SOP_norm,SubSOP_norm,Module,RoleName_norm
+PALCO,ISM,01_Service Order Process,15_Create SRO Estimate,Palco_Serv
+PALCO,ISM,01_Service Order Process,11_Schedule Service,Palco_Serv
+PALCO,ISM,01_Service Order Process,17_Convert Estimate To SRO,Palco_Serv
+PALCO,ISM,01_Service Order Process,01_ISM Incident,Palco_Serv
+PALCO,ISM,01_Service Order Process,16_Create SRO Callback,Palco_Serv
+PALCO,ISM,01_Service Order Process,14_Close SRO,Palco_Serv
+PALCO,ISM,01_Service Order Process,12_Posting Transactions,Palco_Serv
+PALCO,ISM,01_Service Order Process,10_Receive the Non-Stock,Palco_Serv
+PALCO,ISM,01_Service Order Process,03_Incident to SRO,Palco_Serv
+PALCO,ISM,01_Service Order Process,06_Add Operations,Palco_Serv
+PALCO,ISM,01_Service Order Process,09_Print the Non-Stock PO,Palco_Serv
+PALCO,ISM,01_Service Order Process,01.2_CSD Incident,Palco_Serv
+PALCO,ISM,01_Service Order Process,05_Add SRO Lines,Palco_Serv
+PALCO,ISM,01_Service Order Process,07_Add Planned Transactions,Palco_Serv
+PALCO,ISM,01_Service Order Process,13_Invoicing in ISM,Palco_Serv
+PALCO,ISM,01_Service Order Process,04_Quick Create SRO,Palco_Serv
+PALCO,ISM,01_Service Order Process,08_Add a Non-Stock,Palco_Serv
+PALCO,ISM,02_Rental Process,14_Print RM PO,Palco_Serv
+PALCO,ISM,02_Rental Process,13_Add Freight to Rental,Palco_Serv
+PALCO,ISM,02_Rental Process,08_Check Out Rental,Palco_Serv
+PALCO,ISM,02_Rental Process,12_Receive Vendor RM PO,Palco_Serv
+PALCO,ISM,02_Rental Process,11_Change Billing Details,Palco_Serv
+PALCO,ISM,02_Rental Process,07_Receive Re Rent PO,Palco_Serv
+PALCO,ISM,02_Rental Process,10_Close Rental,Palco_Serv
+PALCO,ISM,02_Rental Process,04_Add Re Rent Items,Palco_Serv
+PALCO,ISM,02_Rental Process,01_Create Rental Contract,Palco_Serv
+PALCO,ISM,02_Rental Process,03_Print Rental Agreement,Palco_Serv
+PALCO,ISM,02_Rental Process,02_Add Rental Items,Palco_Serv
+PALCO,ISM,02_Rental Process,06_Print Re Rent PO,Palco_Serv
+PALCO,ISM,02_Rental Process,09_Check In Rental,Palco_Serv
+PALCO,ISM,03_Warranty Process,03_Change Working Status,Palco_Serv
+PALCO,ISM,03_Warranty Process,09_Vendor Invoice Center,Palco_Serv
+PALCO,ISM,03_Warranty Process,05_Customer Bill Override,Palco_Serv
+PALCO,ISM,03_Warranty Process,04_Change Operations,Palco_Serv
+PALCO,ISM,03_Warranty Process,07_Mark Accepted,Palco_Serv
+PALCO,ISM,03_Warranty Process,08_Mark Reconciled,Palco_Serv
+PALCO,ISM,03_Warranty Process,06_ISM Invoice,Palco_Serv
+PALCO,ISM,03_Warranty Process,01_Filter Working Status,Palco_Serv
+PALCO,ISM,04_ISM Set Up,01_Partner Set Up,Palco_Serv
+PALCO,ISM,04_ISM Set Up,08_Contract Rental Template,Palco_Serv
+PALCO,ISM,04_ISM Set Up,03_Create a New Work Code,Palco_Serv
+PALCO,ISM,04_ISM Set Up,07_Set Up a Rate,Palco_Serv
+PALCO,ISM,04_ISM Set Up,06_Create a Warranty Code,Palco_Serv
+PALCO,ISM,04_ISM Set Up,09_Contract Service Template PMA,Palco_Serv
+PALCO,ISM,04_ISM Set Up,02_Partners Schedule Set Up,Palco_Serv
+PALCO,ISM,04_ISM Set Up,05_Create an SRO Template,Palco_Serv
+PALCO,ISM,06_Register a Unit,01_Create a Customer Unit,Palco_Serv
+PALCO,ISM,06_Register a Unit,02_Add a Warranty to a Unit,Palco_Serv
+PALCO,ISM,07_Tech Mobile,01_Travel to Site,Palco_Serv
+PALCO,ISM,07_Tech Mobile,05_Close Appointment,Palco_Serv
+PALCO,ISM,07_Tech Mobile,04_Travel Leaving Site,Palco_Serv
+PALCO,ISM,07_Tech Mobile,02_Perform Site Work,Palco_Serv
+PALCO,ISM,07_Tech Mobile,03_Add Material,Palco_Serv
+PALCO,ISM,07_Tech Mobile,06_Change Status to Call Back,Palco_Serv
+PALCO,ISM,08_PMA Service Orders,04_Bill Contract,Palco_Serv
+PALCO,ISM,08_PMA Service Orders,03_Generate SRO,Palco_Serv
+PALCO,ISM,08_PMA Service Orders,02_Add PMA Contract Lines,Palco_Serv
+PALCO,ISM,08_PMA Service Orders,01_Create PMA Contract,Palco_Serv
+PALCO,PURCHASING,01_Purchase Order Entry to Print,01_Create Purchase Order,Palco_Serv
+PALCO,START UP,nan,09_Order Inquiry Using a Serial Number,Palco_Serv
+PALCO,START UP,nan,01_Order Inquiry,Palco_Serv
+PALCO,START UP,nan,05_Add Start Up Notes,Palco_Serv
+PALCO,START UP,nan,06_Add Line,Palco_Serv
+PALCO,START UP,nan,02_Print Pick Ticket,Palco_Serv
+PALCO,START UP,nan,04_Create a Start Up Incident,Palco_Serv
+PALCO,START UP,nan,07_Schedule,Palco_Serv
+PALCO,START UP,nan,08_Register Unit,Palco_Serv
+PALCO,START UP,nan,03_Shipping Feedback for Start Up,Palco_Serv
+Scott Electric Distribution,Basics,nan,Log into UAP,Palco_Serv
+Scott Electric Distribution,Basics,nan,CSD Basics,Palco_Serv
+PALCO,PURCHASING,01_Purchase Order Entry to Print,01_Create Purchase Order,Palco_sales
+PALCO,SALES,02_Order Modification,02_Adjust Line Items,Palco_sales
+PALCO,SALES,02_Order Modification,06_Suspend an Order,Palco_sales
+PALCO,SALES,02_Order Modification,05_Manually Apply Hold and Approve Held Order,Palco_sales
+PALCO,SALES,02_Order Modification,03_Enter Stock Sales Order and Change Line Items,Palco_sales
+PALCO,SALES,02_Order Modification,"04_Add Comments, Notes to Customer Sales Order",Palco_sales
+PALCO,SALES,02_Order Modification,01_Add Items to Stock Customer Sales Order,Palco_sales
+PALCO,SALES,03_Order Review,01_Review the Shopping List,Palco_sales
+PALCO,SALES,03_Order Review,03_Use Order Inquiry to Search for Orders,Palco_sales
+PALCO,SALES,03_Order Review,"02_Review Taxes, Totals, Payments for Stock Customer Sales Order",Palco_sales
+PALCO,SALES,03_Order Review,04_View Units of Measure,Palco_sales
+PALCO,SALES,05_Product Management,04_Add Catalog Product to Order,Palco_sales
+PALCO,SALES,Palco Specific Sales,04_Create a Release,Palco_sales
+PALCO,SALES,Palco Specific Sales,08_Make a Product Serialized,Palco_sales
+PALCO,SALES,Palco Specific Sales,07_Shipping Feedback,Palco_sales
+PALCO,SALES,Palco Specific Sales,03_Add Lump Sum,Palco_sales
+PALCO,SALES,Palco Specific Sales,06_Print Pick Ticket,Palco_sales
+PALCO,SALES,Palco Specific Sales,09_Create Order as Needed Non Stock,Palco_sales
+PALCO,SALES,Palco Specific Sales,02_Add Items,Palco_sales
+PALCO,SALES,Palco Specific Sales,05_Run OEEPC,Palco_sales
+PALCO,SALES,Palco Specific Sales,01_Create a Blanket Order,Palco_sales
+Scott Electric Distribution,Basics,nan,Log into UAP,Palco_sales
+Scott Electric Distribution,Basics,nan,CSD Basics,Palco_sales
+PALCO,FINANCIAL,ACCOUNTS PAYABLE,01_Direct Ship with Serials,Palco_other
+PALCO,FINANCIAL,ACCOUNTS PAYABLE,01_Create Invoice Process Group,Palco_other
+PALCO,FINANCIAL,GENERAL LEDGER,05_Account Inquiry and Report,Palco_other
+PALCO,PURCHASING,01_Purchase Order Entry to Print,01_Create Purchase Order,Palco_other
+Scott Electric Distribution,Basics,nan,Log into UAP,Palco_other
+Scott Electric Distribution,Basics,nan,CSD Basics,Palco_other
+PALCO,FINANCIAL,ACCOUNTS PAYABLE,01_Direct Ship with Serials,PALCO_Mngt

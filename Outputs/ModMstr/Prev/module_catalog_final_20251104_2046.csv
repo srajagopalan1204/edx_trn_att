@@ -1,0 +1,412 @@
+Module,Entity,SOP,SubSOP,Source,Decision
+01 Customer Inquiry Pricing,,,,RESP_worklist,EDIT
+01 Run SA Operator Security Violations Report,,,,RESP_worklist,EDIT
+01-Access Sales Order Entry Window,,,,RESP_worklist,EDIT
+01-Create new vendor,,,,RESP_worklist,ACCEPT
+01-Enter Stock Customer Sales Order,,,,RESP_worklist,ACCEPT
+01-Log in to SX.e,,,,RESP_worklist,EDIT
+01-Set Up New Product and Product Line,,,,RESP_worklist,EDIT
+01-Set Up Report Schedule Type,,,,RESP_worklist,EDIT
+01-Set up customer,,,,RESP_worklist,EDIT
+01-Set up vendor,,,,RESP_worklist,EDIT
+"01-Ship Sales Order, Include Addons",,,,RESP_worklist,ACCEPT
+01.2_CSD Incident,,,,RESP_worklist,ACCEPT
+01_Add Items to Stock Customer Sales Order,,,,RESP_worklist,ACCEPT
+01_Copy Quote Order to a Stock Order,,,,RESP_worklist,ACCEPT
+01_Create Invoice Process Group,,,,RESP_worklist,ACCEPT
+01_Create PMA Contract,,,,RESP_worklist,ACCEPT
+01_Create Purchase Order,,,,RESP_worklist,ACCEPT
+01_Create Rental Contract,,,,RESP_worklist,ACCEPT
+01_Create a Blanket Order,,,,RESP_worklist,ACCEPT
+01_Create a Customer Unit,,,,RESP_worklist,ACCEPT
+01_Customer Setup,,,,RESP_worklist,ACCEPT
+01_Enter Stock Customer Sales Order,,,,RESP_worklist,ACCEPT
+01_Enter an Invoice,,,,RESP_worklist,ACCEPT
+01_Filter Working Status,,,,RESP_worklist,ACCEPT
+01_Generate RRAR,,,,RESP_worklist,ACCEPT
+01_How to Use the Quote Modification,,,,RESP_worklist,ACCEPT
+01_ISM Incident,,,,RESP_worklist,ACCEPT
+01_Initiate Vendor Return,,,,RESP_worklist,ACCEPT
+01_Manual Entry of a Warehouse Transfer,,,,RESP_worklist,ACCEPT
+01_Order Inquiry,,,,RESP_worklist,ACCEPT
+01_Partner Set Up,,,,RESP_worklist,ACCEPT
+01_Perform Lookups in Customer Sales Order,,,,RESP_worklist,ACCEPT
+01_Price Correction,,,,RESP_worklist,ACCEPT
+01_Print PO Expedite Report,,,,RESP_worklist,ACCEPT
+01_Process Core as Return Merchandise,,,,RESP_worklist,ACCEPT
+01_Product Inquiry,,,,RESP_worklist,ACCEPT
+01_Purchase Order Submit PO to Vendor,,,,RESP_worklist,ACCEPT
+01_Release Credit Hold,,,,RESP_worklist,ACCEPT
+01_Review the Shopping List,,,,RESP_worklist,ACCEPT
+01_Run (ARRO) AR Open Activity Report,,,,RESP_worklist,ACCEPT
+"01_Ship Sales Order, Include Addons",,,,RESP_worklist,ACCEPT
+01_Travel to Site,,,,RESP_worklist,ACCEPT
+01_View Consolidation Info in Demand Center,,,,RESP_worklist,ACCEPT
+01_Wire Order Placement,,,,RESP_worklist,ACCEPT
+02 Set Up a Customer Record,,,,RESP_worklist,EDIT
+02-Add Items to Stock Customer Sales Order,,,,RESP_worklist,ACCEPT
+02-Assign Serial Numbers to Orders During Shipping,,,,RESP_worklist,EDIT
+02-Change Layout and Appearance of Grid,,,,RESP_worklist,EDIT
+02-Company setup in GL,,,,RESP_worklist,EDIT
+02-Create PO,,,,RESP_worklist,EDIT
+02-Enter stock customer sales order,,,,RESP_worklist,ACCEPT
+02-Report Scheduler Startup-Shutdown Function,,,,RESP_worklist,EDIT
+02-Review Operator Record,,,,RESP_worklist,EDIT
+02-Set up ship-to address,,,,RESP_worklist,EDIT
+02-Set up vendor ship-from,,,,RESP_worklist,EDIT
+02_Add Items,,,,RESP_worklist,ACCEPT
+02_Add Items to PO and Finish It,,,,RESP_worklist,ACCEPT
+02_Add Rental Items,,,,RESP_worklist,ACCEPT
+02_Add a Warranty to a Unit,,,,RESP_worklist,ACCEPT
+02_Adjust Line Items,,,,RESP_worklist,ACCEPT
+02_Approving a Warehouse Transfer That is on Hold,,,,RESP_worklist,ACCEPT
+02_Copy Customer Sales Order,,,,RESP_worklist,ACCEPT
+"02_Customer Inquiry with Past Due Invoices, Large Dollar Amount Balance",,,,RESP_worklist,ACCEPT
+02_Determining Extra Stock to Order,,,,RESP_worklist,ACCEPT
+02_Enter a Credit Memo,,,,RESP_worklist,ACCEPT
+02_Enter a Quote Order,,,,RESP_worklist,ACCEPT
+02_Merge POs_Print POs_Generate Exception Report,,,,RESP_worklist,ACCEPT
+02_Partners Schedule Set Up,,,,RESP_worklist,ACCEPT
+02_Perform Site Work,,,,RESP_worklist,ACCEPT
+02_Print Inventory Turnover Report,,,,RESP_worklist,ACCEPT
+02_Print Pick Ticket,,,,RESP_worklist,ACCEPT
+02_Purchase Order Maintain PO,,,,RESP_worklist,ACCEPT
+"02_Review Taxes, Totals, Payments for Stock Customer Sales Order",,,,RESP_worklist,ACCEPT
+02_Run either the IC Entry Cycle Count Report or the IC Entry Physical Count Report,,,,RESP_worklist,ACCEPT
+02_Ship-to Setup,,,,RESP_worklist,ACCEPT
+02_Use Order Inquiry to Search Orders,,,,RESP_worklist,ACCEPT
+02_Verify Customer Eligibility,,,,RESP_worklist,ACCEPT
+02_View RRAR Records,,,,RESP_worklist,ACCEPT
+03 Create and Verify a Pricing Record,,,,RESP_worklist,EDIT
+03-Add Items to PO and Finish It,,,,RESP_worklist,ACCEPT
+03-Create Report Scheduler Queue,,,,RESP_worklist,EDIT
+03-Create inventory item in single WH,,,,RESP_worklist,EDIT
+03-Create invoice process group,,,,RESP_worklist,ACCEPT
+03-Enter an invoice,,,,RESP_worklist,ACCEPT
+03-Global Search,,,,RESP_worklist,EDIT
+03-Review R and D Operator Record,,,,RESP_worklist,EDIT
+03-Review admin options in GL,,,,RESP_worklist,EDIT
+03-Review the Shopping List,,,,RESP_worklist,ACCEPT
+03-Unship an Order,,,,RESP_worklist,ACCEPT
+03-Use Order Inquiry for sales orders,,,,RESP_worklist,EDIT
+03.5_Perform Lookups in a PO,,,,RESP_worklist,ACCEPT
+03_Acknowledge Purchase Order,,,,RESP_worklist,ACCEPT
+03_Blanket POs,,,,RESP_worklist,ACCEPT
+03_Change Working Status,,,,RESP_worklist,ACCEPT
+03_Enter Stock Sales Order and Change Line Items,,,,RESP_worklist,ACCEPT
+03_Enter a Direct Order,,,,RESP_worklist,ACCEPT
+03_Establish Job Entry,,,,RESP_worklist,ACCEPT
+03_Generate IC Admin Review Cycle Adjustment Report,,,,RESP_worklist,ACCEPT
+03_Incident to SRO,,,,RESP_worklist,ACCEPT
+03_Inquire on Vendor Info,,,,RESP_worklist,ACCEPT
+03_Order Inquiries,,,,RESP_worklist,ACCEPT
+03_Print Count Sheets,,,,RESP_worklist,ACCEPT
+03_Print Fill Report by Class Report,,,,RESP_worklist,ACCEPT
+03_Print Rental Agreement,,,,RESP_worklist,ACCEPT
+03_Purchase Order Apply Add Ons and Discounts,,,,RESP_worklist,ACCEPT
+03_Review and Modify RRAR Record,,,,RESP_worklist,ACCEPT
+03_Run Customer Statement (ARES),,,,RESP_worklist,ACCEPT
+03_Run the Aging Report,,,,RESP_worklist,ACCEPT
+03_Shipping Feedback for Start Up,,,,RESP_worklist,ACCEPT
+03_Short Pay with Sales Tax,,,,RESP_worklist,ACCEPT
+03_Use Order Inquiry to Search for Orders,,,,RESP_worklist,ACCEPT
+04 Create Pricing Record Using Quantity Break,,,,RESP_worklist,EDIT
+04-Adjust Line Items,,,,RESP_worklist,ACCEPT
+04-Advanced Search Techniques,,,,RESP_worklist,EDIT
+04-Copy inventory item to single WH,,,,RESP_worklist,EDIT
+04-Create Report Scheduler Job Group,,,,RESP_worklist,EDIT
+04-Enter a credit memo,,,,RESP_worklist,ACCEPT
+04-Enter and process expense invoice,,,,RESP_worklist,ACCEPT
+04-Grant Authority to an Operator,,,,RESP_worklist,EDIT
+04-Perform Lookups in a PO,,,,RESP_worklist,ACCEPT
+04-Print customer order pick ticket,,,,RESP_worklist,EDIT
+04-Set up accounts,,,,RESP_worklist,EDIT
+04-Ship Warehouse Transfer,,,,RESP_worklist,EDIT
+04.5_Create Warehouse Transfer,,,,RESP_worklist,ACCEPT
+04_(ARRT) Run Trial Balance Report,,,,RESP_worklist,ACCEPT
+04_Accumulative POs,,,,RESP_worklist,ACCEPT
+"04_Add Comments, Notes to Customer Sales Order",,,,RESP_worklist,ACCEPT
+04_Add Re Rent Items,,,,RESP_worklist,ACCEPT
+04_Bill Contract,,,,RESP_worklist,ACCEPT
+04_Change Operations,,,,RESP_worklist,ACCEPT
+"04_Change Vendor Invoice - Due Date, Discount Rate",,,,RESP_worklist,ACCEPT
+04_Create a Release,,,,RESP_worklist,ACCEPT
+04_Create a Start Up Incident,,,,RESP_worklist,ACCEPT
+04_Enter a Counter Sales Order and Record Tender Payments,,,,RESP_worklist,ACCEPT
+04_Enter the Count into CSD Using Count Entry Function,,,,RESP_worklist,ACCEPT
+04_Finish the Purchase Order,,,,RESP_worklist,ACCEPT
+04_Generate IC Admin Inventory Classification and Rank Report,,,,RESP_worklist,ACCEPT
+04_Maintaining a Warehouse Tranfer,,,,RESP_worklist,ACCEPT
+04_Perform a Credit Review on a Customer Account,,,,RESP_worklist,ACCEPT
+04_Print Gap Report,,,,RESP_worklist,ACCEPT
+04_Quick Create SRO,,,,RESP_worklist,ACCEPT
+04_Returned Check,,,,RESP_worklist,ACCEPT
+04_Review Line Item Details,,,,RESP_worklist,ACCEPT
+04_View Job in Bidding Calendar,,,,RESP_worklist,ACCEPT
+04_View Units of Measure,,,,RESP_worklist,ACCEPT
+05 Copy Pricing Record to New Customer,,,,RESP_worklist,EDIT
+05-Account inquiry and report,,,,RESP_worklist,ACCEPT
+05-Apply payment with debit memo,,,,RESP_worklist,ACCEPT
+05-Assign Serial Numbers to Transfer During Shipping,,,,RESP_worklist,EDIT
+05-Create Warehouse Transfer,,,,RESP_worklist,ACCEPT
+05-Inquire on vendor info,,,,RESP_worklist,ACCEPT
+05-Lookups and Search Features,,,,RESP_worklist,EDIT
+05-Move non-stock item to stock item,,,,RESP_worklist,EDIT
+"05-Review Taxes, Totals, Payments for Stock Customer Sales Order",,,,RESP_worklist,ACCEPT
+05-Ship sales order,,,,RESP_worklist,EDIT
+05_(ARRP) Period Analysis Report,,,,RESP_worklist,ACCEPT
+05_Add Bidder Details to Project Entry,,,,RESP_worklist,ACCEPT
+05_Add SRO Lines,,,,RESP_worklist,ACCEPT
+05_Add Special Order Product to Sales Order,,,,RESP_worklist,ACCEPT
+05_Add Start Up Notes,,,,RESP_worklist,ACCEPT
+05_Apply Payment to Invoice,,,,RESP_worklist,ACCEPT
+05_Locate PO Using PO Inquiry,,,,RESP_worklist,ACCEPT
+05_Manually Apply Hold and Approve Held Order,,,,RESP_worklist,ACCEPT
+05_Notes on a Warehouse Transfer,,,,RESP_worklist,ACCEPT
+05_Perform Shipping Feedback to Ship Order,,,,RESP_worklist,ACCEPT
+05_Print Surplus Stock Report,,,,RESP_worklist,ACCEPT
+05_Returning a Core Product,,,,RESP_worklist,ACCEPT
+05_Run OEEPC,,,,RESP_worklist,ACCEPT
+05_Run the Reconciliation Report,,,,RESP_worklist,ACCEPT
+05_Set Up Split Payment for Invoice in Entered Stage,,,,RESP_worklist,ACCEPT
+05_Update or Validate Quantities Needed,,,,RESP_worklist,ACCEPT
+06 Create Price Record Set,,,,RESP_worklist,EDIT
+06-Add GL accounts to vendor,,,,RESP_worklist,EDIT
+06-Add Note Using Notes Context App,,,,RESP_worklist,EDIT
+"06-Change vendor invoice - due date, discount rate",,,,RESP_worklist,ACCEPT
+06-Inquire on a product,,,,RESP_worklist,EDIT
+06-Invoice sales order,,,,RESP_worklist,EDIT
+06-Locate PO using PO Inquiry,,,,RESP_worklist,ACCEPT
+06-Perform Lookups in Customer Sales Order,,,,RESP_worklist,ACCEPT
+06-Print Pre-Receiving Report,,,,RESP_worklist,EDIT
+06-Reverse a transaction,,,,RESP_worklist,EDIT
+06_Accept Replenishments,,,,RESP_worklist,ACCEPT
+06_Add Line,,,,RESP_worklist,ACCEPT
+06_Add Operations,,,,RESP_worklist,ACCEPT
+06_Add Vendor Details to Project Entry,,,,RESP_worklist,ACCEPT
+06_Apply Payment to Multiple Invoices,,,,RESP_worklist,ACCEPT
+06_Canceling a Warehouse Transfer,,,,RESP_worklist,ACCEPT
+06_Change PO,,,,RESP_worklist,ACCEPT
+06_Change Payment to Split Payment Schedule,,,,RESP_worklist,ACCEPT
+06_Create a Warranty Code,,,,RESP_worklist,ACCEPT
+06_Enter a Non-Stock Product on an Order,,,,RESP_worklist,ACCEPT
+06_ISM Invoice,,,,RESP_worklist,ACCEPT
+06_Print Re Rent PO,,,,RESP_worklist,ACCEPT
+06_Returning an Acknowledged PO to the Printed Stage,,,,RESP_worklist,ACCEPT
+06_Review Exception Processing Center Screen,,,,RESP_worklist,ACCEPT
+06_Run AR Year End Processing Report,,,,RESP_worklist,ACCEPT
+06_Suspend an Order,,,,RESP_worklist,ACCEPT
+07 Load Price Set to PD Mass Maintenance,,,,RESP_worklist,EDIT
+07-Apply customer payment to invoice,,,,RESP_worklist,EDIT
+07-Apply payment to invoice,,,,RESP_worklist,ACCEPT
+07-Change PO,,,,RESP_worklist,EDIT
+07-Enter Quote Order,,,,RESP_worklist,ACCEPT
+07-Inquire on product availability,,,,RESP_worklist,ACCEPT
+07-Open Help Context App,,,,RESP_worklist,EDIT
+07-Receive PO,,,,RESP_worklist,EDIT
+07-Set up bank and add to vendor,,,,RESP_worklist,EDIT
+07-Set up split payment for invoice in Entered stage,,,,RESP_worklist,ACCEPT
+07_Add Planned Transactions,,,,RESP_worklist,ACCEPT
+07_Adjust RARR Quantities Using Increase-Decrease Function in PO Demand Center,,,,RESP_worklist,ACCEPT
+07_Apply Payment to Oldest Invoice,,,,RESP_worklist,ACCEPT
+07_Copy PO,,,,RESP_worklist,ACCEPT
+07_Edit Entered Counts,,,,RESP_worklist,ACCEPT
+07_Enter a Return Order,,,,RESP_worklist,ACCEPT
+07_Mark Accepted,,,,RESP_worklist,ACCEPT
+07_Perform a Reversal,,,,RESP_worklist,ACCEPT
+07_Receive Re Rent PO,,,,RESP_worklist,ACCEPT
+07_Run WT Entry Recommended Replenishment Action Report,,,,RESP_worklist,ACCEPT
+07_Tying a PO RM to a Sales Order Line,,,,RESP_worklist,ACCEPT
+07_Tying a Warehouse Transfer to a Customer Order,,,,RESP_worklist,ACCEPT
+08 Export Pricing Data to Excel,,,,RESP_worklist,EDIT
+08-Apply payment to multiple invoices,,,,RESP_worklist,ACCEPT
+08-Change payment to split payment schedule,,,,RESP_worklist,ACCEPT
+08-Copy PO,,,,RESP_worklist,EDIT
+08-Copy Quote Order to a Stock Order,,,,RESP_worklist,ACCEPT
+08-Create a PO,,,,RESP_worklist,EDIT
+08-Enter real-time journal,,,,RESP_worklist,EDIT
+08-Print a Report,,,,RESP_worklist,EDIT
+08-Print count sheets,,,,RESP_worklist,ACCEPT
+08-Short-Receive PO,,,,RESP_worklist,EDIT
+08_Add a Non-Stock,,,,RESP_worklist,ACCEPT
+08_Check Out Rental,,,,RESP_worklist,ACCEPT
+08_Correcting an Over Under Receipt,,,,RESP_worklist,ACCEPT
+08_Create Quote PO with Notes and Comments,,,,RESP_worklist,ACCEPT
+08_Enter a Credit Memo,,,,RESP_worklist,ACCEPT
+08_Make a Product Serialized,,,,RESP_worklist,ACCEPT
+08_Mark Reconciled,,,,RESP_worklist,ACCEPT
+08_Process Short Payment,,,,RESP_worklist,ACCEPT
+08_Register Unit,,,,RESP_worklist,ACCEPT
+08_Run Physical Count Sheet,,,,RESP_worklist,ACCEPT
+09 Import Pricing Data from Excel,,,,RESP_worklist,EDIT
+09-Add Product to PO at Receiving,,,,RESP_worklist,EDIT
+09-Apply payment to oldest invoice,,,,RESP_worklist,ACCEPT
+09-Enter a Direct Order,,,,RESP_worklist,ACCEPT
+09-Enter counts,,,,RESP_worklist,EDIT
+09-Perform a reversal,,,,RESP_worklist,ACCEPT
+09-Personalize Advanced Line Entry View in Order Entry,,,,RESP_worklist,EDIT
+09-Print a PO,,,,RESP_worklist,EDIT
+09-Set up batch,,,,RESP_worklist,EDIT
+09.3_Run Results Report in ICEPW,,,,RESP_worklist,ACCEPT
+09_Apply Short Payment with Write-Off,,,,RESP_worklist,ACCEPT
+09_Check In Rental,,,,RESP_worklist,ACCEPT
+09_Consolidate Multiple RRARS for Different Vendor Product Lines or Warehouses,,,,RESP_worklist,ACCEPT
+09_Correcting a Wrong Product Receipt,,,,RESP_worklist,ACCEPT
+09_Enter a Misc Credit,,,,RESP_worklist,ACCEPT
+09_Order Inquiry Using a Serial Number,,,,RESP_worklist,ACCEPT
+09_Print PO,,,,RESP_worklist,ACCEPT
+10 Copy Pricing Record to New Customer,,,,RESP_worklist,EDIT
+10-Enter Counter Sales Order and Record Tender Payments,,,,RESP_worklist,ACCEPT
+10-Enter a batch journal,,,,RESP_worklist,EDIT
+10-Enter a credit memo,,,,RESP_worklist,ACCEPT
+10-Log out of Infor Distribution SX.e and Infor Ming.le,,,,RESP_worklist,EDIT
+10-Print PO,,,,RESP_worklist,EDIT
+10-Process short payment,,,,RESP_worklist,ACCEPT
+10-Receive Serialized Product,,,,RESP_worklist,EDIT
+10-Receive a PO,,,,RESP_worklist,EDIT
+10_Apply Hold and Approve Held PO,,,,RESP_worklist,ACCEPT
+10_Apply Payment with Unearned Discount,,,,RESP_worklist,ACCEPT
+10_Close Rental,,,,RESP_worklist,ACCEPT
+10_Correcting a Wrong Cost Receipt,,,,RESP_worklist,ACCEPT
+10_Enter a Debit Memo,,,,RESP_worklist,ACCEPT
+10_Receive the Non-Stock,,,,RESP_worklist,ACCEPT
+11 Run Expired Pricing Records Report,,,,RESP_worklist,EDIT
+11-Apply short payment with write-off,,,,RESP_worklist,ACCEPT
+11-Cost PO to vendor invoice,,,,RESP_worklist,EDIT
+11-Enter a misc credit,,,,RESP_worklist,ACCEPT
+11-Manually Apply Hold and Approve Held PO,,,,RESP_worklist,ACCEPT
+11-Process and update batch journal,,,,RESP_worklist,EDIT
+11-Receive Corrections,,,,RESP_worklist,EDIT
+11-Use Order Inquiry to Search for Orders,,,,RESP_worklist,ACCEPT
+11_Adjust Inventory to Unavailable,,,,RESP_worklist,ACCEPT
+11_Apply Payment Using Split Check,,,,RESP_worklist,ACCEPT
+11_Cancel PO,,,,RESP_worklist,ACCEPT
+11_Change Billing Details,,,,RESP_worklist,ACCEPT
+11_Merge POs_Print POs_Genrerate Exception Report,,,,RESP_worklist,ACCEPT
+11_Schedule Service,,,,RESP_worklist,ACCEPT
+12-Apply payment with unearned discount,,,,RESP_worklist,ACCEPT
+12-Cancel PO,,,,RESP_worklist,EDIT
+12-Enter Stock Sales Order and Change Line Items,,,,RESP_worklist,ACCEPT
+12-Enter a debit memo,,,,RESP_worklist,ACCEPT
+12-Enter reverse entry journal,,,,RESP_worklist,EDIT
+12-Inquire with order info,,,,RESP_worklist,EDIT
+12-Print Warehouse Transfer Pre-Receiving Report,,,,RESP_worklist,EDIT
+12_Apply Credit to Invoice,,,,RESP_worklist,ACCEPT
+12_Posting Transactions,,,,RESP_worklist,ACCEPT
+12_Receive Vendor RM PO,,,,RESP_worklist,ACCEPT
+13-Apply payment using split check,,,,RESP_worklist,ACCEPT
+13-Copy Customer Sales Order,,,,RESP_worklist,ACCEPT
+13-Enter a manual payment,,,,RESP_worklist,EDIT
+13-Inquire on a journal,,,,RESP_worklist,EDIT
+13-Inquire without order info,,,,RESP_worklist,EDIT
+13-Receive Warehouse Transfer,,,,RESP_worklist,EDIT
+13-Verify product adjustment,,,,RESP_worklist,EDIT
+13_Add Freight to Rental,,,,RESP_worklist,ACCEPT
+13_Add Items Using Easy Line Entry,,,,RESP_worklist,ACCEPT
+13_Apply Account Credits to Invoice,,,,RESP_worklist,ACCEPT
+13_Enter Trade Invoice - PO Matches,,,,RESP_worklist,ACCEPT
+13_Invoicing in ISM,,,,RESP_worklist,ACCEPT
+14-AR Trial Balance Report,,,,RESP_worklist,EDIT
+"14-Add Comments, Notes to Customer Sales Order",,,,RESP_worklist,ACCEPT
+14-Apply credit to invoice,,,,RESP_worklist,ACCEPT
+14-Create new trade vendor,,,,RESP_worklist,ACCEPT
+14-Process Exception Receipts,,,,RESP_worklist,EDIT
+14-Use PO Inquiry to locate PO,,,,RESP_worklist,EDIT
+14-View RRAR Records using Demand Center,,,,RESP_worklist,EDIT
+14_Add Items to Purchase Order Using Advanced Line Entry,,,,RESP_worklist,ACCEPT
+14_Close SRO,,,,RESP_worklist,ACCEPT
+15-Apply account credits to invoice,,,,RESP_worklist,ACCEPT
+15-Enter trade invoice - PO matches,,,,RESP_worklist,ACCEPT
+15-IC Trial Balance of Stock Inventory Report,,,,RESP_worklist,EDIT
+15-Inquire on a Product,,,,RESP_worklist,EDIT
+15-Manually Apply Hold and Approve Held Order,,,,RESP_worklist,ACCEPT
+15-Review balance history,,,,RESP_worklist,EDIT
+15-Use global search,,,,RESP_worklist,EDIT
+15_Add Nonstock Items to a Purchase Order Using Advanced Line Entry,,,,RESP_worklist,ACCEPT
+15_Apply Misc Cash,,,,RESP_worklist,ACCEPT
+15_Enter Trade Invoice - Add On Charges,,,,RESP_worklist,ACCEPT
+16-Apply a COD credit,,,,RESP_worklist,EDIT
+16-Enter trade invoice - PO does not match,,,,RESP_worklist,EDIT
+16-Print Count Sheets,,,,RESP_worklist,ACCEPT
+16-Review Line Item Details,,,,RESP_worklist,ACCEPT
+16-Review suspense account,,,,RESP_worklist,EDIT
+16-Suspend an Order,,,,RESP_worklist,ACCEPT
+16_Customer Statement Print,,,,RESP_worklist,ACCEPT
+16_Enter Trade Invoice - Reconcile Against Multiple POs,,,,RESP_worklist,ACCEPT
+17-Accept Replenishments,,,,RESP_worklist,ACCEPT
+17-Apply misc cash,,,,RESP_worklist,ACCEPT
+17-Enter Sales Order for Kits,,,,RESP_worklist,EDIT
+17-Enter trade invoice - add-on charges,,,,RESP_worklist,ACCEPT
+17-Post monthly profit,,,,RESP_worklist,EDIT
+17-Run WT Entry Recommended Replenishment Action Report,,,,RESP_worklist,ACCEPT
+17_Enter Trade Invoice - Partial Receipt (Short Pay),,,,RESP_worklist,ACCEPT
+17_Payment Reversal,,,,RESP_worklist,ACCEPT
+18-Accept WT RRAR,,,,RESP_worklist,EDIT
+18-Add Lot Numbered Product to Sales Order,,,,RESP_worklist,EDIT
+18-Copy pricing record,,,,RESP_worklist,EDIT
+18-Enter trade invoice - reconcile against multiple POs,,,,RESP_worklist,ACCEPT
+18-Generate a tax register,,,,RESP_worklist,EDIT
+18-Modify customer invoice,,,,RESP_worklist,EDIT
+18-View Consolidation Info in Demand Center,,,,RESP_worklist,ACCEPT
+18_Enter Trade Invoice - PO Correction,,,,RESP_worklist,ACCEPT
+18_Process Overpayment,,,,RESP_worklist,ACCEPT
+19-Add Optional Product to Sales Order,,,,RESP_worklist,EDIT
+19-Change prices and costs on group of products,,,,RESP_worklist,EDIT
+19-Enter trade invoice - partial receipt,,,,RESP_worklist,EDIT
+"19-Merge POs, Print POs, Generate Exception Report",,,,RESP_worklist,ACCEPT
+19-Merge WT RRAR,,,,RESP_worklist,EDIT
+19-Release credit hold,,,,RESP_worklist,ACCEPT
+19-Run a financial statement,,,,RESP_worklist,EDIT
+19_Refund Customer via Check,,,,RESP_worklist,ACCEPT
+19_Select Invoices for Payment,,,,RESP_worklist,ACCEPT
+"20-Add Interchangeable, Substitution Products to Order",,,,RESP_worklist,EDIT
+20-Close the GL,,,,RESP_worklist,EDIT
+20-Complete price correction,,,,RESP_worklist,EDIT
+20-Enter trade invoice - PO correction,,,,RESP_worklist,ACCEPT
+20-Generate IC Admin Review Cycle Adjustment Report,,,,RESP_worklist,ACCEPT
+20_AP Vendor Entry Pay Invoice Due Report,,,,RESP_worklist,ACCEPT
+21-Cash Requirements Report,,,,RESP_worklist,EDIT
+21-Correct payment posted to wrong account,,,,RESP_worklist,EDIT
+21-Create product lot numbers,,,,RESP_worklist,EDIT
+21-Generate IC Admin Inventory Classification and Rank Report,,,,RESP_worklist,ACCEPT
+21-View Units of Measure,,,,RESP_worklist,ACCEPT
+21_Print Checks,,,,RESP_worklist,ACCEPT
+21_Review Journal,,,,RESP_worklist,ACCEPT
+22-Enter Non Stock Product On an Order,,,,RESP_worklist,ACCEPT
+22-Process short payment with sales tax write-off,,,,RESP_worklist,EDIT
+22-Review IC Month End Processing Report Options,,,,RESP_worklist,EDIT
+22-Select invoices for payment,,,,RESP_worklist,ACCEPT
+22-Track serial products,,,,RESP_worklist,EDIT
+22_Run Credit Card Receive on Account,,,,RESP_worklist,ACCEPT
+23-AP Vendor Entry Pay Invoice Due Report,,,,RESP_worklist,ACCEPT
+23-Add Catalog Product to Order,,,,RESP_worklist,ACCEPT
+23-Review Exception Processing Center Screen,,,,RESP_worklist,ACCEPT
+23-Update account due to returned check,,,,RESP_worklist,EDIT
+23_Invoice Processing,,,,RESP_worklist,ACCEPT
+24-AR Open Activity Report,,,,RESP_worklist,EDIT
+24-Add Special Order Product to Sales Order,,,,RESP_worklist,ACCEPT
+24-Print checks,,,,RESP_worklist,ACCEPT
+24-Review setup of pre-built kit item,,,,RESP_worklist,EDIT
+24_Process Payable Invoice,,,,RESP_worklist,ACCEPT
+25-Enter a Return Order,,,,RESP_worklist,ACCEPT
+25-Run AR Roll Balances and assess service charge,,,,RESP_worklist,ACCEPT
+25-Run replenishing pre-built kits report,,,,RESP_worklist,EDIT
+25-Set up misc vendor in AP,,,,RESP_worklist,EDIT
+26-Create work order manually,,,,RESP_worklist,EDIT
+26-Enter invoice for misc vendor,,,,RESP_worklist,ACCEPT
+26-Print customer statement,,,,RESP_worklist,EDIT
+27-AR Trial Balance Report,,,,RESP_worklist,EDIT
+27-Print work orders,,,,RESP_worklist,EDIT
+27-Set up vendor history table,,,,RESP_worklist,EDIT
+28-AR Period Analysis Report,,,,RESP_worklist,EDIT
+28-Set up federal tax 1099,,,,RESP_worklist,EDIT
+29-AR Year End Processing Report,,,,RESP_worklist,ACCEPT
+CSD Basics,,,,RESP_worklist,ACCEPT
+Log into UAP,,,,RESP_worklist,ACCEPT
+Quiz Level 1,,,,RESP_worklist,ACCEPT
+Quiz Level 2 | Accounts Payable,,,,RESP_worklist,ACCEPT
+Quiz Level 2 | Accounts Receivable,,,,RESP_worklist,ACCEPT
+Quiz Level 2 | Pricing,,,,RESP_worklist,ACCEPT
+Quiz Level 2 | Sales,,,,RESP_worklist,ACCEPT
+Quiz Level 2 | Warehouse Planning,,,,RESP_worklist,ACCEPT
+sales order example,,,,RESP_worklist,ACCEPT

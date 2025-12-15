@@ -1,0 +1,45 @@
+Module,Entity,SOP,SubSOP
+Document,CSD,,
+Document,CSD,Basics,
+Course,CSD,FINANCIAL,
+Document,CSD,FINANCIAL,Accounts Payable
+Document,CSD,FINANCIAL,Accounts Receivable
+Document,CSD,FINANCIAL,Credit
+Document,CSD,FINANCIAL,General Ledger
+Course,CSD,OPERATIONS,
+Document,CSD,OPERATIONS,Basic Warehouse
+Document,CSD,OPERATIONS,Warehouse
+Document,CSD,PALCO POWER SYSTEMS,FINANCIAL
+Document,CSD,PALCO POWER SYSTEMS,ISM
+Document,CSD,PALCO POWER SYSTEMS,PURCHASING
+Document,CSD,PALCO POWER SYSTEMS,SALES
+Document,CSD,PALCO POWER SYSTEMS,START UP
+Document,CSD,PJM,Basic Bidding Process
+Document,CSD,PJM,Customer Quote Creation
+Course,CSD,PRICING,
+Document,CSD,PRICING,
+Course,CSD,PURCHASING,
+Document,CSD,PURCHASING,
+Document,CSD,PURCHASING,Basic Product Line Setup
+Document,CSD,PURCHASING,Demand Tasks (DEM)
+Document,CSD,PURCHASING,Miscellaneous
+Document,CSD,PURCHASING,PO Print to Receipt
+Document,CSD,PURCHASING,Purchase Order Entry to Print
+Document,CSD,PURCHASING,Replinishment Action Report Tasks
+Document,CSD,PURCHASING,Return Merchandise PO to Shipment
+Document,CSD,PURCHASING,Run Reports
+Document,CSD,PURCHASING,Warehouse Transfers
+Course,CSD,SALES,
+Document,CSD,SALES,
+Document,CSD,SALES,BATTERY
+Document,CSD,SALES,Lookup and Inquiry
+Document,CSD,SALES,Order Copying and Conversion
+Document,CSD,SALES,Order Entry
+Document,CSD,SALES,Order Modification
+Document,CSD,SALES,Order Review
+Document,CSD,SALES,Product Management
+Document,CSD,SALES,Wire Order Placement
+Course,CSD,z_PLAYGROUND,
+Document,CSD,z_PLAYGROUND,
+Managed Document,CSD,z_PLAYGROUND,
+SOURCE=SR04 Document Tracking Report_103125_1010.csv,,,

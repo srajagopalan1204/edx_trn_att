@@ -1,0 +1,18 @@
+SourceFile,Module,Cnt,Entities,SOPs,SubSOPs
+SR04 Document Tracking Report_103125_1010.csv,01_Add Items to Stock Customer Sales Order,2,"PALCO, SE",SALES,02_Order Modification
+SR04 Document Tracking Report_103125_1010.csv,01_Create Invoice Process Group,2,"PALCO, SE",FINANCIAL,"ACCOUNTS PAYABLE, Accounts Payable"
+SR04 Document Tracking Report_103125_1010.csv,01_Create Purchase Order,2,"PALCO, SE",PURCHASING,01_Purchase Order Entry to Print
+SR04 Document Tracking Report_103125_1010.csv,01_Review the Shopping List,2,"PALCO, SE",SALES,03_Order Review
+SR04 Document Tracking Report_103125_1010.csv,02_Adjust Line Items,2,"PALCO, SE",SALES,02_Order Modification
+SR04 Document Tracking Report_103125_1010.csv,"02_Review Taxes, Totals, Payments for Stock Customer Sales Order",2,"PALCO, SE",SALES,03_Order Review
+SR04 Document Tracking Report_103125_1010.csv,03_Enter Stock Sales Order and Change Line Items,2,"PALCO, SE",SALES,02_Order Modification
+SR04 Document Tracking Report_103125_1010.csv,03_Use Order Inquiry to Search for Orders,2,"PALCO, SE",SALES,03_Order Review
+SR04 Document Tracking Report_103125_1010.csv,04_Add Catalog Product to Order,2,"PALCO, SE",SALES,05_Product Management
+SR04 Document Tracking Report_103125_1010.csv,"04_Add Comments, Notes to Customer Sales Order",2,"PALCO, SE",SALES,02_Order Modification
+SR04 Document Tracking Report_103125_1010.csv,04_View Units of Measure,2,"PALCO, SE",SALES,03_Order Review
+SR04 Document Tracking Report_103125_1010.csv,05_Account Inquiry and Report,2,"PALCO, SE",FINANCIAL,"GENERAL LEDGER, General Ledger"
+SR04 Document Tracking Report_103125_1010.csv,05_Manually Apply Hold and Approve Held Order,2,"PALCO, SE",SALES,02_Order Modification
+SR04 Document Tracking Report_103125_1010.csv,06_Add Operations,2,PALCO,ISM,01_Service Order Process
+SR04 Document Tracking Report_103125_1010.csv,06_Enter a Non-Stock Product on an Order,2,SE,SALES,01_Order Entry
+SR04 Document Tracking Report_103125_1010.csv,06_Suspend an Order,2,"PALCO, SE",SALES,02_Order Modification
+SR04 Document Tracking Report_103125_1010.csv,Quiz Level 2 | Sales,2,SE,"SALES, z_PLAYGROUND",Unknown

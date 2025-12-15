@@ -1,0 +1,13 @@
+{
+  // passing means Result column == "passed"
+  "pass_string": "passed",
+
+  // score below this is considered low for flagging in Exceptions
+  "flag_score_min": 70,
+
+  // earliest bucket granularity; can extend later
+  "time_bucket": "month",
+
+  // start-of-project timestamp for cycle time tracking
+  "project_start_ny": "2025-10-29T07:36:00-04:00"
+}

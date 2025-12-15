@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Training Attainment Run Checklist (latest)</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.4;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem 2rem;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    }
+    h1, h2, h3 { margin-top: 1.5rem; }
+    code, pre {
+      background: #f5f5f5;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #aaa;
+      padding: 0.5rem;
+      text-align: left;
+      font-size: 0.9rem;
+    }
+    th {
+      background: #eee;
+    }
+  </style>
+</head>
+<body>
+  <h1>Training Attainment Run Checklist (latest)</h1>
+  <p><strong>Project:</strong> UAP-based Training Attainment Management (edx_trn_att)</p>
+  <p><strong>Cycle start:</strong> Oct 29, 2025 @ 07:36 AM America/New_York</p>
+  <p><strong>Most recent run:</strong>         <p><strong>Most recent run:</strong> 2025-10-29 13:33 local time</p>
+    <p><strong>Latest output workbook:</strong> Outputs/Training_Attempts_Report_20251029_1333.xlsx</p>
+    <p><strong>Cycle time since 2025-10-29 07:36 AM ET:</strong> 5.95 hours</p>
+    </p>
+
+  <h2>What you (the operator) do each run</h2>
+  <ol>
+    <li>Drop newest CSV in <code>Inputs/</code> (SR04-Trn_Att_YYYYMMDD_HHMM.csv).</li>
+    <li>Update <code>Config/role_module_map.xlsx</code> if training requirements changed.</li>
+    <li>In Codespaces terminal, run:<br/>
+        <code>python Scripts/train_report.py</code></li>
+    <li>Open the newest Excel in <code>Outputs/</code>, send to managers.</li>
+    <li>Stop working. Go home. Sleep.</li>
+  </ol>
+
+  <h2>Key files this session</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Role</th>
+        <th>File / Script</th>
+        <th>Path</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Main report generator</td>
+        <td>train_report.py</td>
+        <td>Scripts/train_report.py</td>
+        <td>IN PROGRESS</td>
+      </tr>
+      <tr>
+        <td>Latest timestamped output</td>
+        <td>Training_Attempts_Report_YYYYMMDD_HHMM.xlsx</td>
+        <td>Outputs/</td>
+        <td>Will refresh each run</td>
+      </tr>
+      <tr>
+        <td>Requirements map R/N/Z</td>
+        <td>role_module_map.xlsx</td>
+        <td>Config/role_module_map.xlsx</td>
+        <td>Maintain manually</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Notes</h2>
+  <ul>
+    <li><strong>Exceptions tab</strong> in the Excel = who needs coaching now.</li>
+    <li><strong>Module_Risk tab</strong> = where training content itself is weak or confusing.</li>
+    <li><strong>Requirement_Matrix tab</strong> = role-based R / N / Z grid. If it's empty, update role_module_map.xlsx.</li>
+  </ul>
+
+    <p><strong>Most recent run:</strong> 2025-10-29 20:49 local time</p>
+    <p><strong>Latest output workbook:</strong> Outputs/Training_Attempts_Report_20251029_2049.xlsx</p>
+    <p><strong>Cycle time since 2025-10-29 07:36 AM ET:</strong> 13.23 hours</p>
+    
+</body>
+</html>

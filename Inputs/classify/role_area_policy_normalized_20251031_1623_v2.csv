@@ -1,0 +1,366 @@
+RoleName,Entity,SOP,SubSOP,Coverage
+Palco_Serv,PALCO,ISM,01_Service Order Process,ALL
+Palco_Serv,PALCO,ISM,02_Rental Process,ALL
+Palco_Serv,PALCO,ISM,03_Warranty Process,ALL
+Palco_Serv,PALCO,ISM,04_ISM Set Up,ALL
+Palco_Serv,PALCO,ISM,06_Register a Unit,ALL
+Palco_Serv,PALCO,ISM,07_Tech Mobile,ALL
+Palco_Serv,PALCO,ISM,08_PMA Service Orders,ALL
+Palco_Serv,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL
+Palco_Serv,PALCO,START UP,,ALL
+Palco_Serv,Scott Electric Distribution,Basics,,ALL
+Palco_sales,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL
+Palco_sales,PALCO,SALES,02_Order Modification,ALL
+Palco_sales,PALCO,SALES,03_Order Review,ALL
+Palco_sales,PALCO,SALES,05_Product Management,ALL
+Palco_sales,PALCO,SALES,Palco Specific Sales,ALL
+Palco_sales,Scott Electric Distribution,Basics,,ALL
+Palco_other,PALCO,FINANCIAL,ACCOUNTS PAYABLE,ALL
+Palco_other,PALCO,FINANCIAL,GENERAL LEDGER,ALL
+Palco_other,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL
+Palco_other,Scott Electric Distribution,Basics,,ALL
+PALCO_Mngt,PALCO,FINANCIAL,ACCOUNTS PAYABLE,ALL
+PALCO_Mngt,PALCO,FINANCIAL,GENERAL LEDGER,ALL
+PALCO_Mngt,PALCO,ISM,01_Service Order Process,ALL
+PALCO_Mngt,PALCO,ISM,02_Rental Process,ALL
+PALCO_Mngt,PALCO,ISM,03_Warranty Process,ALL
+PALCO_Mngt,PALCO,ISM,04_ISM Set Up,ALL
+PALCO_Mngt,PALCO,ISM,06_Register a Unit,ALL
+PALCO_Mngt,PALCO,ISM,07_Tech Mobile,ALL
+PALCO_Mngt,PALCO,ISM,08_PMA Service Orders,ALL
+PALCO_Mngt,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL
+PALCO_Mngt,PALCO,SALES,02_Order Modification,ALL
+PALCO_Mngt,PALCO,SALES,03_Order Review,ALL
+PALCO_Mngt,PALCO,SALES,05_Product Management,ALL
+PALCO_Mngt,PALCO,SALES,Palco Specific Sales,ALL
+PALCO_Mngt,PALCO,START UP,,ALL
+PALCO_Mngt,Scott Electric Distribution,Basics,,ALL
+AP Check,Scott Electric Distribution,Basics,,ALL
+AP Check,Scott Electric Distribution,FINANCIAL,,ALL
+AP Check,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+AP Check,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+AP Clerk,Scott Electric Distribution,Basics,,ALL
+AP Clerk,Scott Electric Distribution,FINANCIAL,,ALL
+AP Clerk,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+AP Clerk,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+AP Manager,Scott Electric Distribution,Basics,,ALL
+AP Manager,Scott Electric Distribution,FINANCIAL,,ALL
+AP Manager,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+AP Manager,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+AP Manager,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+AR_CLERK,Scott Electric Distribution,Basics,,ALL
+AR_CLERK,Scott Electric Distribution,FINANCIAL,,ALL
+AR_CLERK,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+AR_CLERK,Scott Electric Distribution,FINANCIAL,Credit,ALL
+AR_CLERK,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+AR_SUP,Scott Electric Distribution,Basics,,ALL
+AR_SUP,Scott Electric Distribution,FINANCIAL,,ALL
+AR_SUP,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+AR_SUP,Scott Electric Distribution,FINANCIAL,Credit,ALL
+AR_SUP,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+Cashier,Scott Electric Distribution,Basics,,ALL
+Cashier,Scott Electric Distribution,FINANCIAL,,ALL
+Cashier,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+Cashier,Scott Electric Distribution,FINANCIAL,Credit,ALL
+Cashier,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+Cashier/Cust Service,Scott Electric Distribution,Basics,,ALL
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,,ALL
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,Credit,ALL
+Cashier/Cust Service,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+Cashier/Customer Service,Scott Electric Distribution,Basics,,ALL
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,,ALL
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,Credit,ALL
+Cashier/Customer Service,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+CORE_ACT,Scott Electric Distribution,Basics,,ALL
+CORE_ACT,Scott Electric Distribution,FINANCIAL,,ALL
+CORE_ACT,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+CORE_ACT,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+CORE_ACT,Scott Electric Distribution,FINANCIAL,Credit,ALL
+CORE_ACT,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+CORE_MNS,Scott Electric Distribution,Basics,,ALL
+CORE_MNS,Scott Electric Distribution,FINANCIAL,,ALL
+CORE_MNS,Scott Electric Distribution,FINANCIAL,Credit,ALL
+CORE_MNS,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+CORE_MNS,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+CORE_MNS,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+CORE_MNS,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+CORE_MNS,Scott Electric Distribution,PURCHASING,,ALL
+CORE_MNS,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+CORE_MNS,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+CORE_MNS,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+CORE_MNS,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+CORE_MNS,Scott Electric Distribution,SALES,,ALL
+CORE_MNS,Scott Electric Distribution,SALES,01_Order Entry,ALL
+CORE_MNS,Scott Electric Distribution,SALES,02_Order Modification,ALL
+CORE_MNS,Scott Electric Distribution,SALES,03_Order Review,ALL
+CORE_MNS,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+CORE_MNS,Scott Electric Distribution,SALES,05_Product Management,ALL
+CORE_MNS,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+CORE_MNS,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+CORE_MNS,Scott Electric Distribution,SALES,BATTERY,ALL
+Counter,Scott Electric Distribution,Basics,,ALL
+Counter,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Counter,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Counter,Scott Electric Distribution,PURCHASING,,ALL
+Counter,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Counter,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Counter,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Counter,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Counter,Scott Electric Distribution,SALES,,ALL
+Counter,Scott Electric Distribution,SALES,01_Order Entry,ALL
+Counter,Scott Electric Distribution,SALES,02_Order Modification,ALL
+Counter,Scott Electric Distribution,SALES,03_Order Review,ALL
+Counter,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+Counter,Scott Electric Distribution,SALES,05_Product Management,ALL
+Counter,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+Counter,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+Counter,Scott Electric Distribution,SALES,BATTERY,ALL
+Counter M,Scott Electric Distribution,Basics,,ALL
+Counter M,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Counter M,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Counter M,Scott Electric Distribution,PURCHASING,,ALL
+Counter M,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Counter M,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Counter M,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Counter M,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Counter M,Scott Electric Distribution,SALES,,ALL
+Counter M,Scott Electric Distribution,SALES,01_Order Entry,ALL
+Counter M,Scott Electric Distribution,SALES,02_Order Modification,ALL
+Counter M,Scott Electric Distribution,SALES,03_Order Review,ALL
+Counter M,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+Counter M,Scott Electric Distribution,SALES,05_Product Management,ALL
+Counter M,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+Counter M,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+Counter M,Scott Electric Distribution,SALES,BATTERY,ALL
+Customer Service,Scott Electric Distribution,Basics,,ALL
+Customer Service,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Customer Service,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Customer Service,Scott Electric Distribution,PURCHASING,,ALL
+Customer Service,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Customer Service,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Customer Service,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Customer Service,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Customer Service,Scott Electric Distribution,SALES,,ALL
+Customer Service,Scott Electric Distribution,SALES,01_Order Entry,ALL
+Customer Service,Scott Electric Distribution,SALES,02_Order Modification,ALL
+Customer Service,Scott Electric Distribution,SALES,03_Order Review,ALL
+Customer Service,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+Customer Service,Scott Electric Distribution,SALES,05_Product Management,ALL
+Customer Service,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+Customer Service,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+Customer Service,Scott Electric Distribution,SALES,BATTERY,ALL
+Customer Service M,Scott Electric Distribution,Basics,,ALL
+Customer Service M,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Customer Service M,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Customer Service M,Scott Electric Distribution,PURCHASING,,ALL
+Customer Service M,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Customer Service M,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Customer Service M,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Customer Service M,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Customer Service M,Scott Electric Distribution,SALES,,ALL
+Customer Service M,Scott Electric Distribution,SALES,01_Order Entry,ALL
+Customer Service M,Scott Electric Distribution,SALES,02_Order Modification,ALL
+Customer Service M,Scott Electric Distribution,SALES,03_Order Review,ALL
+Customer Service M,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+Customer Service M,Scott Electric Distribution,SALES,05_Product Management,ALL
+Customer Service M,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+Customer Service M,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+Customer Service M,Scott Electric Distribution,SALES,BATTERY,ALL
+Inside Sales,Scott Electric Distribution,Basics,,ALL
+Inside Sales,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Inside Sales,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Inside Sales,Scott Electric Distribution,PURCHASING,,ALL
+Inside Sales,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Inside Sales,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Inside Sales,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Inside Sales,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Inside Sales,Scott Electric Distribution,SALES,,ALL
+Inside Sales,Scott Electric Distribution,SALES,01_Order Entry,ALL
+Inside Sales,Scott Electric Distribution,SALES,02_Order Modification,ALL
+Inside Sales,Scott Electric Distribution,SALES,03_Order Review,ALL
+Inside Sales,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+Inside Sales,Scott Electric Distribution,SALES,05_Product Management,ALL
+Inside Sales,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+Inside Sales,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+Inside Sales,Scott Electric Distribution,SALES,BATTERY,ALL
+OPS Managers - Manager,Scott Electric Distribution,Basics,,ALL
+OPS Managers - Manager,Scott Electric Distribution,OPERATIONS,,ALL
+OPS Managers - Manager,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+OPS Managers - Manager,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+OPS Managers - Manager,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+OPS Managers - Manager,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+OPS Warehouse - Basic,Scott Electric Distribution,Basics,,ALL
+OPS Warehouse - Basic,Scott Electric Distribution,OPERATIONS,,ALL
+OPS Warehouse - Basic,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+OPS Warehouse - Basic,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+OPS Warehouse - Basic,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+OPS Warehouse - Basic,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+OPS_REC,Scott Electric Distribution,Basics,,ALL
+OPS_REC,Scott Electric Distribution,OPERATIONS,,ALL
+OPS_REC,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+OPS_REC,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+OPS_REC,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+OPS_REC,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+OPS_SUP,Scott Electric Distribution,Basics,,ALL
+OPS_SUP,Scott Electric Distribution,OPERATIONS,,ALL
+OPS_SUP,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+OPS_SUP,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+OPS_SUP,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+OPS_SUP,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+OPS_WIRE,Scott Electric Distribution,Basics,,ALL
+OPS_WIRE,Scott Electric Distribution,OPERATIONS,,ALL
+OPS_WIRE,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+OPS_WIRE,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+OPS_WIRE,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+OPS_WIRE,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Outside Sales,Scott Electric Distribution,Basics,,ALL
+Outside Sales,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Outside Sales,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+PRI_BAS,Scott Electric Distribution,Basics,,ALL
+PRI_BAS,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+PRI_BAS,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+PRI_BAS,Scott Electric Distribution,PRICING,,ALL
+Purchasing Basic,Scott Electric Distribution,Basics,,ALL
+Purchasing Basic,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Purchasing Basic,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Purchasing Basic,Scott Electric Distribution,PURCHASING,,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+Purchasing Basic,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+Purchasing M,Scott Electric Distribution,Basics,,ALL
+Purchasing M,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Purchasing M,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Purchasing M,Scott Electric Distribution,PURCHASING,,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+Purchasing M,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+Returns Clerk,Scott Electric Distribution,Basics,,ALL
+Returns Clerk,Scott Electric Distribution,OPERATIONS,,ALL
+Returns Clerk,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+Returns Clerk,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Returns Clerk,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Returns Clerk,Scott Electric Distribution,PURCHASING,,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+Returns Clerk,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+Sales Managers,Scott Electric Distribution,Basics,,ALL
+Sales Managers,Scott Electric Distribution,FINANCIAL,,ALL
+Sales Managers,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+Sales Managers,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+Sales Managers,Scott Electric Distribution,FINANCIAL,Credit,ALL
+Sales Managers,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+Sales Managers,Scott Electric Distribution,OPERATIONS,,ALL
+Sales Managers,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+Sales Managers,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Sales Managers,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Sales Managers,Scott Electric Distribution,PURCHASING,,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+Sales Managers,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+SE_TLS_REP,Scott Electric Distribution,Basics,,ALL
+SE_TLS_REP,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+SE_TLS_REP,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+SE_TLS_REP,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+Special Sales,Scott Electric Distribution,Basics,,ALL
+Special Sales,Scott Electric Distribution,FINANCIAL,,ALL
+Special Sales,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+Special Sales,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+Special Sales,Scott Electric Distribution,FINANCIAL,Credit,ALL
+Special Sales,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+Special Sales,Scott Electric Distribution,OPERATIONS,,ALL
+Special Sales,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+Special Sales,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+Special Sales,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+Special Sales,Scott Electric Distribution,PURCHASING,,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+Special Sales,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+Special Sales,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+SysAdmin,PALCO,FINANCIAL,ACCOUNTS PAYABLE,ALL
+SysAdmin,PALCO,FINANCIAL,GENERAL LEDGER,ALL
+SysAdmin,PALCO,ISM,01_Service Order Process,ALL
+SysAdmin,PALCO,ISM,02_Rental Process,ALL
+SysAdmin,PALCO,ISM,03_Warranty Process,ALL
+SysAdmin,PALCO,ISM,04_ISM Set Up,ALL
+SysAdmin,PALCO,ISM,06_Register a Unit,ALL
+SysAdmin,PALCO,ISM,07_Tech Mobile,ALL
+SysAdmin,PALCO,ISM,08_PMA Service Orders,ALL
+SysAdmin,PALCO,PURCHASING,01_Purchase Order Entry to Print,ALL
+SysAdmin,PALCO,SALES,02_Order Modification,ALL
+SysAdmin,PALCO,SALES,03_Order Review,ALL
+SysAdmin,PALCO,SALES,05_Product Management,ALL
+SysAdmin,PALCO,SALES,Palco Specific Sales,ALL
+SysAdmin,PALCO,START UP,,ALL
+SysAdmin,Scott Electric Distribution,,,ALL
+SysAdmin,Scott Electric Distribution,Basics,,ALL
+SysAdmin,Scott Electric Distribution,FINANCIAL,,ALL
+SysAdmin,Scott Electric Distribution,FINANCIAL,Accounts Payable,ALL
+SysAdmin,Scott Electric Distribution,FINANCIAL,Accounts Receivable,ALL
+SysAdmin,Scott Electric Distribution,FINANCIAL,Credit,ALL
+SysAdmin,Scott Electric Distribution,FINANCIAL,General Ledger,ALL
+SysAdmin,Scott Electric Distribution,OPERATIONS,,ALL
+SysAdmin,Scott Electric Distribution,OPERATIONS,00_Basic Warehouse,ALL
+SysAdmin,Scott Electric Distribution,OPERATIONS,02_Warehouse,ALL
+SysAdmin,Scott Electric Distribution,PJM,01_Basic Bidding Process,NONE
+SysAdmin,Scott Electric Distribution,PJM,04_Customer Quote Creation,NONE
+SysAdmin,Scott Electric Distribution,PRICING,,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,01_Purchase Order Entry to Print,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,02_Replinishment Action Report Tasks,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,03_Basic Product Line Setup,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,04_PO Print to Receipt,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,05_Return Merchandise PO to Shipment,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,06.5_Run Reports,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,06_Demand Tasks (DEM),ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,07_Warehouse Transfers,ALL
+SysAdmin,Scott Electric Distribution,PURCHASING,08_Miscellaneous,ALL
+SysAdmin,Scott Electric Distribution,SALES,,ALL
+SysAdmin,Scott Electric Distribution,SALES,01_Order Entry,ALL
+SysAdmin,Scott Electric Distribution,SALES,02_Order Modification,ALL
+SysAdmin,Scott Electric Distribution,SALES,03_Order Review,ALL
+SysAdmin,Scott Electric Distribution,SALES,04_Order Copying and Conversion,ALL
+SysAdmin,Scott Electric Distribution,SALES,05_Product Management,ALL
+SysAdmin,Scott Electric Distribution,SALES,06_Lookup and Inquiry,ALL
+SysAdmin,Scott Electric Distribution,SALES,07_Wire Order Placement,ALL
+SysAdmin,Scott Electric Distribution,SALES,BATTERY,ALL
